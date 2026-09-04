@@ -1,0 +1,98 @@
+[
+  {
+    "title": "短对话 1 · 点餐",
+    "q": "Where does the conversation most probably take place?",
+    "o": [
+      "In a restaurant",
+      "In a library",
+      "In a bank",
+      "In a hospital"
+    ],
+    "a": 0,
+    "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
+  },
+  {
+    "title": "短对话 2 · 周末计划",
+    "q": "What does the woman plan to do this Saturday?",
+    "o": [
+      "Visit the science museum",
+      "Stay at home",
+      "Go swimming",
+      "See a film"
+    ],
+    "a": 0,
+    "script": "I am thinking about visiting the science museum this Saturday. Sounds great. Would you like me to join you?"
+  },
+  {
+    "title": "短对话 3 · 车站",
+    "q": "When does the next train to Beijing leave?",
+    "o": [
+      "At 8:30",
+      "At 9:00",
+      "At 9:30",
+      "At 10:00"
+    ],
+    "a": 2,
+    "script": "Could you tell me when the next train to Beijing leaves? It leaves at half past nine."
+  },
+  {
+    "title": "短对话 4 · 失物",
+    "q": "What is the man looking for?",
+    "o": [
+      "His keys",
+      "His student ID card",
+      "His wallet",
+      "His phone"
+    ],
+    "a": 1,
+    "script": "I cannot find my student ID card. Did you check your backpack? It might be inside."
+  },
+  {
+    "title": "短对话 5 · 天气",
+    "q": "What will the weather be like tomorrow?",
+    "o": [
+      "Sunny",
+      "Rainy",
+      "Cloudy",
+      "Snowy"
+    ],
+    "a": 1,
+    "script": "The weather report says it will rain tomorrow. Then we have to cancel the picnic."
+  },
+  {
+    "title": "短对话 6 · 预约",
+    "q": "When can the student talk with the professor?",
+    "o": [
+      "On Monday morning",
+      "On Friday afternoon",
+      "On Saturday",
+      "This evening"
+    ],
+    "a": 1,
+    "script": "Professor, could I talk to you about my paper? Sure. I am free on Friday afternoon."
+  },
+  {
+    "title": "短对话 7 · 购物",
+    "q": "How much does the shirt cost today?",
+    "o": [
+      "20 dollars",
+      "15 dollars",
+      "25 dollars",
+      "5 dollars"
+    ],
+    "a": 1,
+    "script": "This shirt was twenty dollars, but it is on sale for fifteen today. Great, I will take it."
+  },
+  {
+    "title": "短对话 8 · 爱好",
+    "q": "What is the woman's hobby?",
+    "o": [
+      "Collecting stamps",
+      "Playing chess",
+      "Taking photos",
+      "Cooking"
+    ],
+    "a": 0,
+    "script": "What do you like to do in your spare time? I enjoy collecting stamps."
+  }
+]

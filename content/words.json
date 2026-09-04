@@ -1,0 +1,674 @@
+[
+  {
+    "w": "abandon",
+    "ph": "ə'bændən",
+    "pos": "v.",
+    "cn": "放弃；抛弃",
+    "ex": "He abandoned his car in the snow."
+  },
+  {
+    "w": "ability",
+    "ph": "ə'bɪləti",
+    "pos": "n.",
+    "cn": "能力；才能",
+    "ex": "She has the ability to solve hard problems."
+  },
+  {
+    "w": "absorb",
+    "ph": "əb'zɔːb",
+    "pos": "v.",
+    "cn": "吸收；使专注",
+    "ex": "Plants absorb water through their roots."
+  },
+  {
+    "w": "abstract",
+    "ph": "'æbstrækt",
+    "pos": "adj. n.",
+    "cn": "抽象的；摘要",
+    "ex": "The idea sounds too abstract for me."
+  },
+  {
+    "w": "abundant",
+    "ph": "ə'bʌndənt",
+    "pos": "adj.",
+    "cn": "丰富的；充裕的",
+    "ex": "This area has abundant natural resources."
+  },
+  {
+    "w": "academic",
+    "ph": "ˌækə'demɪk",
+    "pos": "adj.",
+    "cn": "学术的；学业的",
+    "ex": "His academic performance improved a lot."
+  },
+  {
+    "w": "accelerate",
+    "ph": "ək'seləreɪt",
+    "pos": "v.",
+    "cn": "加速；促进",
+    "ex": "The car accelerated quickly on the highway."
+  },
+  {
+    "w": "access",
+    "ph": "'ækses",
+    "pos": "n. v.",
+    "cn": "通道；访问；获取",
+    "ex": "Students have free access to the library."
+  },
+  {
+    "w": "accompany",
+    "ph": "ə'kʌmpəni",
+    "pos": "v.",
+    "cn": "陪伴；伴随",
+    "ex": "I will accompany you to the station."
+  },
+  {
+    "w": "accomplish",
+    "ph": "ə'kɑːmplɪʃ",
+    "pos": "v.",
+    "cn": "完成；实现",
+    "ex": "We accomplished the task ahead of time."
+  },
+  {
+    "w": "accurate",
+    "ph": "'ækjərət",
+    "pos": "adj.",
+    "cn": "准确的；精确的",
+    "ex": "The report gives an accurate description."
+  },
+  {
+    "w": "achieve",
+    "ph": "ə'tʃiːv",
+    "pos": "v.",
+    "cn": "实现；达到；取得",
+    "ex": "She worked hard to achieve her dream."
+  },
+  {
+    "w": "acknowledge",
+    "ph": "ək'nɒlɪdʒ",
+    "pos": "v.",
+    "cn": "承认；致谢",
+    "ex": "He acknowledged his mistake at last."
+  },
+  {
+    "w": "acquire",
+    "ph": "ə'kwaɪə",
+    "pos": "v.",
+    "cn": "获得；习得",
+    "ex": "Children acquire language very quickly."
+  },
+  {
+    "w": "adapt",
+    "ph": "ə'dæpt",
+    "pos": "v.",
+    "cn": "适应；改编",
+    "ex": "It took me a week to adapt to the new job."
+  },
+  {
+    "w": "adequate",
+    "ph": "'ædɪkwət",
+    "pos": "adj.",
+    "cn": "足够的；胜任的",
+    "ex": "Make sure you get adequate sleep before the exam."
+  },
+  {
+    "w": "adjust",
+    "ph": "ə'dʒʌst",
+    "pos": "v.",
+    "cn": "调整；适应",
+    "ex": "You can adjust the volume with this button."
+  },
+  {
+    "w": "admire",
+    "ph": "əd'maɪə",
+    "pos": "v.",
+    "cn": "钦佩；欣赏",
+    "ex": "I admire her courage very much."
+  },
+  {
+    "w": "admit",
+    "ph": "əd'mɪt",
+    "pos": "v.",
+    "cn": "承认；准许进入",
+    "ex": "He admitted that he had made a mistake."
+  },
+  {
+    "w": "advocate",
+    "ph": "'ædvəkeɪt",
+    "pos": "v. n.",
+    "cn": "提倡；拥护者",
+    "ex": "Many experts advocate a healthy diet."
+  },
+  {
+    "w": "affect",
+    "ph": "ə'fekt",
+    "pos": "v.",
+    "cn": "影响；感动",
+    "ex": "The weather affects my mood."
+  },
+  {
+    "w": "afford",
+    "ph": "ə'fɔːd",
+    "pos": "v.",
+    "cn": "负担得起；提供",
+    "ex": "I cannot afford such an expensive car."
+  },
+  {
+    "w": "aggressive",
+    "ph": "ə'ɡresɪv",
+    "pos": "adj.",
+    "cn": "好斗的；进取的",
+    "ex": "An aggressive salesperson may scare customers."
+  },
+  {
+    "w": "alternative",
+    "ph": "ɔːl'tɜːnətɪv",
+    "pos": "n. adj.",
+    "cn": "替代方案；可选的",
+    "ex": "We need an alternative plan in case it rains."
+  },
+  {
+    "w": "ambiguous",
+    "ph": "æm'bɪɡjuəs",
+    "pos": "adj.",
+    "cn": "模棱两可的",
+    "ex": "His answer was ambiguous and unclear."
+  },
+  {
+    "w": "analyze",
+    "ph": "'ænəlaɪz",
+    "pos": "v.",
+    "cn": "分析；解析",
+    "ex": "We need to analyze the data carefully."
+  },
+  {
+    "w": "anticipate",
+    "ph": "æn'tɪsɪpeɪt",
+    "pos": "v.",
+    "cn": "预期；期待",
+    "ex": "We anticipate a rise in prices next year."
+  },
+  {
+    "w": "apparent",
+    "ph": "ə'pærənt",
+    "pos": "adj.",
+    "cn": "显然的；表面上的",
+    "ex": "It was apparent that he was tired."
+  },
+  {
+    "w": "appeal",
+    "ph": "ə'piːl",
+    "pos": "v. n.",
+    "cn": "呼吁；吸引；上诉",
+    "ex": "The design appeals to young people."
+  },
+  {
+    "w": "appreciate",
+    "ph": "ə'priːʃieɪt",
+    "pos": "v.",
+    "cn": "感激；欣赏",
+    "ex": "I really appreciate your help."
+  },
+  {
+    "w": "approach",
+    "ph": "ə'prəʊtʃ",
+    "pos": "n. v.",
+    "cn": "方法；接近",
+    "ex": "We need a new approach to the problem."
+  },
+  {
+    "w": "appropriate",
+    "ph": "ə'prəʊpriət",
+    "pos": "adj.",
+    "cn": "适当的；恰当的",
+    "ex": "Wear appropriate clothes for the interview."
+  },
+  {
+    "w": "approve",
+    "ph": "ə'pruːv",
+    "pos": "v.",
+    "cn": "批准；赞成",
+    "ex": "The committee approved the new plan."
+  },
+  {
+    "w": "arise",
+    "ph": "ə'raɪz",
+    "pos": "v.",
+    "cn": "出现；产生",
+    "ex": "New problems arise every day."
+  },
+  {
+    "w": "assess",
+    "ph": "ə'ses",
+    "pos": "v.",
+    "cn": "评估；评定",
+    "ex": "Teachers assess students by tests and essays."
+  },
+  {
+    "w": "assign",
+    "ph": "ə'saɪn",
+    "pos": "v.",
+    "cn": "分配；指派",
+    "ex": "The teacher assigned us two chapters to read."
+  },
+  {
+    "w": "assume",
+    "ph": "ə'suːm",
+    "pos": "v.",
+    "cn": "假定；承担",
+    "ex": "I assume that he will come on time."
+  },
+  {
+    "w": "attach",
+    "ph": "ə'tætʃ",
+    "pos": "v.",
+    "cn": "系上；附加；重视",
+    "ex": "Please attach a photo to your application."
+  },
+  {
+    "w": "attain",
+    "ph": "ə'teɪn",
+    "pos": "v.",
+    "cn": "达到；获得",
+    "ex": "He attained his goal through hard work."
+  },
+  {
+    "w": "attitude",
+    "ph": "'ætɪtjuːd",
+    "pos": "n.",
+    "cn": "态度；看法",
+    "ex": "A positive attitude is half the battle."
+  },
+  {
+    "w": "attribute",
+    "ph": "ə'trɪbjuːt",
+    "pos": "v.",
+    "cn": "把…归因于",
+    "ex": "She attributes her success to luck."
+  },
+  {
+    "w": "available",
+    "ph": "ə'veɪləbl",
+    "pos": "adj.",
+    "cn": "可获得的；有空的",
+    "ex": "Tickets are available at the front desk."
+  },
+  {
+    "w": "barrier",
+    "ph": "'bæriə",
+    "pos": "n.",
+    "cn": "障碍；栅栏",
+    "ex": "Language is often a barrier to communication."
+  },
+  {
+    "w": "benefit",
+    "ph": "'benɪfɪt",
+    "pos": "n. v.",
+    "cn": "益处；受益",
+    "ex": "Reading brings great benefit to children."
+  },
+  {
+    "w": "candidate",
+    "ph": "'kændɪdət",
+    "pos": "n.",
+    "cn": "候选人；应试者",
+    "ex": "She is a strong candidate for the job."
+  },
+  {
+    "w": "capable",
+    "ph": "'keɪpəbl",
+    "pos": "adj.",
+    "cn": "有能力的",
+    "ex": "He is capable of finishing the task alone."
+  },
+  {
+    "w": "capacity",
+    "ph": "kə'pæsəti",
+    "pos": "n.",
+    "cn": "容量；能力",
+    "ex": "The hall has a seating capacity of 500."
+  },
+  {
+    "w": "challenge",
+    "ph": "'tʃælɪndʒ",
+    "pos": "n. v.",
+    "cn": "挑战",
+    "ex": "Learning English is a big challenge for me."
+  },
+  {
+    "w": "circumstance",
+    "ph": "'sɜːkəmstæns",
+    "pos": "n.",
+    "cn": "环境；情况",
+    "ex": "Under no circumstances should you give up."
+  },
+  {
+    "w": "collapse",
+    "ph": "kə'læps",
+    "pos": "v. n.",
+    "cn": "倒塌；崩溃",
+    "ex": "The old bridge collapsed in the flood."
+  },
+  {
+    "w": "commit",
+    "ph": "kə'mɪt",
+    "pos": "v.",
+    "cn": "犯（错/罪）；承诺",
+    "ex": "He committed himself to the project."
+  },
+  {
+    "w": "community",
+    "ph": "kə'mjuːnəti",
+    "pos": "n.",
+    "cn": "社区；群体",
+    "ex": "The community organized a charity sale."
+  },
+  {
+    "w": "compensate",
+    "ph": "'kɒmpenseɪt",
+    "pos": "v.",
+    "cn": "补偿；赔偿",
+    "ex": "The company compensated him for the loss."
+  },
+  {
+    "w": "competent",
+    "ph": "'kɒmpɪtənt",
+    "pos": "adj.",
+    "cn": "能胜任的",
+    "ex": "She is competent in handling complaints."
+  },
+  {
+    "w": "complex",
+    "ph": "'kɒmpleks",
+    "pos": "adj. n.",
+    "cn": "复杂的；综合体",
+    "ex": "This is a complex question with no easy answer."
+  },
+  {
+    "w": "component",
+    "ph": "kəm'pəʊnənt",
+    "pos": "n.",
+    "cn": "组成部分；零件",
+    "ex": "Trust is a key component of friendship."
+  },
+  {
+    "w": "comprehensive",
+    "ph": "ˌkɒmprɪ'hensɪv",
+    "pos": "adj.",
+    "cn": "全面的；综合的",
+    "ex": "The book gives a comprehensive introduction."
+  },
+  {
+    "w": "concentrate",
+    "ph": "'kɒnsntreɪt",
+    "pos": "v.",
+    "cn": "集中；专心",
+    "ex": "I cannot concentrate with the noise outside."
+  },
+  {
+    "w": "concept",
+    "ph": "'kɒnsept",
+    "pos": "n.",
+    "cn": "概念；观念",
+    "ex": "The concept of time differs across cultures."
+  },
+  {
+    "w": "concern",
+    "ph": "kən'sɜːn",
+    "pos": "n. v.",
+    "cn": "担心；关心；涉及",
+    "ex": "The pollution problem concerns every citizen."
+  },
+  {
+    "w": "conclude",
+    "ph": "kən'kluːd",
+    "pos": "v.",
+    "cn": "得出结论；结束",
+    "ex": "We concluded that the plan was not practical."
+  },
+  {
+    "w": "conduct",
+    "ph": "kən'dʌkt",
+    "pos": "v. n.",
+    "cn": "实施；指挥；行为",
+    "ex": "The school conducted a survey on sleep."
+  },
+  {
+    "w": "confident",
+    "ph": "'kɒnfɪdənt",
+    "pos": "adj.",
+    "cn": "自信的；确信的",
+    "ex": "Stay confident when you speak English."
+  },
+  {
+    "w": "confirm",
+    "ph": "kən'fɜːm",
+    "pos": "v.",
+    "cn": "确认；证实",
+    "ex": "Please confirm your booking by email."
+  },
+  {
+    "w": "conflict",
+    "ph": "'kɒnflɪkt",
+    "pos": "n. v.",
+    "cn": "冲突；矛盾",
+    "ex": "The two reports are in conflict with each other."
+  },
+  {
+    "w": "confront",
+    "ph": "kən'frʌnt",
+    "pos": "v.",
+    "cn": "面对；对抗",
+    "ex": "We must confront the problem bravely."
+  },
+  {
+    "w": "consequence",
+    "ph": "'kɒnsɪkwəns",
+    "pos": "n.",
+    "cn": "后果；结果",
+    "ex": "Every choice has its consequences."
+  },
+  {
+    "w": "considerable",
+    "ph": "kən'sɪdərəbl",
+    "pos": "adj.",
+    "cn": "相当大的",
+    "ex": "The project needs a considerable amount of money."
+  },
+  {
+    "w": "consist",
+    "ph": "kən'sɪst",
+    "pos": "v.",
+    "cn": "由…组成",
+    "ex": "The team consists of five members."
+  },
+  {
+    "w": "constant",
+    "ph": "'kɒnstənt",
+    "pos": "adj.",
+    "cn": "持续不断的；不变的",
+    "ex": "Practice makes progress a constant process."
+  },
+  {
+    "w": "construct",
+    "ph": "kən'strʌkt",
+    "pos": "v.",
+    "cn": "建造；构建",
+    "ex": "The bridge was constructed in 2010."
+  },
+  {
+    "w": "consult",
+    "ph": "kən'sʌlt",
+    "pos": "v.",
+    "cn": "咨询；查阅",
+    "ex": "Consult a doctor if the pain continues."
+  },
+  {
+    "w": "consume",
+    "ph": "kən'sjuːm",
+    "pos": "v.",
+    "cn": "消耗；消费",
+    "ex": "This car consumes too much fuel."
+  },
+  {
+    "w": "contemporary",
+    "ph": "kən'tempərəri",
+    "pos": "adj.",
+    "cn": "当代的；同时代的",
+    "ex": "The museum shows contemporary art."
+  },
+  {
+    "w": "context",
+    "ph": "'kɒntekst",
+    "pos": "n.",
+    "cn": "上下文；背景",
+    "ex": "Guess the meaning of the word from context."
+  },
+  {
+    "w": "contribute",
+    "ph": "kən'trɪbjuːt",
+    "pos": "v.",
+    "cn": "贡献；促成",
+    "ex": "Everyone can contribute to protecting nature."
+  },
+  {
+    "w": "controversial",
+    "ph": "ˌkɒntrə'vɜːʃl",
+    "pos": "adj.",
+    "cn": "有争议的",
+    "ex": "The new policy is highly controversial."
+  },
+  {
+    "w": "convince",
+    "ph": "kən'vɪns",
+    "pos": "v.",
+    "cn": "说服；使确信",
+    "ex": "He convinced me that the plan would work."
+  },
+  {
+    "w": "cooperate",
+    "ph": "kəʊ'ɒpəreɪt",
+    "pos": "v.",
+    "cn": "合作；配合",
+    "ex": "The two schools cooperate on research."
+  },
+  {
+    "w": "critical",
+    "ph": "'krɪtɪkl",
+    "pos": "adj.",
+    "cn": "批判的；关键的",
+    "ex": "Critical thinking is highly valued today."
+  },
+  {
+    "w": "crucial",
+    "ph": "'kruːʃl",
+    "pos": "adj.",
+    "cn": "至关重要的",
+    "ex": "Sleep is crucial for memory."
+  },
+  {
+    "w": "cultivate",
+    "ph": "'kʌltɪveɪt",
+    "pos": "v.",
+    "cn": "培养；耕作",
+    "ex": "Reading helps cultivate the mind."
+  },
+  {
+    "w": "curriculum",
+    "ph": "kə'rɪkjələm",
+    "pos": "n.",
+    "cn": "课程（体系）",
+    "ex": "Music is not in the school curriculum."
+  },
+  {
+    "w": "decline",
+    "ph": "dɪ'klaɪn",
+    "pos": "v. n.",
+    "cn": "下降；婉拒",
+    "ex": "Sales declined by ten percent last month."
+  },
+  {
+    "w": "dedicate",
+    "ph": "'dedɪkeɪt",
+    "pos": "v.",
+    "cn": "献身；致力于",
+    "ex": "She dedicated herself to medical research."
+  },
+  {
+    "w": "demonstrate",
+    "ph": "'demənstreɪt",
+    "pos": "v.",
+    "cn": "证明；演示",
+    "ex": "The teacher demonstrated the experiment to us."
+  },
+  {
+    "w": "deny",
+    "ph": "dɪ'naɪ",
+    "pos": "v.",
+    "cn": "否认；拒绝",
+    "ex": "He denied stealing the money."
+  },
+  {
+    "w": "depress",
+    "ph": "dɪ'pres",
+    "pos": "v.",
+    "cn": "使沮丧；使萧条",
+    "ex": "Rainy days always depress me a little."
+  },
+  {
+    "w": "derive",
+    "ph": "dɪ'raɪv",
+    "pos": "v.",
+    "cn": "源于；获得",
+    "ex": "Many English words derive from Latin."
+  },
+  {
+    "w": "desperate",
+    "ph": "'despərət",
+    "pos": "adj.",
+    "cn": "绝望的；极渴望的",
+    "ex": "He was desperate for a glass of water."
+  },
+  {
+    "w": "determine",
+    "ph": "dɪ'tɜːmɪn",
+    "pos": "v.",
+    "cn": "决定；下决心",
+    "ex": "Hard work determines your final grade."
+  },
+  {
+    "w": "diverse",
+    "ph": "daɪ'vɜːs",
+    "pos": "adj.",
+    "cn": "多样的；不同的",
+    "ex": "The city has a diverse population."
+  },
+  {
+    "w": "dominate",
+    "ph": "'dɒmɪneɪt",
+    "pos": "v.",
+    "cn": "支配；占主导",
+    "ex": "The company dominates the local market."
+  },
+  {
+    "w": "duration",
+    "ph": "dju'reɪʃn",
+    "pos": "n.",
+    "cn": "持续时间",
+    "ex": "The course has a duration of eight weeks."
+  },
+  {
+    "w": "efficient",
+    "ph": "ɪ'fɪʃnt",
+    "pos": "adj.",
+    "cn": "高效的",
+    "ex": "This is an efficient way to learn words."
+  },
+  {
+    "w": "eliminate",
+    "ph": "ɪ'lɪmɪneɪt",
+    "pos": "v.",
+    "cn": "消除；淘汰",
+    "ex": "We should eliminate bad habits step by step."
+  }
+]

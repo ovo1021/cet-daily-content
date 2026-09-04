@@ -1,0 +1,92 @@
+{
+  "date": "2026-09-04",
+  "publishAt": "2026-09-04T00:10:00+08:00",
+  "day": 96,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-09-04 · 今日词包 Day 96",
+    "words": [
+      {
+        "w": "candidate",
+        "ph": "'kændɪdət",
+        "pos": "n.",
+        "cn": "候选人；应试者",
+        "ex": "She is a strong candidate for the job."
+      },
+      {
+        "w": "attach",
+        "ph": "ə'tætʃ",
+        "pos": "v.",
+        "cn": "系上；附加；重视",
+        "ex": "Please attach a photo to your application."
+      },
+      {
+        "w": "critical",
+        "ph": "'krɪtɪkl",
+        "pos": "adj.",
+        "cn": "批判的；关键的",
+        "ex": "Critical thinking is highly valued today."
+      },
+      {
+        "w": "challenge",
+        "ph": "'tʃælɪndʒ",
+        "pos": "n. v.",
+        "cn": "挑战",
+        "ex": "Learning English is a big challenge for me."
+      },
+      {
+        "w": "appreciate",
+        "ph": "ə'priːʃieɪt",
+        "pos": "v.",
+        "cn": "感激；欣赏",
+        "ex": "I really appreciate your help."
+      },
+      {
+        "w": "concentrate",
+        "ph": "'kɒnsntreɪt",
+        "pos": "v.",
+        "cn": "集中；专心",
+        "ex": "I cannot concentrate with the noise outside."
+      }
+    ],
+    "quiz": {
+      "q": "The government has taken measures to ______ the spread of the disease.",
+      "o": [
+        "prevent",
+        "pretend",
+        "present",
+        "preserve"
+      ],
+      "a": 0,
+      "why": "prevent the spread 阻止扩散；preserve 保存。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "应试",
+      "text": "四六级满分 710，425 分通过；写作与翻译各占 106.5，听力与阅读各占 248.5。"
+    },
+    "listening": {
+      "title": "短对话 8 · 爱好",
+      "q": "What is the woman's hobby?",
+      "o": [
+        "Collecting stamps",
+        "Playing chess",
+        "Taking photos",
+        "Cooking"
+      ],
+      "a": 0,
+      "script": "What do you like to do in your spare time? I enjoy collecting stamps."
+    },
+    "sentence": {
+      "en": "I cannot concentrate with the noise outside.",
+      "word": "concentrate",
+      "cn": "集中；专心"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 96
+  }
+}

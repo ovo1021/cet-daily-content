@@ -1,0 +1,112 @@
+[
+  {
+    "q": "The doctor advised him to stop smoking, but he did not take the ______ seriously.",
+    "o": [
+      "advice",
+      "advance",
+      "advantage",
+      "adventure"
+    ],
+    "a": 0,
+    "why": "take the advice 意为“听从建议”。"
+  },
+  {
+    "q": "More and more people realize the ______ of protecting the environment.",
+    "o": [
+      "importance",
+      "improvement",
+      "imagination",
+      "invitation"
+    ],
+    "a": 0,
+    "why": "the importance of… 意为“……的重要性”。"
+  },
+  {
+    "q": "The little boy showed great ______ in music and could play the piano at four.",
+    "o": [
+      "interest",
+      "interesting",
+      "interested",
+      "interests"
+    ],
+    "a": 0,
+    "why": "show interest in… 对……表现出兴趣。interest 为名词。"
+  },
+  {
+    "q": "Many students find it hard to ______ new words in their minds.",
+    "o": [
+      "remember",
+      "remind",
+      "remain",
+      "remove"
+    ],
+    "a": 0,
+    "why": "remember 记住；remind 提醒；remain 保持；remove 移除。"
+  },
+  {
+    "q": "Please ______ your homework carefully before you hand it in.",
+    "o": [
+      "check",
+      "chance",
+      "change",
+      "charge"
+    ],
+    "a": 0,
+    "why": "check 检查；hand in 上交。"
+  },
+  {
+    "q": "They ______ a class meeting to discuss the plan last Friday.",
+    "o": [
+      "held",
+      "took",
+      "made",
+      "had"
+    ],
+    "a": 0,
+    "why": "hold a meeting 举行会议，过去式为 held。"
+  },
+  {
+    "q": "The science museum is open every day ______ Monday.",
+    "o": [
+      "except",
+      "expect",
+      "accept",
+      "affect"
+    ],
+    "a": 0,
+    "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。"
+  },
+  {
+    "q": "If you do not know a word, you can ______ it in a dictionary.",
+    "o": [
+      "look up",
+      "look after",
+      "look for",
+      "look out"
+    ],
+    "a": 0,
+    "why": "look up a word in a dictionary 在词典中查词。"
+  },
+  {
+    "q": "You are supposed to ______ the library books on time.",
+    "o": [
+      "return",
+      "remain",
+      "repair",
+      "repeat"
+    ],
+    "a": 0,
+    "why": "return the books 还书；be supposed to 应该。"
+  },
+  {
+    "q": "Spring in the south is warm and ______, which makes people feel good.",
+    "o": [
+      "comfortable",
+      "common",
+      "confident",
+      "complete"
+    ],
+    "a": 0,
+    "why": "comfortable 舒适的；common 普通的；confident 自信的。"
+  }
+]

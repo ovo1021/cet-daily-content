@@ -1,0 +1,112 @@
+[
+  {
+    "q": "The results of the experiment will be ______ in the next issue of the journal.",
+    "o": [
+      "published",
+      "polished",
+      "punished",
+      "purchased"
+    ],
+    "a": 0,
+    "why": "publish 发表；polish 打磨；punish 惩罚；purchase 购买。"
+  },
+  {
+    "q": "Her outstanding performance won ______ from both teachers and classmates.",
+    "o": [
+      "admiration",
+      "admission",
+      "administration",
+      "ambition"
+    ],
+    "a": 0,
+    "why": "win admiration 赢得赞赏；admission 准许进入。"
+  },
+  {
+    "q": "It is difficult to ______ the exact cause of the accident.",
+    "o": [
+      "determine",
+      "decline",
+      "decorate",
+      "decrease"
+    ],
+    "a": 0,
+    "why": "determine 确定；decline 下降/婉拒；decorate 装饰。"
+  },
+  {
+    "q": "The government has taken measures to ______ the spread of the disease.",
+    "o": [
+      "prevent",
+      "pretend",
+      "present",
+      "preserve"
+    ],
+    "a": 0,
+    "why": "prevent the spread 阻止扩散；preserve 保存。"
+  },
+  {
+    "q": "Children should be encouraged to think ______ instead of following others blindly.",
+    "o": [
+      "independently",
+      "impatiently",
+      "impossibly",
+      "increasingly"
+    ],
+    "a": 0,
+    "why": "think independently 独立思考。"
+  },
+  {
+    "q": "The manager ______ the importance of teamwork again and again in his speech.",
+    "o": [
+      "emphasized",
+      "entertained",
+      "estimated",
+      "eliminated"
+    ],
+    "a": 0,
+    "why": "emphasize 强调；entertain 使娱乐；estimate 估计。"
+  },
+  {
+    "q": "It is reported that the new medicine is quite ______ against this kind of disease.",
+    "o": [
+      "effective",
+      "efficient",
+      "expensive",
+      "essential"
+    ],
+    "a": 0,
+    "why": "be effective against… 对……有效；efficient 指“高效的”。"
+  },
+  {
+    "q": "After months of consideration, she made a ______ decision to study abroad next year.",
+    "o": [
+      "final",
+      "financial",
+      "former",
+      "familiar"
+    ],
+    "a": 0,
+    "why": "make a final decision 做最终决定。"
+  },
+  {
+    "q": "The two countries agreed to ______ a new trade agreement.",
+    "o": [
+      "sign",
+      "sing",
+      "sink",
+      "sight"
+    ],
+    "a": 0,
+    "why": "sign an agreement 签署协议；sight 视力/景象（名词）。"
+  },
+  {
+    "q": "We should ______ every opportunity to practise our spoken English.",
+    "o": [
+      "seize",
+      "size",
+      "site",
+      "sigh"
+    ],
+    "a": 0,
+    "why": "seize the opportunity 抓住机会。"
+  }
+]

@@ -94,5 +94,605 @@
     ],
     "a": 0,
     "script": "What do you like to do in your spare time? I enjoy collecting stamps."
+  },
+  {
+    "title": "短对话 9 · 借书",
+    "q": "What does the man want to do?",
+    "o": [
+      "Borrow a book",
+      "Return a book",
+      "Buy a dictionary",
+      "Renew his card"
+    ],
+    "a": 0,
+    "script": "Excuse me, can I borrow this novel? Sure, but you need your library card. Here you are."
+  },
+  {
+    "title": "短对话 10 · 看病",
+    "q": "What is wrong with the woman?",
+    "o": [
+      "She has a headache",
+      "She has a fever",
+      "She hurt her leg",
+      "She cannot sleep"
+    ],
+    "a": 1,
+    "script": "You look pale. I think I have a fever and my throat hurts. Let me take your temperature."
+  },
+  {
+    "title": "短对话 11 · 面试",
+    "q": "What job is the woman applying for?",
+    "o": [
+      "A teacher",
+      "A salesperson",
+      "A designer",
+      "A reporter"
+    ],
+    "a": 2,
+    "script": "Why do you want to work in our company? I am a designer and I love creating new products."
+  },
+  {
+    "title": "短对话 12 · 旅行",
+    "q": "Where did the man go last summer?",
+    "o": [
+      "To the beach",
+      "To the mountains",
+      "To a big city",
+      "To his hometown"
+    ],
+    "a": 3,
+    "script": "Did you travel abroad last summer? No, I went back to my hometown and visited my grandparents."
+  },
+  {
+    "title": "短对话 13 · 付款",
+    "q": "How will the man pay?",
+    "o": [
+      "By cash",
+      "By card",
+      "By phone",
+      "By check"
+    ],
+    "a": 2,
+    "script": "That is thirty yuan in total. I will pay by phone. OK, just scan the code on the desk."
+  },
+  {
+    "title": "短对话 14 · 宿舍",
+    "q": "What does the woman ask the man to do?",
+    "o": [
+      "Open the window",
+      "Turn down the music",
+      "Clean the floor",
+      "Turn off the light"
+    ],
+    "a": 1,
+    "script": "Could you turn down the music? I am trying to review for the exam. Sorry, I will do it now."
+  },
+  {
+    "title": "短对话 15 · 迟到",
+    "q": "Why is the man late?",
+    "o": [
+      "He missed the bus",
+      "He got up late",
+      "The traffic was heavy",
+      "He lost his way"
+    ],
+    "a": 2,
+    "script": "Sorry I am late for class. The traffic was really heavy because of the rain."
+  },
+  {
+    "title": "短对话 16 · 健身",
+    "q": "What sport does the man suggest?",
+    "o": [
+      "Swimming",
+      "Running",
+      "Playing basketball",
+      "Riding a bike"
+    ],
+    "a": 3,
+    "script": "I want to keep fit. Why not ride a bike to school every day? It is good exercise."
+  },
+  {
+    "title": "短对话 17 · 礼物",
+    "q": "What did the woman buy?",
+    "o": [
+      "A book",
+      "A scarf",
+      "A cake",
+      "A plant"
+    ],
+    "a": 1,
+    "script": "I bought a silk scarf for my mother's birthday. She will love the color."
+  },
+  {
+    "title": "短对话 18 · 通勤",
+    "q": "How does the woman go to work?",
+    "o": [
+      "By subway",
+      "By bus",
+      "By car",
+      "On foot"
+    ],
+    "a": 0,
+    "script": "How do you get to the office? I take the subway. It is faster than the bus during rush hour."
+  },
+  {
+    "title": "短对话 19 · 电影",
+    "q": "What time does the film start?",
+    "o": [
+      "At 7:00",
+      "At 7:30",
+      "At 8:00",
+      "At 8:30"
+    ],
+    "a": 1,
+    "script": "What time is the movie? It starts at half past seven, so we should leave now."
+  },
+  {
+    "title": "短对话 20 · 作业",
+    "q": "When is the report due?",
+    "o": [
+      "Tomorrow",
+      "This Friday",
+      "Next Monday",
+      "Next month"
+    ],
+    "a": 2,
+    "script": "When should we hand in the report? The teacher said it is due next Monday."
+  },
+  {
+    "title": "长对话 1 · 选课",
+    "q": "What subject does the woman finally choose?",
+    "o": [
+      "History",
+      "Computer science",
+      "Psychology",
+      "Art"
+    ],
+    "a": 1,
+    "script": "I cannot decide which course to take this term. How about computer science? It is useful and the teacher is great. You are right, I will take it."
+  },
+  {
+    "title": "长对话 2 · 租房",
+    "q": "What is the problem with the apartment?",
+    "o": [
+      "It is too small",
+      "It is too noisy",
+      "The rent is high",
+      "It is far from school"
+    ],
+    "a": 1,
+    "script": "I found a cheap apartment near the park. Is it quiet? Not really. There is a busy road next to it, so it can be noisy at night."
+  },
+  {
+    "title": "长对话 3 · 面试",
+    "q": "What does the company value most?",
+    "o": [
+      "Work experience",
+      "Team spirit",
+      "Foreign language skill",
+      "Computer skill"
+    ],
+    "a": 1,
+    "script": "Tell me about yourself. I am good at working with others. Our team likes that, because we often do projects together. That is exactly what we need."
+  },
+  {
+    "title": "长对话 4 · 旅行计划",
+    "q": "Which city will they visit first?",
+    "o": [
+      "Beijing",
+      "Shanghai",
+      "Xi'an",
+      "Chengdu"
+    ],
+    "a": 2,
+    "script": "Where should we go first on our trip? I suggest Xi'an. We can see the old city wall, then take the train to Chengdu for the food."
+  },
+  {
+    "title": "长对话 5 · 健康饮食",
+    "q": "Why does the man stop eating fast food?",
+    "o": [
+      "It is too expensive",
+      "It makes him sick",
+      "He wants to lose weight",
+      "The shop closed"
+    ],
+    "a": 2,
+    "script": "You look thinner. Yes, I stopped eating fast food last month. I want to lose some weight and feel healthier."
+  },
+  {
+    "title": "长对话 6 · 图书馆研究",
+    "q": "What is the man's paper about?",
+    "o": [
+      "Air pollution",
+      "Online learning",
+      "City transport",
+      "Social media"
+    ],
+    "a": 1,
+    "script": "How is your paper going? Slow but fine. It is about online learning and how students study at home. I need more examples."
+  },
+  {
+    "title": "长对话 7 · 志愿服务",
+    "q": "What will the woman do this weekend?",
+    "o": [
+      "Visit a museum",
+      "Teach children",
+      "Plant trees",
+      "Clean the park"
+    ],
+    "a": 1,
+    "script": "Any plans for the weekend? I will volunteer at the community center. We teach primary school kids to read. That sounds meaningful."
+  },
+  {
+    "title": "长对话 8 · 网购",
+    "q": "Why is the woman unhappy?",
+    "o": [
+      "The price went up",
+      "The product is late",
+      "The color is wrong",
+      "The size is small"
+    ],
+    "a": 2,
+    "script": "I ordered a blue dress online, but they sent a red one. That is annoying. You should ask for a return."
+  },
+  {
+    "title": "长对话 9 · 实习",
+    "q": "What does the man learn from the internship?",
+    "o": [
+      "How to write code",
+      "How to manage time",
+      "How to give a speech",
+      "How to cook"
+    ],
+    "a": 1,
+    "script": "How was your internship? Busy but useful. I learned how to manage my time and finish tasks on schedule."
+  },
+  {
+    "title": "长对话 10 · 环保",
+    "q": "What does the woman do to help the environment?",
+    "o": [
+      "Ride a bike",
+      "Use less plastic",
+      "Plant flowers",
+      "Save water"
+    ],
+    "a": 1,
+    "script": "Do you care about the environment? Yes, I bring my own bag to the supermarket so I use less plastic."
+  },
+  {
+    "title": "长对话 11 · 音乐节",
+    "q": "What kind of music will they enjoy?",
+    "o": [
+      "Classical",
+      "Pop",
+      "Jazz",
+      "Folk"
+    ],
+    "a": 2,
+    "script": "There is a music festival in the park on Sunday. What style is it? Mostly jazz. Let us go and relax."
+  },
+  {
+    "title": "长对话 12 · 搬家",
+    "q": "When will the man move?",
+    "o": [
+      "This weekend",
+      "Next week",
+      "Next month",
+      "Next year"
+    ],
+    "a": 1,
+    "script": "Are you still living downtown? No, I found a new flat. I will move next week, closer to my office."
+  },
+  {
+    "title": "长对话 13 · 创业",
+    "q": "What business does the woman plan to start?",
+    "o": [
+      "A coffee shop",
+      "A book store",
+      "A fitness club",
+      "A flower shop"
+    ],
+    "a": 0,
+    "script": "I saved some money and want to start a business. A small coffee shop near the university? Great idea, students love coffee."
+  },
+  {
+    "title": "长对话 14 · 读书会",
+    "q": "What book are they reading?",
+    "o": [
+      "A novel",
+      "A science book",
+      "A history book",
+      "A travel guide"
+    ],
+    "a": 1,
+    "script": "Our reading club meets on Friday. This month we read a science book about the ocean. I learned a lot from it."
+  },
+  {
+    "title": "长对话 15 · 运动受伤",
+    "q": "What happened to the man?",
+    "o": [
+      "He broke his arm",
+      "He hurt his knee",
+      "He had a cold",
+      "He cut his hand"
+    ],
+    "a": 1,
+    "script": "You did not play basketball today. I hurt my knee during the last match. The doctor said I need rest for two weeks."
+  },
+  {
+    "title": "长对话 16 · 报班",
+    "q": "Why does the woman take the course?",
+    "o": [
+      "To find a job",
+      "To pass an exam",
+      "To make friends",
+      "To travel abroad"
+    ],
+    "a": 3,
+    "script": "Why do you take the English course? I plan to travel abroad next year, so I need to speak better."
+  },
+  {
+    "title": "短文 1 · 气候变化",
+    "q": "What is the main topic of the passage?",
+    "o": [
+      "Rising sea levels",
+      "Recycling at home",
+      "Saving endangered animals",
+      "Building green cities"
+    ],
+    "a": 0,
+    "script": "Many scientists warn that the earth is getting warmer. As ice in the polar areas melts, sea levels rise and some small islands may disappear. To slow this, people should use clean energy and cut carbon emissions."
+  },
+  {
+    "title": "短文 2 · 人工智能",
+    "q": "What can the new tool help users do?",
+    "o": [
+      "Cook meals",
+      "Translate languages",
+      "Drive a car",
+      "Write music"
+    ],
+    "a": 1,
+    "script": "Artificial intelligence is changing our lives. A new tool can translate between dozens of languages in seconds. It helps travelers talk with local people and helps students read foreign books."
+  },
+  {
+    "title": "短文 3 · 阅读习惯",
+    "q": "What does the speaker suggest students do?",
+    "o": [
+      "Read faster",
+      "Read every day",
+      "Read only textbooks",
+      "Read on screens"
+    ],
+    "a": 1,
+    "script": "Good readers read a little every day. You do not need to finish a thick book at once. Even ten pages a day builds knowledge and improves your writing over time."
+  },
+  {
+    "title": "短文 4 · 传统节日",
+    "q": "What is special about the festival?",
+    "o": [
+      "It lasts one day",
+      "Families gather and eat together",
+      "People wear new clothes",
+      "It is only for children"
+    ],
+    "a": 1,
+    "script": "The Spring Festival is the most important holiday in China. Families travel home and share a big dinner on New Year's Eve. They also watch TV and set off fireworks to welcome the new year."
+  },
+  {
+    "title": "短文 5 · 睡眠健康",
+    "q": "What does the speaker say about sleep?",
+    "o": [
+      "Six hours is enough",
+      "Sleep helps memory",
+      "Coffee improves sleep",
+      "Late sleep is fine"
+    ],
+    "a": 1,
+    "script": "Students often stay up late, but sleep is vital. While we sleep, the brain sorts what we learned during the day. Enough sleep helps memory and keeps us focused in class."
+  },
+  {
+    "title": "短文 6 · 理性消费",
+    "q": "What advice does the speaker give?",
+    "o": [
+      "Buy the cheapest thing",
+      "Make a shopping list",
+      "Shop every weekend",
+      "Use credit cards often"
+    ],
+    "a": 1,
+    "script": "Smart shopping saves money. Before you go to the mall, make a list of what you really need. This stops you from buying things on impulse and wasting your pocket money."
+  },
+  {
+    "title": "短文 7 · 印刷术",
+    "q": "What did the invention change?",
+    "o": [
+      "Farming",
+      "The spread of books",
+      "Sea travel",
+      "Painting"
+    ],
+    "a": 1,
+    "script": "Centuries ago, books were copied by hand, so they were rare and costly. After printing was invented, books could be made quickly and cheaply. Knowledge then spread to more common people."
+  },
+  {
+    "title": "短文 8 · 职场沟通",
+    "q": "What makes a good team member?",
+    "o": [
+      "Working alone",
+      "Listening to others",
+      "Speaking the most",
+      "Avoiding meetings"
+    ],
+    "a": 1,
+    "script": "In the workplace, good communication matters. A strong team member listens to others and shares ideas clearly. When people respect different views, projects run more smoothly."
+  },
+  {
+    "title": "短文 9 · 城市交通",
+    "q": "What helps reduce traffic jams?",
+    "o": [
+      "More cars",
+      "Public transport",
+      "Wider roads only",
+      "Higher fuel price"
+    ],
+    "a": 1,
+    "script": "Big cities often face heavy traffic. One good solution is to improve public transport. When buses and subways are fast and cheap, more people leave their cars at home."
+  },
+  {
+    "title": "短文 10 · 太空探索",
+    "q": "Why do scientists explore space?",
+    "o": [
+      "To find new homes",
+      "To learn about the universe",
+      "To build hotels",
+      "To mine gold"
+    ],
+    "a": 1,
+    "script": "Rockets now carry robots to distant planets. Scientists explore space to learn how the universe began and whether life exists elsewhere. Each mission brings new surprises."
+  },
+  {
+    "title": "短文 11 · 饮食习惯",
+    "q": "What does a balanced diet include?",
+    "o": [
+      "Only meat",
+      "Only vegetables",
+      "Different food groups",
+      "Skipping breakfast"
+    ],
+    "a": 2,
+    "script": "A balanced diet keeps us healthy. It should include grains, vegetables, fruit, and some protein like eggs or fish. Eating many kinds of food gives the body the energy it needs."
+  },
+  {
+    "title": "短文 12 · 自然保护",
+    "q": "What can people do to protect nature?",
+    "o": [
+      "Cut more trees",
+      "Join clean-up activities",
+      "Use more plastic",
+      "Hunt wild animals"
+    ],
+    "a": 1,
+    "script": "Our planet faces many problems, but everyone can help. Joining a river or beach clean-up is a simple start. Small actions by many people can protect animals and clean the environment."
+  },
+  {
+    "title": "短文 13 · 博物馆",
+    "q": "What can visitors do in the museum?",
+    "o": [
+      "Buy old paintings",
+      "Learn local history",
+      "Take photos of art",
+      "Sleep overnight"
+    ],
+    "a": 1,
+    "script": "The city museum is free on weekends. Inside, you can see tools from hundreds of years ago and learn the local history. Guides explain how people lived in the past."
+  },
+  {
+    "title": "短文 14 · 奥林匹克",
+    "q": "What is the spirit of the games?",
+    "o": [
+      "Winning at all costs",
+      "Taking part and friendship",
+      "Earning money",
+      "Traveling the world"
+    ],
+    "a": 1,
+    "script": "The Olympic Games bring athletes from many countries together. The most important thing is not only winning, but taking part and building friendship among nations."
+  },
+  {
+    "title": "短文 15 · 网络安全",
+    "q": "What should users do online?",
+    "o": [
+      "Share passwords",
+      "Protect personal data",
+      "Click all links",
+      "Trust strangers"
+    ],
+    "a": 1,
+    "script": "The internet is useful, but not always safe. Users should protect their personal data and not share passwords. Before clicking a link, check if the website is real to avoid scams."
+  },
+  {
+    "title": "短文 16 · 语言学习",
+    "q": "What helps you learn a language well?",
+    "o": [
+      "Memorize grammar only",
+      "Practice with real use",
+      "Avoid speaking",
+      "Study one day a year"
+    ],
+    "a": 1,
+    "script": "Learning a language takes practice, not just books. Try to speak with others, watch films, and listen to songs in that language. Real use helps words stay in your memory."
+  },
+  {
+    "title": "短文 17 · 志愿服务",
+    "q": "What do volunteers often gain?",
+    "o": [
+      "High pay",
+      "New skills and friends",
+      "Free travel",
+      "Fame"
+    ],
+    "a": 1,
+    "script": "Volunteering asks for time, not money. In return, young people gain new skills and make friends. Helping others also brings a strong sense of happiness."
+  },
+  {
+    "title": "短文 18 · 时间管理",
+    "q": "What is the speaker's key tip?",
+    "o": [
+      "Do everything at once",
+      "Plan your day",
+      "Avoid breaks",
+      "Work all night"
+    ],
+    "a": 1,
+    "script": "Many students feel busy but achieve little. The secret is to plan your day. Write down the three most important tasks each morning, and do them before checking your phone."
+  },
+  {
+    "title": "长对话 17 · 毕业打算",
+    "q": "What will the man do after graduation?",
+    "o": [
+      "Study abroad",
+      "Start a job",
+      "Open a shop",
+      "Take a gap year"
+    ],
+    "a": 1,
+    "script": "What is your plan after graduation? I already got a job offer from a tech company. I will start working this summer."
+  },
+  {
+    "title": "长对话 18 · 摄影",
+    "q": "What does the woman like to photograph?",
+    "o": [
+      "People",
+      "Buildings",
+      "Nature",
+      "Food"
+    ],
+    "a": 2,
+    "script": "I took many photos during the trip. What do you like shooting? Mostly nature, like mountains and rivers. They help me relax."
+  },
+  {
+    "title": "长对话 19 · 节约用水",
+    "q": "What does the man do to save water?",
+    "o": [
+      "Take short showers",
+      "Water the garden",
+      "Wash the car daily",
+      "Leave the tap on"
+    ],
+    "a": 0,
+    "script": "We should save water at home. I take short showers instead of baths. Good habit. I also fix leaking taps right away."
+  },
+  {
+    "title": "长对话 20 · 社团",
+    "q": "Which club will the woman join?",
+    "o": [
+      "The dance club",
+      "The debate club",
+      "The chess club",
+      "The music club"
+    ],
+    "a": 1,
+    "script": "There are so many clubs on campus. I will join the debate club. It improves my speaking. That sounds challenging but fun."
   }
 ]

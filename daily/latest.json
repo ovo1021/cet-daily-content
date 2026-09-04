@@ -7,46 +7,46 @@
     "headline": "2026-09-05 · 今日词包 Day 97",
     "words": [
       {
-        "w": "concept",
-        "ph": "'kɒnsept",
+        "w": "decision",
+        "ph": "/dɪˈsɪʒn/",
         "pos": "n.",
-        "cn": "概念；观念",
-        "ex": "The concept of time differs across cultures."
+        "cn": "决定；决议",
+        "ex": "We need a quick decision."
       },
       {
-        "w": "cultivate",
-        "ph": "'kʌltɪveɪt",
+        "w": "undergo",
+        "ph": "/ˌʌndəˈɡəʊ/",
         "pos": "v.",
-        "cn": "培养；耕作",
-        "ex": "Reading helps cultivate the mind."
+        "cn": "经历；承受",
+        "ex": "He underwent an operation."
       },
       {
-        "w": "competent",
-        "ph": "'kɒmpɪtənt",
-        "pos": "adj.",
-        "cn": "能胜任的",
-        "ex": "She is competent in handling complaints."
-      },
-      {
-        "w": "accurate",
-        "ph": "'ækjərət",
-        "pos": "adj.",
-        "cn": "准确的；精确的",
-        "ex": "The report gives an accurate description."
-      },
-      {
-        "w": "considerable",
-        "ph": "kən'sɪdərəbl",
-        "pos": "adj.",
-        "cn": "相当大的",
-        "ex": "The project needs a considerable amount of money."
-      },
-      {
-        "w": "achieve",
-        "ph": "ə'tʃiːv",
+        "w": "fade",
+        "ph": "/feɪd/",
         "pos": "v.",
-        "cn": "实现；达到；取得",
-        "ex": "She worked hard to achieve her dream."
+        "cn": "褪色；逐渐消失",
+        "ex": "The color faded in the sun."
+      },
+      {
+        "w": "damage",
+        "ph": "/ˈdæmɪdʒ/",
+        "pos": "n./v.",
+        "cn": "损害；毁坏",
+        "ex": "The storm damaged the crops."
+      },
+      {
+        "w": "behalf",
+        "ph": "/bɪˈhɑːf/",
+        "pos": "n.",
+        "cn": "代表；利益",
+        "ex": "I spoke on behalf of the whole team."
+      },
+      {
+        "w": "enormous",
+        "ph": "/ɪˈnɔːməs/",
+        "pos": "adj.",
+        "cn": "巨大的；庞大的",
+        "ex": "The project cost an enormous sum."
       }
     ],
     "quiz": {
@@ -78,15 +78,15 @@
       "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
     },
     "sentence": {
-      "en": "The project needs a considerable amount of money.",
-      "word": "considerable",
-      "cn": "相当大的"
+      "en": "I spoke on behalf of the whole team.",
+      "word": "behalf",
+      "cn": "代表；利益"
     }
   },
   "meta": {
     "source": "cet-daily-content",
     "generatedBy": "github-actions / generate-daily.js",
     "contentVersion": "1.0.0",
-    "wordPoolSize": 96
+    "wordPoolSize": 1529
   }
 }

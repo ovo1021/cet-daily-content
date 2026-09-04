@@ -66,16 +66,16 @@
       "text": "-able / -ible 表“可…的”：available 可获得的、reasonable 合理的、flexible 灵活的。"
     },
     "listening": {
-      "title": "短对话 1 · 点餐",
-      "q": "Where does the conversation most probably take place?",
+      "title": "短对话 17 · 礼物",
+      "q": "What did the woman buy?",
       "o": [
-        "In a restaurant",
-        "In a library",
-        "In a bank",
-        "In a hospital"
+        "A book",
+        "A scarf",
+        "A cake",
+        "A plant"
       ],
-      "a": 0,
-      "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
+      "a": 1,
+      "script": "I bought a silk scarf for my mother's birthday. She will love the color."
     },
     "sentence": {
       "en": "I spoke on behalf of the whole team.",

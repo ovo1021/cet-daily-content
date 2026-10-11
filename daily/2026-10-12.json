@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-12",
+  "publishAt": "2026-10-12T00:10:00+08:00",
+  "day": 134,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-12 · 今日词包 Day 134",
+    "words": [
+      {
+        "w": "latter",
+        "ph": "/ˈlætə/",
+        "pos": "adj./n.",
+        "cn": "后者的；后者",
+        "ex": "Of the two, I prefer the latter."
+      },
+      {
+        "w": "item",
+        "ph": "/ˈaɪtəm/",
+        "pos": "n.",
+        "cn": "项目；条款；物品",
+        "ex": "This item is on sale."
+      },
+      {
+        "w": "solid",
+        "ph": "/ˈsɒlɪd/",
+        "pos": "adj./n.",
+        "cn": "固体的；可靠的",
+        "ex": "The ice is solid."
+      },
+      {
+        "w": "degree",
+        "ph": "/dɪˈɡriː/",
+        "pos": "n.",
+        "cn": "程度；学位；度数",
+        "ex": "She got a degree in biology."
+      },
+      {
+        "w": "shelter",
+        "ph": "/ˈʃeltə/",
+        "pos": "n./v.",
+        "cn": "遮蔽；收容所",
+        "ex": "The cave gave shelter from rain."
+      },
+      {
+        "w": "confront",
+        "ph": "/kənˈfrʌnt/",
+        "pos": "v.",
+        "cn": "面对；对抗",
+        "ex": "We must confront the problem."
+      }
+    ],
+    "quiz": {
+      "q": "Children should be encouraged to think ______ instead of following others blindly.",
+      "o": [
+        "independently",
+        "impatiently",
+        "impossibly",
+        "increasingly"
+      ],
+      "a": 0,
+      "why": "think independently 独立思考。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "高频词",
+      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
+    },
+    "listening": {
+      "title": "短文 11 · 饮食习惯",
+      "q": "What does a balanced diet include?",
+      "o": [
+        "Only meat",
+        "Only vegetables",
+        "Different food groups",
+        "Skipping breakfast"
+      ],
+      "a": 2,
+      "script": "A balanced diet keeps us healthy. It should include grains, vegetables, fruit, and some protein like eggs or fish. Eating many kinds of food gives the body the energy it needs."
+    },
+    "sentence": {
+      "en": "Of the two, I prefer the latter.",
+      "word": "latter",
+      "cn": "后者的；后者"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

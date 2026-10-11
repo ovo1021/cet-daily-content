@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-11",
-  "publishAt": "2026-10-11T00:10:00+08:00",
-  "day": 133,
+  "date": "2026-10-12",
+  "publishAt": "2026-10-12T00:10:00+08:00",
+  "day": 134,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-11 · 今日词包 Day 133",
+    "headline": "2026-10-12 · 今日词包 Day 134",
     "words": [
       {
-        "w": "remedy",
-        "ph": "/ˈremədi/",
-        "pos": "n./v.",
-        "cn": "remedy；纠正",
-        "ex": "There is no easy remedy."
+        "w": "latter",
+        "ph": "/ˈlætə/",
+        "pos": "adj./n.",
+        "cn": "后者的；后者",
+        "ex": "Of the two, I prefer the latter."
       },
       {
-        "w": "suitable",
-        "ph": "/ˈsuːtəbl/",
-        "pos": "adj.",
-        "cn": "合适的；适宜的",
-        "ex": "This is a suitable time."
-      },
-      {
-        "w": "promise",
-        "ph": "/ˈprɒmɪs/",
-        "pos": "n./v.",
-        "cn": "诺言；承诺",
-        "ex": "He promised to come."
-      },
-      {
-        "w": "premier",
-        "ph": "/ˈpremiə/",
-        "pos": "n./adj.",
-        "cn": "总理；首要的",
-        "ex": "The premier visited the factory."
-      },
-      {
-        "w": "guidance",
-        "ph": "/ˈɡaɪdns/",
+        "w": "item",
+        "ph": "/ˈaɪtəm/",
         "pos": "n.",
-        "cn": "指导；引导",
-        "ex": "He sought guidance from his teacher."
+        "cn": "项目；条款；物品",
+        "ex": "This item is on sale."
       },
       {
-        "w": "suppose",
-        "ph": "/səˈpəʊz/",
+        "w": "solid",
+        "ph": "/ˈsɒlɪd/",
+        "pos": "adj./n.",
+        "cn": "固体的；可靠的",
+        "ex": "The ice is solid."
+      },
+      {
+        "w": "degree",
+        "ph": "/dɪˈɡriː/",
+        "pos": "n.",
+        "cn": "程度；学位；度数",
+        "ex": "She got a degree in biology."
+      },
+      {
+        "w": "shelter",
+        "ph": "/ˈʃeltə/",
+        "pos": "n./v.",
+        "cn": "遮蔽；收容所",
+        "ex": "The cave gave shelter from rain."
+      },
+      {
+        "w": "confront",
+        "ph": "/kənˈfrʌnt/",
         "pos": "v.",
-        "cn": "假定；猜想",
-        "ex": "I suppose he is right."
+        "cn": "面对；对抗",
+        "ex": "We must confront the problem."
       }
     ],
     "quiz": {
-      "q": "Many students find it hard to ______ new words in their minds.",
+      "q": "Children should be encouraged to think ______ instead of following others blindly.",
       "o": [
-        "remember",
-        "remind",
-        "remain",
-        "remove"
+        "independently",
+        "impatiently",
+        "impossibly",
+        "increasingly"
       ],
       "a": 0,
-      "why": "remember 记住；remind 提醒；remain 保持；remove 移除。",
-      "level": "CET-4"
+      "why": "think independently 独立思考。",
+      "level": "CET-6"
     },
     "tip": {
       "tag": "高频词",
-      "text": "易混词：affect(影响 v.) vs effect(影响/效果 n.)；adopt(采纳) vs adapt(适应)。"
+      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
     },
     "listening": {
-      "title": "短文 10 · 太空探索",
-      "q": "Why do scientists explore space?",
+      "title": "短文 11 · 饮食习惯",
+      "q": "What does a balanced diet include?",
       "o": [
-        "To find new homes",
-        "To learn about the universe",
-        "To build hotels",
-        "To mine gold"
+        "Only meat",
+        "Only vegetables",
+        "Different food groups",
+        "Skipping breakfast"
       ],
-      "a": 1,
-      "script": "Rockets now carry robots to distant planets. Scientists explore space to learn how the universe began and whether life exists elsewhere. Each mission brings new surprises."
+      "a": 2,
+      "script": "A balanced diet keeps us healthy. It should include grains, vegetables, fruit, and some protein like eggs or fish. Eating many kinds of food gives the body the energy it needs."
     },
     "sentence": {
-      "en": "He sought guidance from his teacher.",
-      "word": "guidance",
-      "cn": "指导；引导"
+      "en": "Of the two, I prefer the latter.",
+      "word": "latter",
+      "cn": "后者的；后者"
     }
   },
   "meta": {

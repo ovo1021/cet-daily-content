@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-13",
+  "publishAt": "2026-10-13T00:10:00+08:00",
+  "day": 135,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-13 · 今日词包 Day 135",
+    "words": [
+      {
+        "w": "grave",
+        "ph": "/ɡreɪv/",
+        "pos": "n./adj.",
+        "cn": "坟墓；严重的",
+        "ex": "The situation is grave."
+      },
+      {
+        "w": "hint",
+        "ph": "/hɪnt/",
+        "pos": "n./v.",
+        "cn": "暗示；线索",
+        "ex": "She gave me a hint about the gift."
+      },
+      {
+        "w": "minor",
+        "ph": "/ˈmaɪnə/",
+        "pos": "adj./n.",
+        "cn": "较小的；未成年人",
+        "ex": "A minor error was found."
+      },
+      {
+        "w": "option",
+        "ph": "/ˈɒpʃn/",
+        "pos": "n.",
+        "cn": "选择；选项",
+        "ex": "We have two options left."
+      },
+      {
+        "w": "sufficient",
+        "ph": "/səˈfɪʃnt/",
+        "pos": "adj.",
+        "cn": "足够的；充分的",
+        "ex": "We have sufficient food."
+      },
+      {
+        "w": "dreadful",
+        "ph": "/ˈdredfl/",
+        "pos": "adj.",
+        "cn": "可怕的；糟透的",
+        "ex": "The weather was dreadful all week."
+      }
+    ],
+    "quiz": {
+      "q": "They ______ a class meeting to discuss the plan last Friday.",
+      "o": [
+        "held",
+        "took",
+        "made",
+        "had"
+      ],
+      "a": 0,
+      "why": "hold a meeting 举行会议，过去式为 held。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "技巧",
+      "text": "艾宾浩斯复习：学完 1、2、4、7、15、30 天后各复习一次，记忆留存率最高。"
+    },
+    "listening": {
+      "title": "短文 12 · 自然保护",
+      "q": "What can people do to protect nature?",
+      "o": [
+        "Cut more trees",
+        "Join clean-up activities",
+        "Use more plastic",
+        "Hunt wild animals"
+      ],
+      "a": 1,
+      "script": "Our planet faces many problems, but everyone can help. Joining a river or beach clean-up is a simple start. Small actions by many people can protect animals and clean the environment."
+    },
+    "sentence": {
+      "en": "She gave me a hint about the gift.",
+      "word": "hint",
+      "cn": "暗示；线索"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

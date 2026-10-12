@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-12",
-  "publishAt": "2026-10-12T00:10:00+08:00",
-  "day": 134,
+  "date": "2026-10-13",
+  "publishAt": "2026-10-13T00:10:00+08:00",
+  "day": 135,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-12 · 今日词包 Day 134",
+    "headline": "2026-10-13 · 今日词包 Day 135",
     "words": [
       {
-        "w": "latter",
-        "ph": "/ˈlætə/",
-        "pos": "adj./n.",
-        "cn": "后者的；后者",
-        "ex": "Of the two, I prefer the latter."
+        "w": "grave",
+        "ph": "/ɡreɪv/",
+        "pos": "n./adj.",
+        "cn": "坟墓；严重的",
+        "ex": "The situation is grave."
       },
       {
-        "w": "item",
-        "ph": "/ˈaɪtəm/",
-        "pos": "n.",
-        "cn": "项目；条款；物品",
-        "ex": "This item is on sale."
-      },
-      {
-        "w": "solid",
-        "ph": "/ˈsɒlɪd/",
-        "pos": "adj./n.",
-        "cn": "固体的；可靠的",
-        "ex": "The ice is solid."
-      },
-      {
-        "w": "degree",
-        "ph": "/dɪˈɡriː/",
-        "pos": "n.",
-        "cn": "程度；学位；度数",
-        "ex": "She got a degree in biology."
-      },
-      {
-        "w": "shelter",
-        "ph": "/ˈʃeltə/",
+        "w": "hint",
+        "ph": "/hɪnt/",
         "pos": "n./v.",
-        "cn": "遮蔽；收容所",
-        "ex": "The cave gave shelter from rain."
+        "cn": "暗示；线索",
+        "ex": "She gave me a hint about the gift."
       },
       {
-        "w": "confront",
-        "ph": "/kənˈfrʌnt/",
-        "pos": "v.",
-        "cn": "面对；对抗",
-        "ex": "We must confront the problem."
+        "w": "minor",
+        "ph": "/ˈmaɪnə/",
+        "pos": "adj./n.",
+        "cn": "较小的；未成年人",
+        "ex": "A minor error was found."
+      },
+      {
+        "w": "option",
+        "ph": "/ˈɒpʃn/",
+        "pos": "n.",
+        "cn": "选择；选项",
+        "ex": "We have two options left."
+      },
+      {
+        "w": "sufficient",
+        "ph": "/səˈfɪʃnt/",
+        "pos": "adj.",
+        "cn": "足够的；充分的",
+        "ex": "We have sufficient food."
+      },
+      {
+        "w": "dreadful",
+        "ph": "/ˈdredfl/",
+        "pos": "adj.",
+        "cn": "可怕的；糟透的",
+        "ex": "The weather was dreadful all week."
       }
     ],
     "quiz": {
-      "q": "Children should be encouraged to think ______ instead of following others blindly.",
+      "q": "They ______ a class meeting to discuss the plan last Friday.",
       "o": [
-        "independently",
-        "impatiently",
-        "impossibly",
-        "increasingly"
+        "held",
+        "took",
+        "made",
+        "had"
       ],
       "a": 0,
-      "why": "think independently 独立思考。",
-      "level": "CET-6"
+      "why": "hold a meeting 举行会议，过去式为 held。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "高频词",
-      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
+      "tag": "技巧",
+      "text": "艾宾浩斯复习：学完 1、2、4、7、15、30 天后各复习一次，记忆留存率最高。"
     },
     "listening": {
-      "title": "短文 11 · 饮食习惯",
-      "q": "What does a balanced diet include?",
+      "title": "短文 12 · 自然保护",
+      "q": "What can people do to protect nature?",
       "o": [
-        "Only meat",
-        "Only vegetables",
-        "Different food groups",
-        "Skipping breakfast"
+        "Cut more trees",
+        "Join clean-up activities",
+        "Use more plastic",
+        "Hunt wild animals"
       ],
-      "a": 2,
-      "script": "A balanced diet keeps us healthy. It should include grains, vegetables, fruit, and some protein like eggs or fish. Eating many kinds of food gives the body the energy it needs."
+      "a": 1,
+      "script": "Our planet faces many problems, but everyone can help. Joining a river or beach clean-up is a simple start. Small actions by many people can protect animals and clean the environment."
     },
     "sentence": {
-      "en": "Of the two, I prefer the latter.",
-      "word": "latter",
-      "cn": "后者的；后者"
+      "en": "She gave me a hint about the gift.",
+      "word": "hint",
+      "cn": "暗示；线索"
     }
   },
   "meta": {

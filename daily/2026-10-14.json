@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-14",
+  "publishAt": "2026-10-14T00:10:00+08:00",
+  "day": 136,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-14 · 今日词包 Day 136",
+    "words": [
+      {
+        "w": "marine",
+        "ph": "/məˈriːn/",
+        "pos": "adj.",
+        "cn": "海洋的；海生的",
+        "ex": "The marine life is rich here."
+      },
+      {
+        "w": "doubt",
+        "ph": "/daʊt/",
+        "pos": "n./v.",
+        "cn": "怀疑；不确定",
+        "ex": "I doubt that he will come."
+      },
+      {
+        "w": "evident",
+        "ph": "/ˈevɪdənt/",
+        "pos": "adj.",
+        "cn": "明显的；明白的",
+        "ex": "It was evident that she was tired."
+      },
+      {
+        "w": "vote",
+        "ph": "/vəʊt/",
+        "pos": "n./v.",
+        "cn": "投票；选举",
+        "ex": "He voted for the reform."
+      },
+      {
+        "w": "subtle",
+        "ph": "/ˈsʌtl/",
+        "pos": "adj.",
+        "cn": "微妙的；敏锐的",
+        "ex": "There is a subtle difference."
+      },
+      {
+        "w": "expose",
+        "ph": "/ɪkˈspəʊz/",
+        "pos": "v.",
+        "cn": "暴露；揭露",
+        "ex": "The report exposed a scandal."
+      }
+    ],
+    "quiz": {
+      "q": "It is reported that the new medicine is quite ______ against this kind of disease.",
+      "o": [
+        "effective",
+        "efficient",
+        "expensive",
+        "essential"
+      ],
+      "a": 0,
+      "why": "be effective against… 对……有效；efficient 指“高效的”。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "技巧",
+      "text": "背词不孤立：把单词放进例句和搭配里记（如 take measures to do 采取措施）。"
+    },
+    "listening": {
+      "title": "短文 13 · 博物馆",
+      "q": "What can visitors do in the museum?",
+      "o": [
+        "Buy old paintings",
+        "Learn local history",
+        "Take photos of art",
+        "Sleep overnight"
+      ],
+      "a": 1,
+      "script": "The city museum is free on weekends. Inside, you can see tools from hundreds of years ago and learn the local history. Guides explain how people lived in the past."
+    },
+    "sentence": {
+      "en": "It was evident that she was tired.",
+      "word": "evident",
+      "cn": "明显的；明白的"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

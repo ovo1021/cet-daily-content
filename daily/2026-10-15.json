@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-15",
+  "publishAt": "2026-10-15T00:10:00+08:00",
+  "day": 137,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-15 · 今日词包 Day 137",
+    "words": [
+      {
+        "w": "integrate",
+        "ph": "/ˈɪntɪɡreɪt/",
+        "pos": "v.",
+        "cn": "使结合；整合",
+        "ex": "We should integrate theory and practice."
+      },
+      {
+        "w": "consist",
+        "ph": "/kənˈsɪst/",
+        "pos": "v.",
+        "cn": "由…组成；在于",
+        "ex": "The team consists of ten members."
+      },
+      {
+        "w": "hinder",
+        "ph": "/ˈhɪndə/",
+        "pos": "v.",
+        "cn": "阻碍；妨碍",
+        "ex": "Bad weather hindered the search."
+      },
+      {
+        "w": "counter",
+        "ph": "/ˈkaʊntə/",
+        "pos": "n.",
+        "cn": "柜台；计数器",
+        "ex": "Pay at the counter before leaving."
+      },
+      {
+        "w": "contrast",
+        "ph": "/ˈkɒntrɑːst/",
+        "pos": "n./v.",
+        "cn": "对比；对照",
+        "ex": "The contrast between rich and poor is clear."
+      },
+      {
+        "w": "marine",
+        "ph": "/məˈriːn/",
+        "pos": "adj.",
+        "cn": "海洋的；海生的",
+        "ex": "The marine life is rich here."
+      }
+    ],
+    "quiz": {
+      "q": "If you do not know a word, you can ______ it in a dictionary.",
+      "o": [
+        "look up",
+        "look after",
+        "look for",
+        "look out"
+      ],
+      "a": 0,
+      "why": "look up a word in a dictionary 在词典中查词。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "应试",
+      "text": "四六级满分 710，425 分通过；写作与翻译各占 106.5，听力与阅读各占 248.5。"
+    },
+    "listening": {
+      "title": "短文 14 · 奥林匹克",
+      "q": "What is the spirit of the games?",
+      "o": [
+        "Winning at all costs",
+        "Taking part and friendship",
+        "Earning money",
+        "Traveling the world"
+      ],
+      "a": 1,
+      "script": "The Olympic Games bring athletes from many countries together. The most important thing is not only winning, but taking part and building friendship among nations."
+    },
+    "sentence": {
+      "en": "The contrast between rich and poor is clear.",
+      "word": "contrast",
+      "cn": "对比；对照"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

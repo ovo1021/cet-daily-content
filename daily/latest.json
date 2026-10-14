@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-14",
-  "publishAt": "2026-10-14T00:10:00+08:00",
-  "day": 136,
+  "date": "2026-10-15",
+  "publishAt": "2026-10-15T00:10:00+08:00",
+  "day": 137,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-14 · 今日词包 Day 136",
+    "headline": "2026-10-15 · 今日词包 Day 137",
     "words": [
+      {
+        "w": "integrate",
+        "ph": "/ˈɪntɪɡreɪt/",
+        "pos": "v.",
+        "cn": "使结合；整合",
+        "ex": "We should integrate theory and practice."
+      },
+      {
+        "w": "consist",
+        "ph": "/kənˈsɪst/",
+        "pos": "v.",
+        "cn": "由…组成；在于",
+        "ex": "The team consists of ten members."
+      },
+      {
+        "w": "hinder",
+        "ph": "/ˈhɪndə/",
+        "pos": "v.",
+        "cn": "阻碍；妨碍",
+        "ex": "Bad weather hindered the search."
+      },
+      {
+        "w": "counter",
+        "ph": "/ˈkaʊntə/",
+        "pos": "n.",
+        "cn": "柜台；计数器",
+        "ex": "Pay at the counter before leaving."
+      },
+      {
+        "w": "contrast",
+        "ph": "/ˈkɒntrɑːst/",
+        "pos": "n./v.",
+        "cn": "对比；对照",
+        "ex": "The contrast between rich and poor is clear."
+      },
       {
         "w": "marine",
         "ph": "/məˈriːn/",
         "pos": "adj.",
         "cn": "海洋的；海生的",
         "ex": "The marine life is rich here."
-      },
-      {
-        "w": "doubt",
-        "ph": "/daʊt/",
-        "pos": "n./v.",
-        "cn": "怀疑；不确定",
-        "ex": "I doubt that he will come."
-      },
-      {
-        "w": "evident",
-        "ph": "/ˈevɪdənt/",
-        "pos": "adj.",
-        "cn": "明显的；明白的",
-        "ex": "It was evident that she was tired."
-      },
-      {
-        "w": "vote",
-        "ph": "/vəʊt/",
-        "pos": "n./v.",
-        "cn": "投票；选举",
-        "ex": "He voted for the reform."
-      },
-      {
-        "w": "subtle",
-        "ph": "/ˈsʌtl/",
-        "pos": "adj.",
-        "cn": "微妙的；敏锐的",
-        "ex": "There is a subtle difference."
-      },
-      {
-        "w": "expose",
-        "ph": "/ɪkˈspəʊz/",
-        "pos": "v.",
-        "cn": "暴露；揭露",
-        "ex": "The report exposed a scandal."
       }
     ],
     "quiz": {
-      "q": "It is reported that the new medicine is quite ______ against this kind of disease.",
+      "q": "If you do not know a word, you can ______ it in a dictionary.",
       "o": [
-        "effective",
-        "efficient",
-        "expensive",
-        "essential"
+        "look up",
+        "look after",
+        "look for",
+        "look out"
       ],
       "a": 0,
-      "why": "be effective against… 对……有效；efficient 指“高效的”。",
-      "level": "CET-6"
+      "why": "look up a word in a dictionary 在词典中查词。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "技巧",
-      "text": "背词不孤立：把单词放进例句和搭配里记（如 take measures to do 采取措施）。"
+      "tag": "应试",
+      "text": "四六级满分 710，425 分通过；写作与翻译各占 106.5，听力与阅读各占 248.5。"
     },
     "listening": {
-      "title": "短文 13 · 博物馆",
-      "q": "What can visitors do in the museum?",
+      "title": "短文 14 · 奥林匹克",
+      "q": "What is the spirit of the games?",
       "o": [
-        "Buy old paintings",
-        "Learn local history",
-        "Take photos of art",
-        "Sleep overnight"
+        "Winning at all costs",
+        "Taking part and friendship",
+        "Earning money",
+        "Traveling the world"
       ],
       "a": 1,
-      "script": "The city museum is free on weekends. Inside, you can see tools from hundreds of years ago and learn the local history. Guides explain how people lived in the past."
+      "script": "The Olympic Games bring athletes from many countries together. The most important thing is not only winning, but taking part and building friendship among nations."
     },
     "sentence": {
-      "en": "It was evident that she was tired.",
-      "word": "evident",
-      "cn": "明显的；明白的"
+      "en": "The contrast between rich and poor is clear.",
+      "word": "contrast",
+      "cn": "对比；对照"
     }
   },
   "meta": {

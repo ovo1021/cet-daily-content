@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-16",
+  "publishAt": "2026-10-16T00:10:00+08:00",
+  "day": 138,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-16 · 今日词包 Day 138",
+    "words": [
+      {
+        "w": "border",
+        "ph": "/ˈbɔːdə/",
+        "pos": "n./v.",
+        "cn": "边界；与…接壤",
+        "ex": "The river forms the border of two cities."
+      },
+      {
+        "w": "trace",
+        "ph": "/treɪs/",
+        "pos": "n./v.",
+        "cn": "痕迹；追踪",
+        "ex": "The police traced the call."
+      },
+      {
+        "w": "file",
+        "ph": "/faɪl/",
+        "pos": "n./v.",
+        "cn": "文件；归档；提出",
+        "ex": "Please file the report by Friday."
+      },
+      {
+        "w": "communicate",
+        "ph": "/kəˈmjuːnɪkeɪt/",
+        "pos": "v.",
+        "cn": "交流；传达",
+        "ex": "We communicate by email every day."
+      },
+      {
+        "w": "dissolve",
+        "ph": "/dɪˈzɒlv/",
+        "pos": "v.",
+        "cn": "溶解；解散",
+        "ex": "Salt dissolves in water."
+      },
+      {
+        "w": "decent",
+        "ph": "/ˈdiːsnt/",
+        "pos": "adj.",
+        "cn": "体面的；相当好的",
+        "ex": "He earns a decent salary."
+      }
+    ],
+    "quiz": {
+      "q": "The two countries agreed to ______ a new trade agreement.",
+      "o": [
+        "sign",
+        "sing",
+        "sink",
+        "sight"
+      ],
+      "a": 0,
+      "why": "sign an agreement 签署协议；sight 视力/景象（名词）。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "词根",
+      "text": "-able / -ible 表“可…的”：available 可获得的、reasonable 合理的、flexible 灵活的。"
+    },
+    "listening": {
+      "title": "短文 15 · 网络安全",
+      "q": "What should users do online?",
+      "o": [
+        "Share passwords",
+        "Protect personal data",
+        "Click all links",
+        "Trust strangers"
+      ],
+      "a": 1,
+      "script": "The internet is useful, but not always safe. Users should protect their personal data and not share passwords. Before clicking a link, check if the website is real to avoid scams."
+    },
+    "sentence": {
+      "en": "The river forms the border of two cities.",
+      "word": "border",
+      "cn": "边界；与…接壤"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-15",
-  "publishAt": "2026-10-15T00:10:00+08:00",
-  "day": 137,
+  "date": "2026-10-16",
+  "publishAt": "2026-10-16T00:10:00+08:00",
+  "day": 138,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-15 · 今日词包 Day 137",
+    "headline": "2026-10-16 · 今日词包 Day 138",
     "words": [
       {
-        "w": "integrate",
-        "ph": "/ˈɪntɪɡreɪt/",
-        "pos": "v.",
-        "cn": "使结合；整合",
-        "ex": "We should integrate theory and practice."
-      },
-      {
-        "w": "consist",
-        "ph": "/kənˈsɪst/",
-        "pos": "v.",
-        "cn": "由…组成；在于",
-        "ex": "The team consists of ten members."
-      },
-      {
-        "w": "hinder",
-        "ph": "/ˈhɪndə/",
-        "pos": "v.",
-        "cn": "阻碍；妨碍",
-        "ex": "Bad weather hindered the search."
-      },
-      {
-        "w": "counter",
-        "ph": "/ˈkaʊntə/",
-        "pos": "n.",
-        "cn": "柜台；计数器",
-        "ex": "Pay at the counter before leaving."
-      },
-      {
-        "w": "contrast",
-        "ph": "/ˈkɒntrɑːst/",
+        "w": "border",
+        "ph": "/ˈbɔːdə/",
         "pos": "n./v.",
-        "cn": "对比；对照",
-        "ex": "The contrast between rich and poor is clear."
+        "cn": "边界；与…接壤",
+        "ex": "The river forms the border of two cities."
       },
       {
-        "w": "marine",
-        "ph": "/məˈriːn/",
+        "w": "trace",
+        "ph": "/treɪs/",
+        "pos": "n./v.",
+        "cn": "痕迹；追踪",
+        "ex": "The police traced the call."
+      },
+      {
+        "w": "file",
+        "ph": "/faɪl/",
+        "pos": "n./v.",
+        "cn": "文件；归档；提出",
+        "ex": "Please file the report by Friday."
+      },
+      {
+        "w": "communicate",
+        "ph": "/kəˈmjuːnɪkeɪt/",
+        "pos": "v.",
+        "cn": "交流；传达",
+        "ex": "We communicate by email every day."
+      },
+      {
+        "w": "dissolve",
+        "ph": "/dɪˈzɒlv/",
+        "pos": "v.",
+        "cn": "溶解；解散",
+        "ex": "Salt dissolves in water."
+      },
+      {
+        "w": "decent",
+        "ph": "/ˈdiːsnt/",
         "pos": "adj.",
-        "cn": "海洋的；海生的",
-        "ex": "The marine life is rich here."
+        "cn": "体面的；相当好的",
+        "ex": "He earns a decent salary."
       }
     ],
     "quiz": {
-      "q": "If you do not know a word, you can ______ it in a dictionary.",
+      "q": "The two countries agreed to ______ a new trade agreement.",
       "o": [
-        "look up",
-        "look after",
-        "look for",
-        "look out"
+        "sign",
+        "sing",
+        "sink",
+        "sight"
       ],
       "a": 0,
-      "why": "look up a word in a dictionary 在词典中查词。",
-      "level": "CET-4"
+      "why": "sign an agreement 签署协议；sight 视力/景象（名词）。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "应试",
-      "text": "四六级满分 710，425 分通过；写作与翻译各占 106.5，听力与阅读各占 248.5。"
+      "tag": "词根",
+      "text": "-able / -ible 表“可…的”：available 可获得的、reasonable 合理的、flexible 灵活的。"
     },
     "listening": {
-      "title": "短文 14 · 奥林匹克",
-      "q": "What is the spirit of the games?",
+      "title": "短文 15 · 网络安全",
+      "q": "What should users do online?",
       "o": [
-        "Winning at all costs",
-        "Taking part and friendship",
-        "Earning money",
-        "Traveling the world"
+        "Share passwords",
+        "Protect personal data",
+        "Click all links",
+        "Trust strangers"
       ],
       "a": 1,
-      "script": "The Olympic Games bring athletes from many countries together. The most important thing is not only winning, but taking part and building friendship among nations."
+      "script": "The internet is useful, but not always safe. Users should protect their personal data and not share passwords. Before clicking a link, check if the website is real to avoid scams."
     },
     "sentence": {
-      "en": "The contrast between rich and poor is clear.",
-      "word": "contrast",
-      "cn": "对比；对照"
+      "en": "The river forms the border of two cities.",
+      "word": "border",
+      "cn": "边界；与…接壤"
     }
   },
   "meta": {

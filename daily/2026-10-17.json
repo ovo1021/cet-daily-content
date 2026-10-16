@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-17",
+  "publishAt": "2026-10-17T00:10:00+08:00",
+  "day": 139,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-17 · 今日词包 Day 139",
+    "words": [
+      {
+        "w": "strain",
+        "ph": "/streɪn/",
+        "pos": "n./v.",
+        "cn": "张力；拉紧；尽力",
+        "ex": "The rope is under strain."
+      },
+      {
+        "w": "absorb",
+        "ph": "/əbˈzɔːb/",
+        "pos": "v.",
+        "cn": "吸收；吸引",
+        "ex": "Plants absorb water through their roots."
+      },
+      {
+        "w": "basis",
+        "ph": "/ˈbeɪsɪs/",
+        "pos": "n.",
+        "cn": "基础；根据",
+        "ex": "On the basis of the data, we decided."
+      },
+      {
+        "w": "elevate",
+        "ph": "/ˈelɪveɪt/",
+        "pos": "v.",
+        "cn": "提升；举起",
+        "ex": "The speech elevated our spirits."
+      },
+      {
+        "w": "advantage",
+        "ph": "/ədˈvɑːntɪdʒ/",
+        "pos": "n.",
+        "cn": "优势；好处",
+        "ex": "Practice gives you an advantage."
+      },
+      {
+        "w": "juice",
+        "ph": "/dʒuːs/",
+        "pos": "n.",
+        "cn": "汁；果汁",
+        "ex": "I drank a glass of orange juice."
+      }
+    ],
+    "quiz": {
+      "q": "Spring in the south is warm and ______, which makes people feel good.",
+      "o": [
+        "comfortable",
+        "common",
+        "confident",
+        "complete"
+      ],
+      "a": 0,
+      "why": "comfortable 舒适的；common 普通的；confident 自信的。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "词根",
+      "text": "pre- 表“预先”：predict 预言、preview 预习、prevent 阻止、prepare 准备。"
+    },
+    "listening": {
+      "title": "短文 16 · 语言学习",
+      "q": "What helps you learn a language well?",
+      "o": [
+        "Memorize grammar only",
+        "Practice with real use",
+        "Avoid speaking",
+        "Study one day a year"
+      ],
+      "a": 1,
+      "script": "Learning a language takes practice, not just books. Try to speak with others, watch films, and listen to songs in that language. Real use helps words stay in your memory."
+    },
+    "sentence": {
+      "en": "Plants absorb water through their roots.",
+      "word": "absorb",
+      "cn": "吸收；吸引"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

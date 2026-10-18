@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-18",
-  "publishAt": "2026-10-18T00:10:00+08:00",
-  "day": 140,
+  "date": "2026-10-19",
+  "publishAt": "2026-10-19T00:10:00+08:00",
+  "day": 141,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-18 · 今日词包 Day 140",
+    "headline": "2026-10-19 · 今日词包 Day 141",
     "words": [
       {
-        "w": "idle",
-        "ph": "/ˈaɪdl/",
-        "pos": "adj.",
-        "cn": "闲置的；懒惰的",
-        "ex": "The machines stood idle all winter."
-      },
-      {
-        "w": "confuse",
-        "ph": "/kənˈfjuːz/",
-        "pos": "v.",
-        "cn": "使困惑；混淆",
-        "ex": "Do not confuse speed with quality."
-      },
-      {
-        "w": "remote",
-        "ph": "/rɪˈməʊt/",
-        "pos": "adj.",
-        "cn": "遥远的；偏僻的",
-        "ex": "He lives in a remote village."
-      },
-      {
-        "w": "insist",
-        "ph": "/ɪnˈsɪst/",
-        "pos": "v.",
-        "cn": "坚持；坚决要求",
-        "ex": "He insisted on paying the bill."
-      },
-      {
-        "w": "frank",
-        "ph": "/fræŋk/",
-        "pos": "adj.",
-        "cn": "坦白的；直率的",
-        "ex": "To be frank, I disagree."
-      },
-      {
-        "w": "tube",
-        "ph": "/tjuːb/",
+        "w": "opinion",
+        "ph": "/əˈpɪnjən/",
         "pos": "n.",
-        "cn": "管；地铁",
-        "ex": "He put the sample in a tube."
+        "cn": "意见；看法",
+        "ex": "In my opinion, it is wrong."
+      },
+      {
+        "w": "intervene",
+        "ph": "/ˌɪntəˈviːn/",
+        "pos": "v.",
+        "cn": "干涉；介入",
+        "ex": "The teacher intervened in the fight."
+      },
+      {
+        "w": "frozen",
+        "ph": "/ˈfrəʊzn/",
+        "pos": "adj.",
+        "cn": "冻结的；冰冻的",
+        "ex": "The lake was frozen solid."
+      },
+      {
+        "w": "brilliant",
+        "ph": "/ˈbrɪljənt/",
+        "pos": "adj.",
+        "cn": "杰出的；明亮的",
+        "ex": "She gave a brilliant answer."
+      },
+      {
+        "w": "horror",
+        "ph": "/ˈhɒrə/",
+        "pos": "n.",
+        "cn": "恐惧；憎恶",
+        "ex": "She screamed in horror at the sight."
+      },
+      {
+        "w": "classic",
+        "ph": "/ˈklæsɪk/",
+        "pos": "adj./n.",
+        "cn": "经典的；名著",
+        "ex": "This is a classic novel of the 19th century."
       }
     ],
     "quiz": {
-      "q": "The results of the experiment will be ______ in the next issue of the journal.",
+      "q": "More and more people realize the ______ of protecting the environment.",
       "o": [
-        "published",
-        "polished",
-        "punished",
-        "purchased"
+        "importance",
+        "improvement",
+        "imagination",
+        "invitation"
       ],
       "a": 0,
-      "why": "publish 发表；polish 打磨；punish 惩罚；purchase 购买。",
-      "level": "CET-6"
+      "why": "the importance of… 意为“……的重要性”。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "词根",
-      "text": "re- 表“再次/返回”：review 复习、return 返回、recycle 回收、renew 更新。"
+      "tag": "语法",
+      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
     },
     "listening": {
-      "title": "短文 17 · 志愿服务",
-      "q": "What do volunteers often gain?",
+      "title": "短文 18 · 时间管理",
+      "q": "What is the speaker's key tip?",
       "o": [
-        "High pay",
-        "New skills and friends",
-        "Free travel",
-        "Fame"
+        "Do everything at once",
+        "Plan your day",
+        "Avoid breaks",
+        "Work all night"
       ],
       "a": 1,
-      "script": "Volunteering asks for time, not money. In return, young people gain new skills and make friends. Helping others also brings a strong sense of happiness."
+      "script": "Many students feel busy but achieve little. The secret is to plan your day. Write down the three most important tasks each morning, and do them before checking your phone."
     },
     "sentence": {
-      "en": "The machines stood idle all winter.",
-      "word": "idle",
-      "cn": "闲置的；懒惰的"
+      "en": "This is a classic novel of the 19th century.",
+      "word": "classic",
+      "cn": "经典的；名著"
     }
   },
   "meta": {

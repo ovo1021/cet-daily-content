@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-19",
+  "publishAt": "2026-10-19T00:10:00+08:00",
+  "day": 141,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-19 · 今日词包 Day 141",
+    "words": [
+      {
+        "w": "opinion",
+        "ph": "/əˈpɪnjən/",
+        "pos": "n.",
+        "cn": "意见；看法",
+        "ex": "In my opinion, it is wrong."
+      },
+      {
+        "w": "intervene",
+        "ph": "/ˌɪntəˈviːn/",
+        "pos": "v.",
+        "cn": "干涉；介入",
+        "ex": "The teacher intervened in the fight."
+      },
+      {
+        "w": "frozen",
+        "ph": "/ˈfrəʊzn/",
+        "pos": "adj.",
+        "cn": "冻结的；冰冻的",
+        "ex": "The lake was frozen solid."
+      },
+      {
+        "w": "brilliant",
+        "ph": "/ˈbrɪljənt/",
+        "pos": "adj.",
+        "cn": "杰出的；明亮的",
+        "ex": "She gave a brilliant answer."
+      },
+      {
+        "w": "horror",
+        "ph": "/ˈhɒrə/",
+        "pos": "n.",
+        "cn": "恐惧；憎恶",
+        "ex": "She screamed in horror at the sight."
+      },
+      {
+        "w": "classic",
+        "ph": "/ˈklæsɪk/",
+        "pos": "adj./n.",
+        "cn": "经典的；名著",
+        "ex": "This is a classic novel of the 19th century."
+      }
+    ],
+    "quiz": {
+      "q": "More and more people realize the ______ of protecting the environment.",
+      "o": [
+        "importance",
+        "improvement",
+        "imagination",
+        "invitation"
+      ],
+      "a": 0,
+      "why": "the importance of… 意为“……的重要性”。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "语法",
+      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
+    },
+    "listening": {
+      "title": "短文 18 · 时间管理",
+      "q": "What is the speaker's key tip?",
+      "o": [
+        "Do everything at once",
+        "Plan your day",
+        "Avoid breaks",
+        "Work all night"
+      ],
+      "a": 1,
+      "script": "Many students feel busy but achieve little. The secret is to plan your day. Write down the three most important tasks each morning, and do them before checking your phone."
+    },
+    "sentence": {
+      "en": "This is a classic novel of the 19th century.",
+      "word": "classic",
+      "cn": "经典的；名著"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

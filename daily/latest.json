@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-19",
-  "publishAt": "2026-10-19T00:10:00+08:00",
-  "day": 141,
+  "date": "2026-10-20",
+  "publishAt": "2026-10-20T00:10:00+08:00",
+  "day": 142,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-19 · 今日词包 Day 141",
+    "headline": "2026-10-20 · 今日词包 Day 142",
     "words": [
       {
-        "w": "opinion",
-        "ph": "/əˈpɪnjən/",
-        "pos": "n.",
-        "cn": "意见；看法",
-        "ex": "In my opinion, it is wrong."
-      },
-      {
-        "w": "intervene",
-        "ph": "/ˌɪntəˈviːn/",
-        "pos": "v.",
-        "cn": "干涉；介入",
-        "ex": "The teacher intervened in the fight."
-      },
-      {
-        "w": "frozen",
-        "ph": "/ˈfrəʊzn/",
+        "w": "naval",
+        "ph": "/ˈneɪvl/",
         "pos": "adj.",
-        "cn": "冻结的；冰冻的",
-        "ex": "The lake was frozen solid."
+        "cn": "海军的",
+        "ex": "The country built a naval base."
       },
       {
-        "w": "brilliant",
-        "ph": "/ˈbrɪljənt/",
-        "pos": "adj.",
-        "cn": "杰出的；明亮的",
-        "ex": "She gave a brilliant answer."
+        "w": "breed",
+        "ph": "/briːd/",
+        "pos": "v./n.",
+        "cn": "繁殖；饲养；品种",
+        "ex": "Farmers breed chickens for eggs."
       },
       {
-        "w": "horror",
-        "ph": "/ˈhɒrə/",
+        "w": "channel",
+        "ph": "/ˈtʃænl/",
         "pos": "n.",
-        "cn": "恐惧；憎恶",
-        "ex": "She screamed in horror at the sight."
+        "cn": "频道；渠道；海峡",
+        "ex": "We watched the news on channel 5."
       },
       {
-        "w": "classic",
-        "ph": "/ˈklæsɪk/",
+        "w": "purple",
+        "ph": "/ˈpɜːpl/",
         "pos": "adj./n.",
-        "cn": "经典的；名著",
-        "ex": "This is a classic novel of the 19th century."
+        "cn": "紫色的；紫色",
+        "ex": "She wore a purple dress."
+      },
+      {
+        "w": "hollow",
+        "ph": "/ˈhɒləʊ/",
+        "pos": "adj.",
+        "cn": "空的；虚伪的",
+        "ex": "The tree has a hollow trunk."
+      },
+      {
+        "w": "complex",
+        "ph": "/ˈkɒmpleks/",
+        "pos": "adj./n.",
+        "cn": "复杂的；综合体",
+        "ex": "The system is complex but efficient."
       }
     ],
     "quiz": {
-      "q": "More and more people realize the ______ of protecting the environment.",
+      "q": "The government has taken measures to ______ the spread of the disease.",
       "o": [
-        "importance",
-        "improvement",
-        "imagination",
-        "invitation"
+        "prevent",
+        "pretend",
+        "present",
+        "preserve"
       ],
       "a": 0,
-      "why": "the importance of… 意为“……的重要性”。",
-      "level": "CET-4"
+      "why": "prevent the spread 阻止扩散；preserve 保存。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "语法",
-      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
+      "tag": "写作",
+      "text": "表达观点：As far as I am concerned / From my perspective, … 比 I think 更出彩。"
     },
     "listening": {
-      "title": "短文 18 · 时间管理",
-      "q": "What is the speaker's key tip?",
+      "title": "短对话 18 · 通勤",
+      "q": "How does the woman go to work?",
       "o": [
-        "Do everything at once",
-        "Plan your day",
-        "Avoid breaks",
-        "Work all night"
+        "By subway",
+        "By bus",
+        "By car",
+        "On foot"
       ],
-      "a": 1,
-      "script": "Many students feel busy but achieve little. The secret is to plan your day. Write down the three most important tasks each morning, and do them before checking your phone."
+      "a": 0,
+      "script": "How do you get to the office? I take the subway. It is faster than the bus during rush hour."
     },
     "sentence": {
-      "en": "This is a classic novel of the 19th century.",
-      "word": "classic",
-      "cn": "经典的；名著"
+      "en": "The system is complex but efficient.",
+      "word": "complex",
+      "cn": "复杂的；综合体"
     }
   },
   "meta": {

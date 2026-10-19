@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-20",
+  "publishAt": "2026-10-20T00:10:00+08:00",
+  "day": 142,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-20 · 今日词包 Day 142",
+    "words": [
+      {
+        "w": "naval",
+        "ph": "/ˈneɪvl/",
+        "pos": "adj.",
+        "cn": "海军的",
+        "ex": "The country built a naval base."
+      },
+      {
+        "w": "breed",
+        "ph": "/briːd/",
+        "pos": "v./n.",
+        "cn": "繁殖；饲养；品种",
+        "ex": "Farmers breed chickens for eggs."
+      },
+      {
+        "w": "channel",
+        "ph": "/ˈtʃænl/",
+        "pos": "n.",
+        "cn": "频道；渠道；海峡",
+        "ex": "We watched the news on channel 5."
+      },
+      {
+        "w": "purple",
+        "ph": "/ˈpɜːpl/",
+        "pos": "adj./n.",
+        "cn": "紫色的；紫色",
+        "ex": "She wore a purple dress."
+      },
+      {
+        "w": "hollow",
+        "ph": "/ˈhɒləʊ/",
+        "pos": "adj.",
+        "cn": "空的；虚伪的",
+        "ex": "The tree has a hollow trunk."
+      },
+      {
+        "w": "complex",
+        "ph": "/ˈkɒmpleks/",
+        "pos": "adj./n.",
+        "cn": "复杂的；综合体",
+        "ex": "The system is complex but efficient."
+      }
+    ],
+    "quiz": {
+      "q": "The government has taken measures to ______ the spread of the disease.",
+      "o": [
+        "prevent",
+        "pretend",
+        "present",
+        "preserve"
+      ],
+      "a": 0,
+      "why": "prevent the spread 阻止扩散；preserve 保存。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "写作",
+      "text": "表达观点：As far as I am concerned / From my perspective, … 比 I think 更出彩。"
+    },
+    "listening": {
+      "title": "短对话 18 · 通勤",
+      "q": "How does the woman go to work?",
+      "o": [
+        "By subway",
+        "By bus",
+        "By car",
+        "On foot"
+      ],
+      "a": 0,
+      "script": "How do you get to the office? I take the subway. It is faster than the bus during rush hour."
+    },
+    "sentence": {
+      "en": "The system is complex but efficient.",
+      "word": "complex",
+      "cn": "复杂的；综合体"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-21",
+  "publishAt": "2026-10-21T00:10:00+08:00",
+  "day": 143,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-21 · 今日词包 Day 143",
+    "words": [
+      {
+        "w": "experience",
+        "ph": "/ɪkˈspɪəriəns/",
+        "pos": "n./v.",
+        "cn": "经验；经历",
+        "ex": "She has rich teaching experience."
+      },
+      {
+        "w": "error",
+        "ph": "/ˈerə/",
+        "pos": "n.",
+        "cn": "错误；差错",
+        "ex": "There is an error in your calculation."
+      },
+      {
+        "w": "startle",
+        "ph": "/ˈstɑːtl/",
+        "pos": "v.",
+        "cn": "使惊吓",
+        "ex": "The noise startled the cat."
+      },
+      {
+        "w": "turnover",
+        "ph": "/ˈtɜːnəʊvə/",
+        "pos": "n.",
+        "cn": "营业额；流动",
+        "ex": "The staff turnover is high."
+      },
+      {
+        "w": "gulf",
+        "ph": "/ɡʌlf/",
+        "pos": "n.",
+        "cn": "海湾；鸿沟",
+        "ex": "The gulf separates the two nations."
+      },
+      {
+        "w": "angry",
+        "ph": "/ˈæŋɡri/",
+        "pos": "adj.",
+        "cn": "生气的；愤怒的",
+        "ex": "He was angry at the delay."
+      }
+    ],
+    "quiz": {
+      "q": "Please ______ your homework carefully before you hand it in.",
+      "o": [
+        "check",
+        "chance",
+        "change",
+        "charge"
+      ],
+      "a": 0,
+      "why": "check 检查；hand in 上交。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "写作",
+      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
+    },
+    "listening": {
+      "title": "短对话 19 · 电影",
+      "q": "What time does the film start?",
+      "o": [
+        "At 7:00",
+        "At 7:30",
+        "At 8:00",
+        "At 8:30"
+      ],
+      "a": 1,
+      "script": "What time is the movie? It starts at half past seven, so we should leave now."
+    },
+    "sentence": {
+      "en": "There is an error in your calculation.",
+      "word": "error",
+      "cn": "错误；差错"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

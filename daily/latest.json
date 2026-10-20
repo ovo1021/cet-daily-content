@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-20",
-  "publishAt": "2026-10-20T00:10:00+08:00",
-  "day": 142,
+  "date": "2026-10-21",
+  "publishAt": "2026-10-21T00:10:00+08:00",
+  "day": 143,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-20 · 今日词包 Day 142",
+    "headline": "2026-10-21 · 今日词包 Day 143",
     "words": [
       {
-        "w": "naval",
-        "ph": "/ˈneɪvl/",
-        "pos": "adj.",
-        "cn": "海军的",
-        "ex": "The country built a naval base."
+        "w": "experience",
+        "ph": "/ɪkˈspɪəriəns/",
+        "pos": "n./v.",
+        "cn": "经验；经历",
+        "ex": "She has rich teaching experience."
       },
       {
-        "w": "breed",
-        "ph": "/briːd/",
-        "pos": "v./n.",
-        "cn": "繁殖；饲养；品种",
-        "ex": "Farmers breed chickens for eggs."
-      },
-      {
-        "w": "channel",
-        "ph": "/ˈtʃænl/",
+        "w": "error",
+        "ph": "/ˈerə/",
         "pos": "n.",
-        "cn": "频道；渠道；海峡",
-        "ex": "We watched the news on channel 5."
+        "cn": "错误；差错",
+        "ex": "There is an error in your calculation."
       },
       {
-        "w": "purple",
-        "ph": "/ˈpɜːpl/",
-        "pos": "adj./n.",
-        "cn": "紫色的；紫色",
-        "ex": "She wore a purple dress."
+        "w": "startle",
+        "ph": "/ˈstɑːtl/",
+        "pos": "v.",
+        "cn": "使惊吓",
+        "ex": "The noise startled the cat."
       },
       {
-        "w": "hollow",
-        "ph": "/ˈhɒləʊ/",
+        "w": "turnover",
+        "ph": "/ˈtɜːnəʊvə/",
+        "pos": "n.",
+        "cn": "营业额；流动",
+        "ex": "The staff turnover is high."
+      },
+      {
+        "w": "gulf",
+        "ph": "/ɡʌlf/",
+        "pos": "n.",
+        "cn": "海湾；鸿沟",
+        "ex": "The gulf separates the two nations."
+      },
+      {
+        "w": "angry",
+        "ph": "/ˈæŋɡri/",
         "pos": "adj.",
-        "cn": "空的；虚伪的",
-        "ex": "The tree has a hollow trunk."
-      },
-      {
-        "w": "complex",
-        "ph": "/ˈkɒmpleks/",
-        "pos": "adj./n.",
-        "cn": "复杂的；综合体",
-        "ex": "The system is complex but efficient."
+        "cn": "生气的；愤怒的",
+        "ex": "He was angry at the delay."
       }
     ],
     "quiz": {
-      "q": "The government has taken measures to ______ the spread of the disease.",
+      "q": "Please ______ your homework carefully before you hand it in.",
       "o": [
-        "prevent",
-        "pretend",
-        "present",
-        "preserve"
+        "check",
+        "chance",
+        "change",
+        "charge"
       ],
       "a": 0,
-      "why": "prevent the spread 阻止扩散；preserve 保存。",
-      "level": "CET-6"
+      "why": "check 检查；hand in 上交。",
+      "level": "CET-4"
     },
     "tip": {
       "tag": "写作",
-      "text": "表达观点：As far as I am concerned / From my perspective, … 比 I think 更出彩。"
+      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
     },
     "listening": {
-      "title": "短对话 18 · 通勤",
-      "q": "How does the woman go to work?",
+      "title": "短对话 19 · 电影",
+      "q": "What time does the film start?",
       "o": [
-        "By subway",
-        "By bus",
-        "By car",
-        "On foot"
+        "At 7:00",
+        "At 7:30",
+        "At 8:00",
+        "At 8:30"
       ],
-      "a": 0,
-      "script": "How do you get to the office? I take the subway. It is faster than the bus during rush hour."
+      "a": 1,
+      "script": "What time is the movie? It starts at half past seven, so we should leave now."
     },
     "sentence": {
-      "en": "The system is complex but efficient.",
-      "word": "complex",
-      "cn": "复杂的；综合体"
+      "en": "There is an error in your calculation.",
+      "word": "error",
+      "cn": "错误；差错"
     }
   },
   "meta": {

@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-22",
+  "publishAt": "2026-10-22T00:10:00+08:00",
+  "day": 144,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-22 · 今日词包 Day 144",
+    "words": [
+      {
+        "w": "stress",
+        "ph": "/stres/",
+        "pos": "n./v.",
+        "cn": "压力；强调",
+        "ex": "He is under a lot of stress."
+      },
+      {
+        "w": "stuff",
+        "ph": "/stʌf/",
+        "pos": "n./v.",
+        "cn": "东西；填满",
+        "ex": "Put your stuff in the bag."
+      },
+      {
+        "w": "disgust",
+        "ph": "/dɪsˈɡʌst/",
+        "pos": "n./v.",
+        "cn": "厌恶；使反感",
+        "ex": "The smell filled her with disgust."
+      },
+      {
+        "w": "shade",
+        "ph": "/ʃeɪd/",
+        "pos": "n.",
+        "cn": "阴影；荫凉处",
+        "ex": "The tree gave welcome shade."
+      },
+      {
+        "w": "protect",
+        "ph": "/prəˈtekt/",
+        "pos": "v.",
+        "cn": "保护；保卫",
+        "ex": "We must protect the environment."
+      },
+      {
+        "w": "traffic",
+        "ph": "/ˈtræfɪk/",
+        "pos": "n.",
+        "cn": "交通；流量",
+        "ex": "The traffic was heavy."
+      }
+    ],
+    "quiz": {
+      "q": "The manager ______ the importance of teamwork again and again in his speech.",
+      "o": [
+        "emphasized",
+        "entertained",
+        "estimated",
+        "eliminated"
+      ],
+      "a": 0,
+      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "听力",
+      "text": "听力技巧：提前读题划关键词（时间、地点、数字、人物关系），听到同义替换即为答案。"
+    },
+    "listening": {
+      "title": "短对话 20 · 作业",
+      "q": "When is the report due?",
+      "o": [
+        "Tomorrow",
+        "This Friday",
+        "Next Monday",
+        "Next month"
+      ],
+      "a": 2,
+      "script": "When should we hand in the report? The teacher said it is due next Monday."
+    },
+    "sentence": {
+      "en": "The smell filled her with disgust.",
+      "word": "disgust",
+      "cn": "厌恶；使反感"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

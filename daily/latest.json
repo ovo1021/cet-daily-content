@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-21",
-  "publishAt": "2026-10-21T00:10:00+08:00",
-  "day": 143,
+  "date": "2026-10-22",
+  "publishAt": "2026-10-22T00:10:00+08:00",
+  "day": 144,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-21 · 今日词包 Day 143",
+    "headline": "2026-10-22 · 今日词包 Day 144",
     "words": [
       {
-        "w": "experience",
-        "ph": "/ɪkˈspɪəriəns/",
+        "w": "stress",
+        "ph": "/stres/",
         "pos": "n./v.",
-        "cn": "经验；经历",
-        "ex": "She has rich teaching experience."
+        "cn": "压力；强调",
+        "ex": "He is under a lot of stress."
       },
       {
-        "w": "error",
-        "ph": "/ˈerə/",
+        "w": "stuff",
+        "ph": "/stʌf/",
+        "pos": "n./v.",
+        "cn": "东西；填满",
+        "ex": "Put your stuff in the bag."
+      },
+      {
+        "w": "disgust",
+        "ph": "/dɪsˈɡʌst/",
+        "pos": "n./v.",
+        "cn": "厌恶；使反感",
+        "ex": "The smell filled her with disgust."
+      },
+      {
+        "w": "shade",
+        "ph": "/ʃeɪd/",
         "pos": "n.",
-        "cn": "错误；差错",
-        "ex": "There is an error in your calculation."
+        "cn": "阴影；荫凉处",
+        "ex": "The tree gave welcome shade."
       },
       {
-        "w": "startle",
-        "ph": "/ˈstɑːtl/",
+        "w": "protect",
+        "ph": "/prəˈtekt/",
         "pos": "v.",
-        "cn": "使惊吓",
-        "ex": "The noise startled the cat."
+        "cn": "保护；保卫",
+        "ex": "We must protect the environment."
       },
       {
-        "w": "turnover",
-        "ph": "/ˈtɜːnəʊvə/",
+        "w": "traffic",
+        "ph": "/ˈtræfɪk/",
         "pos": "n.",
-        "cn": "营业额；流动",
-        "ex": "The staff turnover is high."
-      },
-      {
-        "w": "gulf",
-        "ph": "/ɡʌlf/",
-        "pos": "n.",
-        "cn": "海湾；鸿沟",
-        "ex": "The gulf separates the two nations."
-      },
-      {
-        "w": "angry",
-        "ph": "/ˈæŋɡri/",
-        "pos": "adj.",
-        "cn": "生气的；愤怒的",
-        "ex": "He was angry at the delay."
+        "cn": "交通；流量",
+        "ex": "The traffic was heavy."
       }
     ],
     "quiz": {
-      "q": "Please ______ your homework carefully before you hand it in.",
+      "q": "The manager ______ the importance of teamwork again and again in his speech.",
       "o": [
-        "check",
-        "chance",
-        "change",
-        "charge"
+        "emphasized",
+        "entertained",
+        "estimated",
+        "eliminated"
       ],
       "a": 0,
-      "why": "check 检查；hand in 上交。",
-      "level": "CET-4"
+      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "写作",
-      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
+      "tag": "听力",
+      "text": "听力技巧：提前读题划关键词（时间、地点、数字、人物关系），听到同义替换即为答案。"
     },
     "listening": {
-      "title": "短对话 19 · 电影",
-      "q": "What time does the film start?",
+      "title": "短对话 20 · 作业",
+      "q": "When is the report due?",
       "o": [
-        "At 7:00",
-        "At 7:30",
-        "At 8:00",
-        "At 8:30"
+        "Tomorrow",
+        "This Friday",
+        "Next Monday",
+        "Next month"
       ],
-      "a": 1,
-      "script": "What time is the movie? It starts at half past seven, so we should leave now."
+      "a": 2,
+      "script": "When should we hand in the report? The teacher said it is due next Monday."
     },
     "sentence": {
-      "en": "There is an error in your calculation.",
-      "word": "error",
-      "cn": "错误；差错"
+      "en": "The smell filled her with disgust.",
+      "word": "disgust",
+      "cn": "厌恶；使反感"
     }
   },
   "meta": {

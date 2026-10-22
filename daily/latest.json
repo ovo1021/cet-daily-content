@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-22",
-  "publishAt": "2026-10-22T00:10:00+08:00",
-  "day": 144,
+  "date": "2026-10-23",
+  "publishAt": "2026-10-23T00:10:00+08:00",
+  "day": 145,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-22 · 今日词包 Day 144",
+    "headline": "2026-10-23 · 今日词包 Day 145",
     "words": [
       {
-        "w": "stress",
-        "ph": "/stres/",
+        "w": "tune",
+        "ph": "/tjuːn/",
         "pos": "n./v.",
-        "cn": "压力；强调",
-        "ex": "He is under a lot of stress."
+        "cn": "曲调；调音",
+        "ex": "She hummed a happy tune."
       },
       {
-        "w": "stuff",
-        "ph": "/stʌf/",
-        "pos": "n./v.",
-        "cn": "东西；填满",
-        "ex": "Put your stuff in the bag."
+        "w": "loyal",
+        "ph": "/ˈlɔɪəl/",
+        "pos": "adj.",
+        "cn": "忠诚的；忠心的",
+        "ex": "A dog is a loyal friend."
       },
       {
-        "w": "disgust",
-        "ph": "/dɪsˈɡʌst/",
-        "pos": "n./v.",
-        "cn": "厌恶；使反感",
-        "ex": "The smell filled her with disgust."
-      },
-      {
-        "w": "shade",
-        "ph": "/ʃeɪd/",
-        "pos": "n.",
-        "cn": "阴影；荫凉处",
-        "ex": "The tree gave welcome shade."
-      },
-      {
-        "w": "protect",
-        "ph": "/prəˈtekt/",
+        "w": "inspire",
+        "ph": "/ɪnˈspaɪə/",
         "pos": "v.",
-        "cn": "保护；保卫",
-        "ex": "We must protect the environment."
+        "cn": "鼓舞；启发",
+        "ex": "The teacher inspired the students."
       },
       {
-        "w": "traffic",
-        "ph": "/ˈtræfɪk/",
+        "w": "atmosphere",
+        "ph": "/ˈætməsfɪə/",
         "pos": "n.",
-        "cn": "交通；流量",
-        "ex": "The traffic was heavy."
+        "cn": "大气；氛围",
+        "ex": "The friendly atmosphere helped us relax."
+      },
+      {
+        "w": "ingredient",
+        "ph": "/ɪnˈɡriːdiənt/",
+        "pos": "n.",
+        "cn": "成分；要素",
+        "ex": "Flour is an ingredient of bread."
+      },
+      {
+        "w": "image",
+        "ph": "/ˈɪmɪdʒ/",
+        "pos": "n.",
+        "cn": "形象；图像",
+        "ex": "The brand has a good public image."
       }
     ],
     "quiz": {
-      "q": "The manager ______ the importance of teamwork again and again in his speech.",
+      "q": "The science museum is open every day ______ Monday.",
       "o": [
-        "emphasized",
-        "entertained",
-        "estimated",
-        "eliminated"
+        "except",
+        "expect",
+        "accept",
+        "affect"
       ],
       "a": 0,
-      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
-      "level": "CET-6"
+      "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。",
+      "level": "CET-4"
     },
     "tip": {
       "tag": "听力",
-      "text": "听力技巧：提前读题划关键词（时间、地点、数字、人物关系），听到同义替换即为答案。"
+      "text": "听力数字：-teen 与 -ty 重音不同，13/30、15/50 最易听混，注意尾音 n / t。"
     },
     "listening": {
-      "title": "短对话 20 · 作业",
-      "q": "When is the report due?",
+      "title": "长对话 1 · 选课",
+      "q": "What subject does the woman finally choose?",
       "o": [
-        "Tomorrow",
-        "This Friday",
-        "Next Monday",
-        "Next month"
+        "History",
+        "Computer science",
+        "Psychology",
+        "Art"
       ],
-      "a": 2,
-      "script": "When should we hand in the report? The teacher said it is due next Monday."
+      "a": 1,
+      "script": "I cannot decide which course to take this term. How about computer science? It is useful and the teacher is great. You are right, I will take it."
     },
     "sentence": {
-      "en": "The smell filled her with disgust.",
-      "word": "disgust",
-      "cn": "厌恶；使反感"
+      "en": "The friendly atmosphere helped us relax.",
+      "word": "atmosphere",
+      "cn": "大气；氛围"
     }
   },
   "meta": {

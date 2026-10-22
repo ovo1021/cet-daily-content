@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-23",
+  "publishAt": "2026-10-23T00:10:00+08:00",
+  "day": 145,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-23 · 今日词包 Day 145",
+    "words": [
+      {
+        "w": "tune",
+        "ph": "/tjuːn/",
+        "pos": "n./v.",
+        "cn": "曲调；调音",
+        "ex": "She hummed a happy tune."
+      },
+      {
+        "w": "loyal",
+        "ph": "/ˈlɔɪəl/",
+        "pos": "adj.",
+        "cn": "忠诚的；忠心的",
+        "ex": "A dog is a loyal friend."
+      },
+      {
+        "w": "inspire",
+        "ph": "/ɪnˈspaɪə/",
+        "pos": "v.",
+        "cn": "鼓舞；启发",
+        "ex": "The teacher inspired the students."
+      },
+      {
+        "w": "atmosphere",
+        "ph": "/ˈætməsfɪə/",
+        "pos": "n.",
+        "cn": "大气；氛围",
+        "ex": "The friendly atmosphere helped us relax."
+      },
+      {
+        "w": "ingredient",
+        "ph": "/ɪnˈɡriːdiənt/",
+        "pos": "n.",
+        "cn": "成分；要素",
+        "ex": "Flour is an ingredient of bread."
+      },
+      {
+        "w": "image",
+        "ph": "/ˈɪmɪdʒ/",
+        "pos": "n.",
+        "cn": "形象；图像",
+        "ex": "The brand has a good public image."
+      }
+    ],
+    "quiz": {
+      "q": "The science museum is open every day ______ Monday.",
+      "o": [
+        "except",
+        "expect",
+        "accept",
+        "affect"
+      ],
+      "a": 0,
+      "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "听力",
+      "text": "听力数字：-teen 与 -ty 重音不同，13/30、15/50 最易听混，注意尾音 n / t。"
+    },
+    "listening": {
+      "title": "长对话 1 · 选课",
+      "q": "What subject does the woman finally choose?",
+      "o": [
+        "History",
+        "Computer science",
+        "Psychology",
+        "Art"
+      ],
+      "a": 1,
+      "script": "I cannot decide which course to take this term. How about computer science? It is useful and the teacher is great. You are right, I will take it."
+    },
+    "sentence": {
+      "en": "The friendly atmosphere helped us relax.",
+      "word": "atmosphere",
+      "cn": "大气；氛围"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-24",
+  "publishAt": "2026-10-24T00:10:00+08:00",
+  "day": 146,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-24 · 今日词包 Day 146",
+    "words": [
+      {
+        "w": "determine",
+        "ph": "/dɪˈtɜːmɪn/",
+        "pos": "v.",
+        "cn": "决定；查明",
+        "ex": "The test determines your level."
+      },
+      {
+        "w": "community",
+        "ph": "/kəˈmjuːnəti/",
+        "pos": "n.",
+        "cn": "社区；群体",
+        "ex": "The local community planted trees."
+      },
+      {
+        "w": "profound",
+        "ph": "/prəˈfaʊnd/",
+        "pos": "adj.",
+        "cn": "深刻的；深邃的",
+        "ex": "The book had a profound effect."
+      },
+      {
+        "w": "mislead",
+        "ph": "/ˌmɪsˈliːd/",
+        "pos": "v.",
+        "cn": "误导；使误解",
+        "ex": "The ad misled the consumers."
+      },
+      {
+        "w": "subtle",
+        "ph": "/ˈsʌtl/",
+        "pos": "adj.",
+        "cn": "微妙的；敏锐的",
+        "ex": "There is a subtle difference."
+      },
+      {
+        "w": "interest",
+        "ph": "/ˈɪntrəst/",
+        "pos": "n./v.",
+        "cn": "兴趣；利息；使感兴趣",
+        "ex": "He has an interest in music."
+      }
+    ],
+    "quiz": {
+      "q": "After months of consideration, she made a ______ decision to study abroad next year.",
+      "o": [
+        "final",
+        "financial",
+        "former",
+        "familiar"
+      ],
+      "a": 0,
+      "why": "make a final decision 做最终决定。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "阅读",
+      "text": "阅读定位：先读题干圈关键词，回原文找同义替换；主旨题看首尾段与转折词后。"
+    },
+    "listening": {
+      "title": "长对话 2 · 租房",
+      "q": "What is the problem with the apartment?",
+      "o": [
+        "It is too small",
+        "It is too noisy",
+        "The rent is high",
+        "It is far from school"
+      ],
+      "a": 1,
+      "script": "I found a cheap apartment near the park. Is it quiet? Not really. There is a busy road next to it, so it can be noisy at night."
+    },
+    "sentence": {
+      "en": "The local community planted trees.",
+      "word": "community",
+      "cn": "社区；群体"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

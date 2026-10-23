@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-23",
-  "publishAt": "2026-10-23T00:10:00+08:00",
-  "day": 145,
+  "date": "2026-10-24",
+  "publishAt": "2026-10-24T00:10:00+08:00",
+  "day": 146,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-23 · 今日词包 Day 145",
+    "headline": "2026-10-24 · 今日词包 Day 146",
     "words": [
       {
-        "w": "tune",
-        "ph": "/tjuːn/",
-        "pos": "n./v.",
-        "cn": "曲调；调音",
-        "ex": "She hummed a happy tune."
-      },
-      {
-        "w": "loyal",
-        "ph": "/ˈlɔɪəl/",
-        "pos": "adj.",
-        "cn": "忠诚的；忠心的",
-        "ex": "A dog is a loyal friend."
-      },
-      {
-        "w": "inspire",
-        "ph": "/ɪnˈspaɪə/",
+        "w": "determine",
+        "ph": "/dɪˈtɜːmɪn/",
         "pos": "v.",
-        "cn": "鼓舞；启发",
-        "ex": "The teacher inspired the students."
+        "cn": "决定；查明",
+        "ex": "The test determines your level."
       },
       {
-        "w": "atmosphere",
-        "ph": "/ˈætməsfɪə/",
+        "w": "community",
+        "ph": "/kəˈmjuːnəti/",
         "pos": "n.",
-        "cn": "大气；氛围",
-        "ex": "The friendly atmosphere helped us relax."
+        "cn": "社区；群体",
+        "ex": "The local community planted trees."
       },
       {
-        "w": "ingredient",
-        "ph": "/ɪnˈɡriːdiənt/",
-        "pos": "n.",
-        "cn": "成分；要素",
-        "ex": "Flour is an ingredient of bread."
+        "w": "profound",
+        "ph": "/prəˈfaʊnd/",
+        "pos": "adj.",
+        "cn": "深刻的；深邃的",
+        "ex": "The book had a profound effect."
       },
       {
-        "w": "image",
-        "ph": "/ˈɪmɪdʒ/",
-        "pos": "n.",
-        "cn": "形象；图像",
-        "ex": "The brand has a good public image."
+        "w": "mislead",
+        "ph": "/ˌmɪsˈliːd/",
+        "pos": "v.",
+        "cn": "误导；使误解",
+        "ex": "The ad misled the consumers."
+      },
+      {
+        "w": "subtle",
+        "ph": "/ˈsʌtl/",
+        "pos": "adj.",
+        "cn": "微妙的；敏锐的",
+        "ex": "There is a subtle difference."
+      },
+      {
+        "w": "interest",
+        "ph": "/ˈɪntrəst/",
+        "pos": "n./v.",
+        "cn": "兴趣；利息；使感兴趣",
+        "ex": "He has an interest in music."
       }
     ],
     "quiz": {
-      "q": "The science museum is open every day ______ Monday.",
+      "q": "After months of consideration, she made a ______ decision to study abroad next year.",
       "o": [
-        "except",
-        "expect",
-        "accept",
-        "affect"
+        "final",
+        "financial",
+        "former",
+        "familiar"
       ],
       "a": 0,
-      "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。",
-      "level": "CET-4"
+      "why": "make a final decision 做最终决定。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "听力",
-      "text": "听力数字：-teen 与 -ty 重音不同，13/30、15/50 最易听混，注意尾音 n / t。"
+      "tag": "阅读",
+      "text": "阅读定位：先读题干圈关键词，回原文找同义替换；主旨题看首尾段与转折词后。"
     },
     "listening": {
-      "title": "长对话 1 · 选课",
-      "q": "What subject does the woman finally choose?",
+      "title": "长对话 2 · 租房",
+      "q": "What is the problem with the apartment?",
       "o": [
-        "History",
-        "Computer science",
-        "Psychology",
-        "Art"
+        "It is too small",
+        "It is too noisy",
+        "The rent is high",
+        "It is far from school"
       ],
       "a": 1,
-      "script": "I cannot decide which course to take this term. How about computer science? It is useful and the teacher is great. You are right, I will take it."
+      "script": "I found a cheap apartment near the park. Is it quiet? Not really. There is a busy road next to it, so it can be noisy at night."
     },
     "sentence": {
-      "en": "The friendly atmosphere helped us relax.",
-      "word": "atmosphere",
-      "cn": "大气；氛围"
+      "en": "The local community planted trees.",
+      "word": "community",
+      "cn": "社区；群体"
     }
   },
   "meta": {

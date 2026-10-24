@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-24",
-  "publishAt": "2026-10-24T00:10:00+08:00",
-  "day": 146,
+  "date": "2026-10-25",
+  "publishAt": "2026-10-25T00:10:00+08:00",
+  "day": 147,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-24 · 今日词包 Day 146",
+    "headline": "2026-10-25 · 今日词包 Day 147",
     "words": [
       {
-        "w": "determine",
-        "ph": "/dɪˈtɜːmɪn/",
-        "pos": "v.",
-        "cn": "决定；查明",
-        "ex": "The test determines your level."
-      },
-      {
-        "w": "community",
-        "ph": "/kəˈmjuːnəti/",
-        "pos": "n.",
-        "cn": "社区；群体",
-        "ex": "The local community planted trees."
-      },
-      {
-        "w": "profound",
-        "ph": "/prəˈfaʊnd/",
-        "pos": "adj.",
-        "cn": "深刻的；深邃的",
-        "ex": "The book had a profound effect."
-      },
-      {
-        "w": "mislead",
-        "ph": "/ˌmɪsˈliːd/",
-        "pos": "v.",
-        "cn": "误导；使误解",
-        "ex": "The ad misled the consumers."
-      },
-      {
-        "w": "subtle",
-        "ph": "/ˈsʌtl/",
-        "pos": "adj.",
-        "cn": "微妙的；敏锐的",
-        "ex": "There is a subtle difference."
-      },
-      {
-        "w": "interest",
-        "ph": "/ˈɪntrəst/",
+        "w": "remark",
+        "ph": "/rɪˈmɑːk/",
         "pos": "n./v.",
-        "cn": "兴趣；利息；使感兴趣",
-        "ex": "He has an interest in music."
+        "cn": "评论；谈论",
+        "ex": "He made a rude remark."
+      },
+      {
+        "w": "balance",
+        "ph": "/ˈbæləns/",
+        "pos": "n./v.",
+        "cn": "平衡；权衡",
+        "ex": "Try to balance work and rest."
+      },
+      {
+        "w": "merchant",
+        "ph": "/ˈmɜːtʃənt/",
+        "pos": "n.",
+        "cn": "商人；批发商",
+        "ex": "The merchant sold spices."
+      },
+      {
+        "w": "supreme",
+        "ph": "/suːˈpriːm/",
+        "pos": "adj.",
+        "cn": "最高的；至上的",
+        "ex": "The supreme court made the ruling."
+      },
+      {
+        "w": "veteran",
+        "ph": "/ˈvetərən/",
+        "pos": "n./adj.",
+        "cn": "老兵；经验丰富的",
+        "ex": "He is a veteran teacher."
+      },
+      {
+        "w": "transport",
+        "ph": "/trænsˈpɔːt/",
+        "pos": "v./n.",
+        "cn": "运输；交通",
+        "ex": "The goods were transported by ship."
       }
     ],
     "quiz": {
-      "q": "After months of consideration, she made a ______ decision to study abroad next year.",
+      "q": "You are supposed to ______ the library books on time.",
       "o": [
-        "final",
-        "financial",
-        "former",
-        "familiar"
+        "return",
+        "remain",
+        "repair",
+        "repeat"
       ],
       "a": 0,
-      "why": "make a final decision 做最终决定。",
-      "level": "CET-6"
+      "why": "return the books 还书；be supposed to 应该。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "阅读",
-      "text": "阅读定位：先读题干圈关键词，回原文找同义替换；主旨题看首尾段与转折词后。"
+      "tag": "翻译",
+      "text": "汉译英：先拆主干“主谓宾”，再补修饰；不会的词用解释法绕开（如“月饼”→moon cake）。"
     },
     "listening": {
-      "title": "长对话 2 · 租房",
-      "q": "What is the problem with the apartment?",
+      "title": "长对话 3 · 面试",
+      "q": "What does the company value most?",
       "o": [
-        "It is too small",
-        "It is too noisy",
-        "The rent is high",
-        "It is far from school"
+        "Work experience",
+        "Team spirit",
+        "Foreign language skill",
+        "Computer skill"
       ],
       "a": 1,
-      "script": "I found a cheap apartment near the park. Is it quiet? Not really. There is a busy road next to it, so it can be noisy at night."
+      "script": "Tell me about yourself. I am good at working with others. Our team likes that, because we often do projects together. That is exactly what we need."
     },
     "sentence": {
-      "en": "The local community planted trees.",
-      "word": "community",
-      "cn": "社区；群体"
+      "en": "The goods were transported by ship.",
+      "word": "transport",
+      "cn": "运输；交通"
     }
   },
   "meta": {

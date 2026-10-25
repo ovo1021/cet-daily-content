@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-25",
-  "publishAt": "2026-10-25T00:10:00+08:00",
-  "day": 147,
+  "date": "2026-10-26",
+  "publishAt": "2026-10-26T00:10:00+08:00",
+  "day": 148,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-25 · 今日词包 Day 147",
+    "headline": "2026-10-26 · 今日词包 Day 148",
     "words": [
       {
-        "w": "remark",
-        "ph": "/rɪˈmɑːk/",
-        "pos": "n./v.",
-        "cn": "评论；谈论",
-        "ex": "He made a rude remark."
-      },
-      {
-        "w": "balance",
-        "ph": "/ˈbæləns/",
-        "pos": "n./v.",
-        "cn": "平衡；权衡",
-        "ex": "Try to balance work and rest."
-      },
-      {
-        "w": "merchant",
-        "ph": "/ˈmɜːtʃənt/",
+        "w": "port",
+        "ph": "/pɔːt/",
         "pos": "n.",
-        "cn": "商人；批发商",
-        "ex": "The merchant sold spices."
+        "cn": "港口；端口",
+        "ex": "The ship entered the port."
       },
       {
-        "w": "supreme",
-        "ph": "/suːˈpriːm/",
+        "w": "ally",
+        "ph": "/ˈælaɪ/",
+        "pos": "n.",
+        "cn": "盟友；同盟",
+        "ex": "The two countries became close allies."
+      },
+      {
+        "w": "sensitive",
+        "ph": "/ˈsensətɪv/",
         "pos": "adj.",
-        "cn": "最高的；至上的",
-        "ex": "The supreme court made the ruling."
+        "cn": "敏感的；灵敏的",
+        "ex": "She is sensitive to criticism."
       },
       {
-        "w": "veteran",
-        "ph": "/ˈvetərən/",
-        "pos": "n./adj.",
-        "cn": "老兵；经验丰富的",
-        "ex": "He is a veteran teacher."
+        "w": "utter",
+        "ph": "/ˈʌtə/",
+        "pos": "v./adj.",
+        "cn": "发出；完全的",
+        "ex": "He uttered a cry of pain."
       },
       {
-        "w": "transport",
-        "ph": "/trænsˈpɔːt/",
+        "w": "suspect",
+        "ph": "/səˈspekt/",
         "pos": "v./n.",
-        "cn": "运输；交通",
-        "ex": "The goods were transported by ship."
+        "cn": "怀疑；嫌疑犯",
+        "ex": "The police suspect a theft."
+      },
+      {
+        "w": "giant",
+        "ph": "/ˈdʒaɪənt/",
+        "pos": "n./adj.",
+        "cn": "巨人；巨大的",
+        "ex": "The giant tree shaded the house."
       }
     ],
     "quiz": {
-      "q": "You are supposed to ______ the library books on time.",
+      "q": "We should ______ every opportunity to practise our spoken English.",
       "o": [
-        "return",
-        "remain",
-        "repair",
-        "repeat"
+        "seize",
+        "size",
+        "site",
+        "sigh"
       ],
       "a": 0,
-      "why": "return the books 还书；be supposed to 应该。",
-      "level": "CET-4"
+      "why": "seize the opportunity 抓住机会。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "翻译",
-      "text": "汉译英：先拆主干“主谓宾”，再补修饰；不会的词用解释法绕开（如“月饼”→moon cake）。"
+      "tag": "高频词",
+      "text": "易混词：affect(影响 v.) vs effect(影响/效果 n.)；adopt(采纳) vs adapt(适应)。"
     },
     "listening": {
-      "title": "长对话 3 · 面试",
-      "q": "What does the company value most?",
+      "title": "长对话 4 · 旅行计划",
+      "q": "Which city will they visit first?",
       "o": [
-        "Work experience",
-        "Team spirit",
-        "Foreign language skill",
-        "Computer skill"
+        "Beijing",
+        "Shanghai",
+        "Xi'an",
+        "Chengdu"
       ],
-      "a": 1,
-      "script": "Tell me about yourself. I am good at working with others. Our team likes that, because we often do projects together. That is exactly what we need."
+      "a": 2,
+      "script": "Where should we go first on our trip? I suggest Xi'an. We can see the old city wall, then take the train to Chengdu for the food."
     },
     "sentence": {
-      "en": "The goods were transported by ship.",
-      "word": "transport",
-      "cn": "运输；交通"
+      "en": "The two countries became close allies.",
+      "word": "ally",
+      "cn": "盟友；同盟"
     }
   },
   "meta": {

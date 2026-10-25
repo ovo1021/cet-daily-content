@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-26",
+  "publishAt": "2026-10-26T00:10:00+08:00",
+  "day": 148,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-26 · 今日词包 Day 148",
+    "words": [
+      {
+        "w": "port",
+        "ph": "/pɔːt/",
+        "pos": "n.",
+        "cn": "港口；端口",
+        "ex": "The ship entered the port."
+      },
+      {
+        "w": "ally",
+        "ph": "/ˈælaɪ/",
+        "pos": "n.",
+        "cn": "盟友；同盟",
+        "ex": "The two countries became close allies."
+      },
+      {
+        "w": "sensitive",
+        "ph": "/ˈsensətɪv/",
+        "pos": "adj.",
+        "cn": "敏感的；灵敏的",
+        "ex": "She is sensitive to criticism."
+      },
+      {
+        "w": "utter",
+        "ph": "/ˈʌtə/",
+        "pos": "v./adj.",
+        "cn": "发出；完全的",
+        "ex": "He uttered a cry of pain."
+      },
+      {
+        "w": "suspect",
+        "ph": "/səˈspekt/",
+        "pos": "v./n.",
+        "cn": "怀疑；嫌疑犯",
+        "ex": "The police suspect a theft."
+      },
+      {
+        "w": "giant",
+        "ph": "/ˈdʒaɪənt/",
+        "pos": "n./adj.",
+        "cn": "巨人；巨大的",
+        "ex": "The giant tree shaded the house."
+      }
+    ],
+    "quiz": {
+      "q": "We should ______ every opportunity to practise our spoken English.",
+      "o": [
+        "seize",
+        "size",
+        "site",
+        "sigh"
+      ],
+      "a": 0,
+      "why": "seize the opportunity 抓住机会。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "高频词",
+      "text": "易混词：affect(影响 v.) vs effect(影响/效果 n.)；adopt(采纳) vs adapt(适应)。"
+    },
+    "listening": {
+      "title": "长对话 4 · 旅行计划",
+      "q": "Which city will they visit first?",
+      "o": [
+        "Beijing",
+        "Shanghai",
+        "Xi'an",
+        "Chengdu"
+      ],
+      "a": 2,
+      "script": "Where should we go first on our trip? I suggest Xi'an. We can see the old city wall, then take the train to Chengdu for the food."
+    },
+    "sentence": {
+      "en": "The two countries became close allies.",
+      "word": "ally",
+      "cn": "盟友；同盟"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

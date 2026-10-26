@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-27",
+  "publishAt": "2026-10-27T00:10:00+08:00",
+  "day": 149,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-27 · 今日词包 Day 149",
+    "words": [
+      {
+        "w": "port",
+        "ph": "/pɔːt/",
+        "pos": "n.",
+        "cn": "港口；端口",
+        "ex": "The ship entered the port."
+      },
+      {
+        "w": "bold",
+        "ph": "/bəʊld/",
+        "pos": "adj.",
+        "cn": "大胆的；粗体的",
+        "ex": "She made a bold decision to quit."
+      },
+      {
+        "w": "suspect",
+        "ph": "/səˈspekt/",
+        "pos": "v./n.",
+        "cn": "怀疑；嫌疑犯",
+        "ex": "The police suspect a theft."
+      },
+      {
+        "w": "religion",
+        "ph": "/rɪˈlɪdʒən/",
+        "pos": "n.",
+        "cn": "宗教；信仰",
+        "ex": "Freedom of religion is a right."
+      },
+      {
+        "w": "intervene",
+        "ph": "/ˌɪntəˈviːn/",
+        "pos": "v.",
+        "cn": "干涉；介入",
+        "ex": "The teacher intervened in the fight."
+      },
+      {
+        "w": "fee",
+        "ph": "/fiː/",
+        "pos": "n.",
+        "cn": "费；酬金",
+        "ex": "The club charges a small fee."
+      }
+    ],
+    "quiz": {
+      "q": "The doctor advised him to stop smoking, but he did not take the ______ seriously.",
+      "o": [
+        "advice",
+        "advance",
+        "advantage",
+        "adventure"
+      ],
+      "a": 0,
+      "why": "take the advice 意为“听从建议”。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "高频词",
+      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
+    },
+    "listening": {
+      "title": "长对话 5 · 健康饮食",
+      "q": "Why does the man stop eating fast food?",
+      "o": [
+        "It is too expensive",
+        "It makes him sick",
+        "He wants to lose weight",
+        "The shop closed"
+      ],
+      "a": 2,
+      "script": "You look thinner. Yes, I stopped eating fast food last month. I want to lose some weight and feel healthier."
+    },
+    "sentence": {
+      "en": "The teacher intervened in the fight.",
+      "word": "intervene",
+      "cn": "干涉；介入"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

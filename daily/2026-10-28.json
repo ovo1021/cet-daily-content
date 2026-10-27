@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-28",
+  "publishAt": "2026-10-28T00:10:00+08:00",
+  "day": 150,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-28 · 今日词包 Day 150",
+    "words": [
+      {
+        "w": "mortal",
+        "ph": "/ˈmɔːtl/",
+        "pos": "adj.",
+        "cn": "终有一死的；致命的",
+        "ex": "All men are mortal."
+      },
+      {
+        "w": "provide",
+        "ph": "/prəˈvaɪd/",
+        "pos": "v.",
+        "cn": "提供；供给",
+        "ex": "The school provides lunch."
+      },
+      {
+        "w": "continual",
+        "ph": "/kənˈtɪnjuəl/",
+        "pos": "adj.",
+        "cn": "不断的；频繁的",
+        "ex": "The continual rain ruined the trip."
+      },
+      {
+        "w": "limit",
+        "ph": "/ˈlɪmɪt/",
+        "pos": "n./v.",
+        "cn": "限制；界限",
+        "ex": "There is a limit to patience."
+      },
+      {
+        "w": "curriculum",
+        "ph": "/kəˈrɪkjələm/",
+        "pos": "n.",
+        "cn": "课程；大纲",
+        "ex": "The school revised its curriculum."
+      },
+      {
+        "w": "incline",
+        "ph": "/ɪnˈklaɪn/",
+        "pos": "v.",
+        "cn": "倾向于；使倾斜",
+        "ex": "I incline to agree with you."
+      }
+    ],
+    "quiz": {
+      "q": "Her outstanding performance won ______ from both teachers and classmates.",
+      "o": [
+        "admiration",
+        "admission",
+        "administration",
+        "ambition"
+      ],
+      "a": 0,
+      "why": "win admiration 赢得赞赏；admission 准许进入。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "技巧",
+      "text": "艾宾浩斯复习：学完 1、2、4、7、15、30 天后各复习一次，记忆留存率最高。"
+    },
+    "listening": {
+      "title": "长对话 6 · 图书馆研究",
+      "q": "What is the man's paper about?",
+      "o": [
+        "Air pollution",
+        "Online learning",
+        "City transport",
+        "Social media"
+      ],
+      "a": 1,
+      "script": "How is your paper going? Slow but fine. It is about online learning and how students study at home. I need more examples."
+    },
+    "sentence": {
+      "en": "The continual rain ruined the trip.",
+      "word": "continual",
+      "cn": "不断的；频繁的"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

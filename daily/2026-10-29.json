@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-29",
+  "publishAt": "2026-10-29T00:10:00+08:00",
+  "day": 151,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-29 · 今日词包 Day 151",
+    "words": [
+      {
+        "w": "differ",
+        "ph": "/ˈdɪfə/",
+        "pos": "v.",
+        "cn": "不同；意见不合",
+        "ex": "The two reports differ in method."
+      },
+      {
+        "w": "border",
+        "ph": "/ˈbɔːdə/",
+        "pos": "n./v.",
+        "cn": "边界；与…接壤",
+        "ex": "The river forms the border of two cities."
+      },
+      {
+        "w": "refresh",
+        "ph": "/rɪˈfreʃ/",
+        "pos": "v.",
+        "cn": "使清新；更新",
+        "ex": "A nap refreshed him."
+      },
+      {
+        "w": "literature",
+        "ph": "/ˈlɪtrətʃə/",
+        "pos": "n.",
+        "cn": "文学；文献",
+        "ex": "She studies English literature."
+      },
+      {
+        "w": "embrace",
+        "ph": "/ɪmˈbreɪs/",
+        "pos": "v.",
+        "cn": "拥抱；欣然接受",
+        "ex": "She embraced the new challenge."
+      },
+      {
+        "w": "accommodate",
+        "ph": "/əˈkɒmədeɪt/",
+        "pos": "v.",
+        "cn": "容纳；提供住宿",
+        "ex": "The hotel can accommodate 200 guests."
+      }
+    ],
+    "quiz": {
+      "q": "The little boy showed great ______ in music and could play the piano at four.",
+      "o": [
+        "interest",
+        "interesting",
+        "interested",
+        "interests"
+      ],
+      "a": 0,
+      "why": "show interest in… 对……表现出兴趣。interest 为名词。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "技巧",
+      "text": "背词不孤立：把单词放进例句和搭配里记（如 take measures to do 采取措施）。"
+    },
+    "listening": {
+      "title": "长对话 7 · 志愿服务",
+      "q": "What will the woman do this weekend?",
+      "o": [
+        "Visit a museum",
+        "Teach children",
+        "Plant trees",
+        "Clean the park"
+      ],
+      "a": 1,
+      "script": "Any plans for the weekend? I will volunteer at the community center. We teach primary school kids to read. That sounds meaningful."
+    },
+    "sentence": {
+      "en": "The river forms the border of two cities.",
+      "word": "border",
+      "cn": "边界；与…接壤"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

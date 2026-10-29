@@ -1,86 +1,86 @@
 {
-  "date": "2026-10-29",
-  "publishAt": "2026-10-29T00:10:00+08:00",
-  "day": 151,
+  "date": "2026-10-30",
+  "publishAt": "2026-10-30T00:10:00+08:00",
+  "day": 152,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-10-29 · 今日词包 Day 151",
+    "headline": "2026-10-30 · 今日词包 Day 152",
     "words": [
       {
-        "w": "differ",
-        "ph": "/ˈdɪfə/",
-        "pos": "v.",
-        "cn": "不同；意见不合",
-        "ex": "The two reports differ in method."
+        "w": "unable",
+        "ph": "/ʌnˈeɪbl/",
+        "pos": "adj.",
+        "cn": "不能的；不会的",
+        "ex": "He was unable to come."
       },
       {
-        "w": "border",
-        "ph": "/ˈbɔːdə/",
-        "pos": "n./v.",
-        "cn": "边界；与…接壤",
-        "ex": "The river forms the border of two cities."
-      },
-      {
-        "w": "refresh",
-        "ph": "/rɪˈfreʃ/",
-        "pos": "v.",
-        "cn": "使清新；更新",
-        "ex": "A nap refreshed him."
-      },
-      {
-        "w": "literature",
-        "ph": "/ˈlɪtrətʃə/",
+        "w": "refugee",
+        "ph": "/ˌrefjuˈdʒiː/",
         "pos": "n.",
-        "cn": "文学；文献",
-        "ex": "She studies English literature."
+        "cn": "难民",
+        "ex": "The war created many refugees."
       },
       {
-        "w": "embrace",
-        "ph": "/ɪmˈbreɪs/",
-        "pos": "v.",
-        "cn": "拥抱；欣然接受",
-        "ex": "She embraced the new challenge."
+        "w": "solemn",
+        "ph": "/ˈsɒləm/",
+        "pos": "adj.",
+        "cn": "庄严的；严肃的",
+        "ex": "They made a solemn promise."
       },
       {
-        "w": "accommodate",
-        "ph": "/əˈkɒmədeɪt/",
+        "w": "astonish",
+        "ph": "/əˈstɒnɪʃ/",
         "pos": "v.",
-        "cn": "容纳；提供住宿",
-        "ex": "The hotel can accommodate 200 guests."
+        "cn": "使惊讶",
+        "ex": "The news astonished everyone present."
+      },
+      {
+        "w": "planet",
+        "ph": "/ˈplænɪt/",
+        "pos": "n.",
+        "cn": "行星",
+        "ex": "Earth is a planet in the solar system."
+      },
+      {
+        "w": "assess",
+        "ph": "/əˈses/",
+        "pos": "v.",
+        "cn": "评估；评定",
+        "ex": "Teachers assess students by exams."
       }
     ],
     "quiz": {
-      "q": "The little boy showed great ______ in music and could play the piano at four.",
+      "q": "Children should be encouraged to think ______ instead of following others blindly.",
       "o": [
-        "interest",
-        "interesting",
-        "interested",
-        "interests"
+        "independently",
+        "impatiently",
+        "impossibly",
+        "increasingly"
       ],
       "a": 0,
-      "why": "show interest in… 对……表现出兴趣。interest 为名词。",
-      "level": "CET-4"
+      "why": "think independently 独立思考。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "技巧",
-      "text": "背词不孤立：把单词放进例句和搭配里记（如 take measures to do 采取措施）。"
+      "tag": "词根",
+      "text": "re- 表“再次/返回”：review 复习、return 返回、recycle 回收、renew 更新。"
     },
     "listening": {
-      "title": "长对话 7 · 志愿服务",
-      "q": "What will the woman do this weekend?",
+      "title": "短文 13 · 博物馆",
+      "q": "What can visitors do in the museum?",
       "o": [
-        "Visit a museum",
-        "Teach children",
-        "Plant trees",
-        "Clean the park"
+        "Buy old paintings",
+        "Learn local history",
+        "Take photos of art",
+        "Sleep overnight"
       ],
       "a": 1,
-      "script": "Any plans for the weekend? I will volunteer at the community center. We teach primary school kids to read. That sounds meaningful."
+      "script": "The city museum is free on weekends. Inside, you can see tools from hundreds of years ago and learn the local history. Guides explain how people lived in the past."
     },
     "sentence": {
-      "en": "The river forms the border of two cities.",
-      "word": "border",
-      "cn": "边界；与…接壤"
+      "en": "Earth is a planet in the solar system.",
+      "word": "planet",
+      "cn": "行星"
     }
   },
   "meta": {

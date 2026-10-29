@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-30",
+  "publishAt": "2026-10-30T00:10:00+08:00",
+  "day": 152,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-30 · 今日词包 Day 152",
+    "words": [
+      {
+        "w": "unable",
+        "ph": "/ʌnˈeɪbl/",
+        "pos": "adj.",
+        "cn": "不能的；不会的",
+        "ex": "He was unable to come."
+      },
+      {
+        "w": "refugee",
+        "ph": "/ˌrefjuˈdʒiː/",
+        "pos": "n.",
+        "cn": "难民",
+        "ex": "The war created many refugees."
+      },
+      {
+        "w": "solemn",
+        "ph": "/ˈsɒləm/",
+        "pos": "adj.",
+        "cn": "庄严的；严肃的",
+        "ex": "They made a solemn promise."
+      },
+      {
+        "w": "astonish",
+        "ph": "/əˈstɒnɪʃ/",
+        "pos": "v.",
+        "cn": "使惊讶",
+        "ex": "The news astonished everyone present."
+      },
+      {
+        "w": "planet",
+        "ph": "/ˈplænɪt/",
+        "pos": "n.",
+        "cn": "行星",
+        "ex": "Earth is a planet in the solar system."
+      },
+      {
+        "w": "assess",
+        "ph": "/əˈses/",
+        "pos": "v.",
+        "cn": "评估；评定",
+        "ex": "Teachers assess students by exams."
+      }
+    ],
+    "quiz": {
+      "q": "Children should be encouraged to think ______ instead of following others blindly.",
+      "o": [
+        "independently",
+        "impatiently",
+        "impossibly",
+        "increasingly"
+      ],
+      "a": 0,
+      "why": "think independently 独立思考。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "词根",
+      "text": "re- 表“再次/返回”：review 复习、return 返回、recycle 回收、renew 更新。"
+    },
+    "listening": {
+      "title": "短文 13 · 博物馆",
+      "q": "What can visitors do in the museum?",
+      "o": [
+        "Buy old paintings",
+        "Learn local history",
+        "Take photos of art",
+        "Sleep overnight"
+      ],
+      "a": 1,
+      "script": "The city museum is free on weekends. Inside, you can see tools from hundreds of years ago and learn the local history. Guides explain how people lived in the past."
+    },
+    "sentence": {
+      "en": "Earth is a planet in the solar system.",
+      "word": "planet",
+      "cn": "行星"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

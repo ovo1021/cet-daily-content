@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-31",
+  "publishAt": "2026-10-31T00:10:00+08:00",
+  "day": 153,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-10-31 · 今日词包 Day 153",
+    "words": [
+      {
+        "w": "generate",
+        "ph": "/ˈdʒenəreɪt/",
+        "pos": "v.",
+        "cn": "产生；生成",
+        "ex": "The machine generates electricity."
+      },
+      {
+        "w": "hardly",
+        "ph": "/ˈhɑːdli/",
+        "pos": "adv.",
+        "cn": "几乎不；刚刚",
+        "ex": "He could hardly hear the sound."
+      },
+      {
+        "w": "mechanism",
+        "ph": "/ˈmekənɪzəm/",
+        "pos": "n.",
+        "cn": "机制；机械装置",
+        "ex": "The brake mechanism failed."
+      },
+      {
+        "w": "desperate",
+        "ph": "/ˈdespərət/",
+        "pos": "adj.",
+        "cn": "绝望的；拼命的",
+        "ex": "He made a desperate effort."
+      },
+      {
+        "w": "manufacture",
+        "ph": "/ˌmænjuˈfæktʃə/",
+        "pos": "v./n.",
+        "cn": "制造；制造业",
+        "ex": "The firm manufactures cars."
+      },
+      {
+        "w": "trust",
+        "ph": "/trʌst/",
+        "pos": "n./v.",
+        "cn": "信任；信赖",
+        "ex": "Trust is the base of friendship."
+      }
+    ],
+    "quiz": {
+      "q": "They ______ a class meeting to discuss the plan last Friday.",
+      "o": [
+        "held",
+        "took",
+        "made",
+        "had"
+      ],
+      "a": 0,
+      "why": "hold a meeting 举行会议，过去式为 held。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "语法",
+      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
+    },
+    "listening": {
+      "title": "短文 14 · 奥林匹克",
+      "q": "What is the spirit of the games?",
+      "o": [
+        "Winning at all costs",
+        "Taking part and friendship",
+        "Earning money",
+        "Traveling the world"
+      ],
+      "a": 1,
+      "script": "The Olympic Games bring athletes from many countries together. The most important thing is not only winning, but taking part and building friendship among nations."
+    },
+    "sentence": {
+      "en": "The machine generates electricity.",
+      "word": "generate",
+      "cn": "产生；生成"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

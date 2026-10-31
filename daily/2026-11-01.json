@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-01",
+  "publishAt": "2026-11-01T00:10:00+08:00",
+  "day": 154,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-01 · 今日词包 Day 154",
+    "words": [
+      {
+        "w": "consume",
+        "ph": "/kənˈsjuːm/",
+        "pos": "v.",
+        "cn": "消耗；消费",
+        "ex": "The car consumes little fuel."
+      },
+      {
+        "w": "undo",
+        "ph": "/ʌnˈduː/",
+        "pos": "v.",
+        "cn": "解开；取消",
+        "ex": "You cannot undo the past."
+      },
+      {
+        "w": "vertical",
+        "ph": "/ˈvɜːtɪkl/",
+        "pos": "adj.",
+        "cn": "垂直的；竖的",
+        "ex": "The line is vertical."
+      },
+      {
+        "w": "delay",
+        "ph": "/dɪˈleɪ/",
+        "pos": "n./v.",
+        "cn": "推迟；延误",
+        "ex": "The train was delayed by snow."
+      },
+      {
+        "w": "steep",
+        "ph": "/stiːp/",
+        "pos": "adj.",
+        "cn": "陡峭的；过高的",
+        "ex": "The hill is too steep."
+      },
+      {
+        "w": "yawn",
+        "ph": "/jɔːn/",
+        "pos": "v./n.",
+        "cn": "打哈欠",
+        "ex": "He yawned after the long trip."
+      }
+    ],
+    "quiz": {
+      "q": "The government has taken measures to ______ the spread of the disease.",
+      "o": [
+        "prevent",
+        "pretend",
+        "present",
+        "preserve"
+      ],
+      "a": 0,
+      "why": "prevent the spread 阻止扩散；preserve 保存。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "词根",
+      "text": "pre- 表“预先”：predict 预言、preview 预习、prevent 阻止、prepare 准备。"
+    },
+    "listening": {
+      "title": "短文 16 · 语言学习",
+      "q": "What helps you learn a language well?",
+      "o": [
+        "Memorize grammar only",
+        "Practice with real use",
+        "Avoid speaking",
+        "Study one day a year"
+      ],
+      "a": 1,
+      "script": "Learning a language takes practice, not just books. Try to speak with others, watch films, and listen to songs in that language. Real use helps words stay in your memory."
+    },
+    "sentence": {
+      "en": "The train was delayed by snow.",
+      "word": "delay",
+      "cn": "推迟；延误"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

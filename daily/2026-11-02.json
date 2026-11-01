@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-02",
+  "publishAt": "2026-11-02T00:10:00+08:00",
+  "day": 155,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-02 · 今日词包 Day 155",
+    "words": [
+      {
+        "w": "complement",
+        "ph": "/ˈkɒmplɪment/",
+        "pos": "n./v.",
+        "cn": "补充；补足物",
+        "ex": "Wine is a good complement to cheese."
+      },
+      {
+        "w": "adventure",
+        "ph": "/ədˈventʃə/",
+        "pos": "n.",
+        "cn": "冒险；奇遇",
+        "ex": "They went on an adventure in the mountains."
+      },
+      {
+        "w": "valuable",
+        "ph": "/ˈvæljuəbl/",
+        "pos": "adj.",
+        "cn": "贵重的；有价值的",
+        "ex": "Time is valuable."
+      },
+      {
+        "w": "afterward",
+        "ph": "/ˈɑːftəwəd/",
+        "pos": "adv.",
+        "cn": "后来；以后",
+        "ex": "We had dinner and went home afterward."
+      },
+      {
+        "w": "peculiar",
+        "ph": "/pɪˈkjuːliə/",
+        "pos": "adj.",
+        "cn": "奇怪的；特有的",
+        "ex": "This food has a peculiar taste."
+      },
+      {
+        "w": "file",
+        "ph": "/faɪl/",
+        "pos": "n./v.",
+        "cn": "文件；归档；提出",
+        "ex": "Please file the report by Friday."
+      }
+    ],
+    "quiz": {
+      "q": "Please ______ your homework carefully before you hand it in.",
+      "o": [
+        "check",
+        "chance",
+        "change",
+        "charge"
+      ],
+      "a": 0,
+      "why": "check 检查；hand in 上交。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "词根",
+      "text": "re- 表“再次/返回”：review 复习、return 返回、recycle 回收、renew 更新。"
+    },
+    "listening": {
+      "title": "短文 17 · 志愿服务",
+      "q": "What do volunteers often gain?",
+      "o": [
+        "High pay",
+        "New skills and friends",
+        "Free travel",
+        "Fame"
+      ],
+      "a": 1,
+      "script": "Volunteering asks for time, not money. In return, young people gain new skills and make friends. Helping others also brings a strong sense of happiness."
+    },
+    "sentence": {
+      "en": "They went on an adventure in the mountains.",
+      "word": "adventure",
+      "cn": "冒险；奇遇"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

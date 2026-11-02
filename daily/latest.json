@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-02",
-  "publishAt": "2026-11-02T00:10:00+08:00",
-  "day": 155,
+  "date": "2026-11-03",
+  "publishAt": "2026-11-03T00:10:00+08:00",
+  "day": 156,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-02 · 今日词包 Day 155",
+    "headline": "2026-11-03 · 今日词包 Day 156",
     "words": [
       {
-        "w": "complement",
-        "ph": "/ˈkɒmplɪment/",
-        "pos": "n./v.",
-        "cn": "补充；补足物",
-        "ex": "Wine is a good complement to cheese."
+        "w": "pursue",
+        "ph": "/pəˈsjuː/",
+        "pos": "v.",
+        "cn": "追求；从事；追赶",
+        "ex": "He pursues a career in law."
       },
       {
-        "w": "adventure",
-        "ph": "/ədˈventʃə/",
+        "w": "comparative",
+        "ph": "/kəmˈpærətɪv/",
+        "pos": "adj.",
+        "cn": "比较的；相对的",
+        "ex": "We made a comparative study of the two."
+      },
+      {
+        "w": "ambiguous",
+        "ph": "/æmˈbɪɡjuəs/",
+        "pos": "adj.",
+        "cn": "含糊的；模棱两可的",
+        "ex": "His answer was ambiguous."
+      },
+      {
+        "w": "prior",
+        "ph": "/ˈpraɪə/",
+        "pos": "adj.",
+        "cn": "在先的；优先的",
+        "ex": "Prior to 2000, few had mobile phones."
+      },
+      {
+        "w": "apparent",
+        "ph": "/əˈpærənt/",
+        "pos": "adj.",
+        "cn": "明显的；表面的",
+        "ex": "It was apparent that he was tired."
+      },
+      {
+        "w": "journal",
+        "ph": "/ˈdʒɜːnl/",
         "pos": "n.",
-        "cn": "冒险；奇遇",
-        "ex": "They went on an adventure in the mountains."
-      },
-      {
-        "w": "valuable",
-        "ph": "/ˈvæljuəbl/",
-        "pos": "adj.",
-        "cn": "贵重的；有价值的",
-        "ex": "Time is valuable."
-      },
-      {
-        "w": "afterward",
-        "ph": "/ˈɑːftəwəd/",
-        "pos": "adv.",
-        "cn": "后来；以后",
-        "ex": "We had dinner and went home afterward."
-      },
-      {
-        "w": "peculiar",
-        "ph": "/pɪˈkjuːliə/",
-        "pos": "adj.",
-        "cn": "奇怪的；特有的",
-        "ex": "This food has a peculiar taste."
-      },
-      {
-        "w": "file",
-        "ph": "/faɪl/",
-        "pos": "n./v.",
-        "cn": "文件；归档；提出",
-        "ex": "Please file the report by Friday."
+        "cn": "日报；期刊；日志",
+        "ex": "She keeps a travel journal."
       }
     ],
     "quiz": {
-      "q": "Please ______ your homework carefully before you hand it in.",
+      "q": "The manager ______ the importance of teamwork again and again in his speech.",
       "o": [
-        "check",
-        "chance",
-        "change",
-        "charge"
+        "emphasized",
+        "entertained",
+        "estimated",
+        "eliminated"
       ],
       "a": 0,
-      "why": "check 检查；hand in 上交。",
-      "level": "CET-4"
+      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "词根",
-      "text": "re- 表“再次/返回”：review 复习、return 返回、recycle 回收、renew 更新。"
+      "tag": "语法",
+      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
     },
     "listening": {
-      "title": "短文 17 · 志愿服务",
-      "q": "What do volunteers often gain?",
+      "title": "短文 18 · 时间管理",
+      "q": "What is the speaker's key tip?",
       "o": [
-        "High pay",
-        "New skills and friends",
-        "Free travel",
-        "Fame"
+        "Do everything at once",
+        "Plan your day",
+        "Avoid breaks",
+        "Work all night"
       ],
       "a": 1,
-      "script": "Volunteering asks for time, not money. In return, young people gain new skills and make friends. Helping others also brings a strong sense of happiness."
+      "script": "Many students feel busy but achieve little. The secret is to plan your day. Write down the three most important tasks each morning, and do them before checking your phone."
     },
     "sentence": {
-      "en": "They went on an adventure in the mountains.",
-      "word": "adventure",
-      "cn": "冒险；奇遇"
+      "en": "We made a comparative study of the two.",
+      "word": "comparative",
+      "cn": "比较的；相对的"
     }
   },
   "meta": {

@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-03",
+  "publishAt": "2026-11-03T00:10:00+08:00",
+  "day": 156,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-03 · 今日词包 Day 156",
+    "words": [
+      {
+        "w": "pursue",
+        "ph": "/pəˈsjuː/",
+        "pos": "v.",
+        "cn": "追求；从事；追赶",
+        "ex": "He pursues a career in law."
+      },
+      {
+        "w": "comparative",
+        "ph": "/kəmˈpærətɪv/",
+        "pos": "adj.",
+        "cn": "比较的；相对的",
+        "ex": "We made a comparative study of the two."
+      },
+      {
+        "w": "ambiguous",
+        "ph": "/æmˈbɪɡjuəs/",
+        "pos": "adj.",
+        "cn": "含糊的；模棱两可的",
+        "ex": "His answer was ambiguous."
+      },
+      {
+        "w": "prior",
+        "ph": "/ˈpraɪə/",
+        "pos": "adj.",
+        "cn": "在先的；优先的",
+        "ex": "Prior to 2000, few had mobile phones."
+      },
+      {
+        "w": "apparent",
+        "ph": "/əˈpærənt/",
+        "pos": "adj.",
+        "cn": "明显的；表面的",
+        "ex": "It was apparent that he was tired."
+      },
+      {
+        "w": "journal",
+        "ph": "/ˈdʒɜːnl/",
+        "pos": "n.",
+        "cn": "日报；期刊；日志",
+        "ex": "She keeps a travel journal."
+      }
+    ],
+    "quiz": {
+      "q": "The manager ______ the importance of teamwork again and again in his speech.",
+      "o": [
+        "emphasized",
+        "entertained",
+        "estimated",
+        "eliminated"
+      ],
+      "a": 0,
+      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "语法",
+      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
+    },
+    "listening": {
+      "title": "短文 18 · 时间管理",
+      "q": "What is the speaker's key tip?",
+      "o": [
+        "Do everything at once",
+        "Plan your day",
+        "Avoid breaks",
+        "Work all night"
+      ],
+      "a": 1,
+      "script": "Many students feel busy but achieve little. The secret is to plan your day. Write down the three most important tasks each morning, and do them before checking your phone."
+    },
+    "sentence": {
+      "en": "We made a comparative study of the two.",
+      "word": "comparative",
+      "cn": "比较的；相对的"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

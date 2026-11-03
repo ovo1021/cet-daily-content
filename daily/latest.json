@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-03",
-  "publishAt": "2026-11-03T00:10:00+08:00",
-  "day": 156,
+  "date": "2026-11-04",
+  "publishAt": "2026-11-04T00:10:00+08:00",
+  "day": 157,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-03 · 今日词包 Day 156",
+    "headline": "2026-11-04 · 今日词包 Day 157",
     "words": [
       {
-        "w": "pursue",
-        "ph": "/pəˈsjuː/",
+        "w": "mental",
+        "ph": "/ˈmentl/",
+        "pos": "adj.",
+        "cn": "精神的；智力的",
+        "ex": "He needs mental rest."
+      },
+      {
+        "w": "fruitful",
+        "ph": "/ˈfruːtfl/",
+        "pos": "adj.",
+        "cn": "富有成果的；多产的",
+        "ex": "It was a fruitful discussion."
+      },
+      {
+        "w": "attain",
+        "ph": "/əˈteɪn/",
         "pos": "v.",
-        "cn": "追求；从事；追赶",
-        "ex": "He pursues a career in law."
+        "cn": "达到；获得",
+        "ex": "She attained her dream at last."
       },
       {
-        "w": "comparative",
-        "ph": "/kəmˈpærətɪv/",
-        "pos": "adj.",
-        "cn": "比较的；相对的",
-        "ex": "We made a comparative study of the two."
-      },
-      {
-        "w": "ambiguous",
-        "ph": "/æmˈbɪɡjuəs/",
-        "pos": "adj.",
-        "cn": "含糊的；模棱两可的",
-        "ex": "His answer was ambiguous."
-      },
-      {
-        "w": "prior",
-        "ph": "/ˈpraɪə/",
-        "pos": "adj.",
-        "cn": "在先的；优先的",
-        "ex": "Prior to 2000, few had mobile phones."
-      },
-      {
-        "w": "apparent",
-        "ph": "/əˈpærənt/",
-        "pos": "adj.",
-        "cn": "明显的；表面的",
-        "ex": "It was apparent that he was tired."
-      },
-      {
-        "w": "journal",
-        "ph": "/ˈdʒɜːnl/",
+        "w": "bachelor",
+        "ph": "/ˈbætʃələ/",
         "pos": "n.",
-        "cn": "日报；期刊；日志",
-        "ex": "She keeps a travel journal."
+        "cn": "学士；单身汉",
+        "ex": "He earned a bachelor degree in law."
+      },
+      {
+        "w": "insult",
+        "ph": "/ɪnˈsʌlt/",
+        "pos": "v./n.",
+        "cn": "侮辱；冒犯",
+        "ex": "His words were an insult."
+      },
+      {
+        "w": "staff",
+        "ph": "/stɑːf/",
+        "pos": "n.",
+        "cn": "全体职员；工作人员",
+        "ex": "The staff are very helpful."
       }
     ],
     "quiz": {
-      "q": "The manager ______ the importance of teamwork again and again in his speech.",
+      "q": "The science museum is open every day ______ Monday.",
       "o": [
-        "emphasized",
-        "entertained",
-        "estimated",
-        "eliminated"
+        "except",
+        "expect",
+        "accept",
+        "affect"
       ],
       "a": 0,
-      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
-      "level": "CET-6"
+      "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。",
+      "level": "CET-4"
     },
     "tip": {
       "tag": "语法",
-      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
+      "text": "虚拟语气（与现在相反）：If I were you, I would study harder. be 动词一律用 were。"
     },
     "listening": {
-      "title": "短文 18 · 时间管理",
-      "q": "What is the speaker's key tip?",
+      "title": "长对话 17 · 毕业打算",
+      "q": "What will the man do after graduation?",
       "o": [
-        "Do everything at once",
-        "Plan your day",
-        "Avoid breaks",
-        "Work all night"
+        "Study abroad",
+        "Start a job",
+        "Open a shop",
+        "Take a gap year"
       ],
       "a": 1,
-      "script": "Many students feel busy but achieve little. The secret is to plan your day. Write down the three most important tasks each morning, and do them before checking your phone."
+      "script": "What is your plan after graduation? I already got a job offer from a tech company. I will start working this summer."
     },
     "sentence": {
-      "en": "We made a comparative study of the two.",
-      "word": "comparative",
-      "cn": "比较的；相对的"
+      "en": "He earned a bachelor degree in law.",
+      "word": "bachelor",
+      "cn": "学士；单身汉"
     }
   },
   "meta": {

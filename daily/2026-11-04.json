@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-04",
+  "publishAt": "2026-11-04T00:10:00+08:00",
+  "day": 157,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-04 · 今日词包 Day 157",
+    "words": [
+      {
+        "w": "mental",
+        "ph": "/ˈmentl/",
+        "pos": "adj.",
+        "cn": "精神的；智力的",
+        "ex": "He needs mental rest."
+      },
+      {
+        "w": "fruitful",
+        "ph": "/ˈfruːtfl/",
+        "pos": "adj.",
+        "cn": "富有成果的；多产的",
+        "ex": "It was a fruitful discussion."
+      },
+      {
+        "w": "attain",
+        "ph": "/əˈteɪn/",
+        "pos": "v.",
+        "cn": "达到；获得",
+        "ex": "She attained her dream at last."
+      },
+      {
+        "w": "bachelor",
+        "ph": "/ˈbætʃələ/",
+        "pos": "n.",
+        "cn": "学士；单身汉",
+        "ex": "He earned a bachelor degree in law."
+      },
+      {
+        "w": "insult",
+        "ph": "/ɪnˈsʌlt/",
+        "pos": "v./n.",
+        "cn": "侮辱；冒犯",
+        "ex": "His words were an insult."
+      },
+      {
+        "w": "staff",
+        "ph": "/stɑːf/",
+        "pos": "n.",
+        "cn": "全体职员；工作人员",
+        "ex": "The staff are very helpful."
+      }
+    ],
+    "quiz": {
+      "q": "The science museum is open every day ______ Monday.",
+      "o": [
+        "except",
+        "expect",
+        "accept",
+        "affect"
+      ],
+      "a": 0,
+      "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "语法",
+      "text": "虚拟语气（与现在相反）：If I were you, I would study harder. be 动词一律用 were。"
+    },
+    "listening": {
+      "title": "长对话 17 · 毕业打算",
+      "q": "What will the man do after graduation?",
+      "o": [
+        "Study abroad",
+        "Start a job",
+        "Open a shop",
+        "Take a gap year"
+      ],
+      "a": 1,
+      "script": "What is your plan after graduation? I already got a job offer from a tech company. I will start working this summer."
+    },
+    "sentence": {
+      "en": "He earned a bachelor degree in law.",
+      "word": "bachelor",
+      "cn": "学士；单身汉"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-04",
-  "publishAt": "2026-11-04T00:10:00+08:00",
-  "day": 157,
+  "date": "2026-11-05",
+  "publishAt": "2026-11-05T00:10:00+08:00",
+  "day": 158,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-04 · 今日词包 Day 157",
+    "headline": "2026-11-05 · 今日词包 Day 158",
     "words": [
       {
-        "w": "mental",
-        "ph": "/ˈmentl/",
-        "pos": "adj.",
-        "cn": "精神的；智力的",
-        "ex": "He needs mental rest."
+        "w": "practice",
+        "ph": "/ˈpræktɪs/",
+        "pos": "n./v.",
+        "cn": "练习；实践；惯例",
+        "ex": "Practice makes perfect."
       },
       {
-        "w": "fruitful",
-        "ph": "/ˈfruːtfl/",
-        "pos": "adj.",
-        "cn": "富有成果的；多产的",
-        "ex": "It was a fruitful discussion."
+        "w": "transcript",
+        "ph": "/ˈtrænskrɪpt/",
+        "pos": "n.",
+        "cn": "副本；成绩单",
+        "ex": "He requested his transcript."
       },
       {
-        "w": "attain",
-        "ph": "/əˈteɪn/",
+        "w": "casual",
+        "ph": "/ˈkæʒuəl/",
+        "pos": "adj.",
+        "cn": "随意的；临时的",
+        "ex": "He wore casual clothes to the party."
+      },
+      {
+        "w": "confuse",
+        "ph": "/kənˈfjuːz/",
         "pos": "v.",
-        "cn": "达到；获得",
-        "ex": "She attained her dream at last."
+        "cn": "使困惑；混淆",
+        "ex": "Do not confuse speed with quality."
       },
       {
-        "w": "bachelor",
-        "ph": "/ˈbætʃələ/",
+        "w": "fade",
+        "ph": "/feɪd/",
+        "pos": "v.",
+        "cn": "褪色；逐渐消失",
+        "ex": "The color faded in the sun."
+      },
+      {
+        "w": "army",
+        "ph": "/ˈɑːmi/",
         "pos": "n.",
-        "cn": "学士；单身汉",
-        "ex": "He earned a bachelor degree in law."
-      },
-      {
-        "w": "insult",
-        "ph": "/ɪnˈsʌlt/",
-        "pos": "v./n.",
-        "cn": "侮辱；冒犯",
-        "ex": "His words were an insult."
-      },
-      {
-        "w": "staff",
-        "ph": "/stɑːf/",
-        "pos": "n.",
-        "cn": "全体职员；工作人员",
-        "ex": "The staff are very helpful."
+        "cn": "军队；大批",
+        "ex": "The army defended the border."
       }
     ],
     "quiz": {
-      "q": "The science museum is open every day ______ Monday.",
+      "q": "After months of consideration, she made a ______ decision to study abroad next year.",
       "o": [
-        "except",
-        "expect",
-        "accept",
-        "affect"
+        "final",
+        "financial",
+        "former",
+        "familiar"
       ],
       "a": 0,
-      "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。",
-      "level": "CET-4"
+      "why": "make a final decision 做最终决定。",
+      "level": "CET-6"
     },
     "tip": {
       "tag": "语法",
-      "text": "虚拟语气（与现在相反）：If I were you, I would study harder. be 动词一律用 were。"
+      "text": "非谓语：enjoy/finish/avoid/mind 后接 doing；decide/want/hope/plan 后接 to do。"
     },
     "listening": {
-      "title": "长对话 17 · 毕业打算",
-      "q": "What will the man do after graduation?",
+      "title": "长对话 18 · 摄影",
+      "q": "What does the woman like to photograph?",
       "o": [
-        "Study abroad",
-        "Start a job",
-        "Open a shop",
-        "Take a gap year"
+        "People",
+        "Buildings",
+        "Nature",
+        "Food"
       ],
-      "a": 1,
-      "script": "What is your plan after graduation? I already got a job offer from a tech company. I will start working this summer."
+      "a": 2,
+      "script": "I took many photos during the trip. What do you like shooting? Mostly nature, like mountains and rivers. They help me relax."
     },
     "sentence": {
-      "en": "He earned a bachelor degree in law.",
-      "word": "bachelor",
-      "cn": "学士；单身汉"
+      "en": "He wore casual clothes to the party.",
+      "word": "casual",
+      "cn": "随意的；临时的"
     }
   },
   "meta": {

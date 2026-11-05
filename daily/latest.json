@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-05",
-  "publishAt": "2026-11-05T00:10:00+08:00",
-  "day": 158,
+  "date": "2026-11-06",
+  "publishAt": "2026-11-06T00:10:00+08:00",
+  "day": 159,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-05 · 今日词包 Day 158",
+    "headline": "2026-11-06 · 今日词包 Day 159",
     "words": [
       {
-        "w": "practice",
-        "ph": "/ˈpræktɪs/",
-        "pos": "n./v.",
-        "cn": "练习；实践；惯例",
-        "ex": "Practice makes perfect."
-      },
-      {
-        "w": "transcript",
-        "ph": "/ˈtrænskrɪpt/",
-        "pos": "n.",
-        "cn": "副本；成绩单",
-        "ex": "He requested his transcript."
-      },
-      {
-        "w": "casual",
-        "ph": "/ˈkæʒuəl/",
+        "w": "splendid",
+        "ph": "/ˈsplendɪd/",
         "pos": "adj.",
-        "cn": "随意的；临时的",
-        "ex": "He wore casual clothes to the party."
+        "cn": "壮丽的；极好的",
+        "ex": "We had a splendid time."
       },
       {
-        "w": "confuse",
-        "ph": "/kənˈfjuːz/",
+        "w": "introduce",
+        "ph": "/ˌɪntrəˈdjuːs/",
         "pos": "v.",
-        "cn": "使困惑；混淆",
-        "ex": "Do not confuse speed with quality."
+        "cn": "介绍；引进",
+        "ex": "Let me introduce my friend."
       },
       {
-        "w": "fade",
-        "ph": "/feɪd/",
+        "w": "press",
+        "ph": "/pres/",
+        "pos": "v./n.",
+        "cn": "压；催促；新闻界",
+        "ex": "The story was in the press."
+      },
+      {
+        "w": "inhabit",
+        "ph": "/ɪnˈhæbɪt/",
         "pos": "v.",
-        "cn": "褪色；逐渐消失",
-        "ex": "The color faded in the sun."
+        "cn": "居住于；栖息",
+        "ex": "Few people inhabit the island."
       },
       {
-        "w": "army",
-        "ph": "/ˈɑːmi/",
-        "pos": "n.",
-        "cn": "军队；大批",
-        "ex": "The army defended the border."
+        "w": "purchase",
+        "ph": "/ˈpɜːtʃəs/",
+        "pos": "v./n.",
+        "cn": "购买；购置",
+        "ex": "He purchased a new car."
+      },
+      {
+        "w": "reward",
+        "ph": "/rɪˈwɔːd/",
+        "pos": "n./v.",
+        "cn": "报酬；奖赏",
+        "ex": "Hard work brings its reward."
       }
     ],
     "quiz": {
-      "q": "After months of consideration, she made a ______ decision to study abroad next year.",
+      "q": "You are supposed to ______ the library books on time.",
       "o": [
-        "final",
-        "financial",
-        "former",
-        "familiar"
+        "return",
+        "remain",
+        "repair",
+        "repeat"
       ],
       "a": 0,
-      "why": "make a final decision 做最终决定。",
-      "level": "CET-6"
+      "why": "return the books 还书；be supposed to 应该。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "语法",
-      "text": "非谓语：enjoy/finish/avoid/mind 后接 doing；decide/want/hope/plan 后接 to do。"
+      "tag": "写作",
+      "text": "作文开头万能句：With the rapid development of society, more and more people pay attention to …"
     },
     "listening": {
-      "title": "长对话 18 · 摄影",
-      "q": "What does the woman like to photograph?",
+      "title": "长对话 19 · 节约用水",
+      "q": "What does the man do to save water?",
       "o": [
-        "People",
-        "Buildings",
-        "Nature",
-        "Food"
+        "Take short showers",
+        "Water the garden",
+        "Wash the car daily",
+        "Leave the tap on"
       ],
-      "a": 2,
-      "script": "I took many photos during the trip. What do you like shooting? Mostly nature, like mountains and rivers. They help me relax."
+      "a": 0,
+      "script": "We should save water at home. I take short showers instead of baths. Good habit. I also fix leaking taps right away."
     },
     "sentence": {
-      "en": "He wore casual clothes to the party.",
-      "word": "casual",
-      "cn": "随意的；临时的"
+      "en": "Few people inhabit the island.",
+      "word": "inhabit",
+      "cn": "居住于；栖息"
     }
   },
   "meta": {

@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-06",
-  "publishAt": "2026-11-06T00:10:00+08:00",
-  "day": 159,
+  "date": "2026-11-07",
+  "publishAt": "2026-11-07T00:10:00+08:00",
+  "day": 160,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-06 · 今日词包 Day 159",
+    "headline": "2026-11-07 · 今日词包 Day 160",
     "words": [
       {
-        "w": "splendid",
-        "ph": "/ˈsplendɪd/",
+        "w": "organ",
+        "ph": "/ˈɔːɡən/",
+        "pos": "n.",
+        "cn": "器官；风琴",
+        "ex": "The heart is a vital organ."
+      },
+      {
+        "w": "distant",
+        "ph": "/ˈdɪstənt/",
         "pos": "adj.",
-        "cn": "壮丽的；极好的",
-        "ex": "We had a splendid time."
+        "cn": "遥远的；冷淡的",
+        "ex": "The village is distant from the city."
       },
       {
-        "w": "introduce",
-        "ph": "/ˌɪntrəˈdjuːs/",
-        "pos": "v.",
-        "cn": "介绍；引进",
-        "ex": "Let me introduce my friend."
-      },
-      {
-        "w": "press",
-        "ph": "/pres/",
+        "w": "boost",
+        "ph": "/buːst/",
         "pos": "v./n.",
-        "cn": "压；催促；新闻界",
-        "ex": "The story was in the press."
+        "cn": "提升；推动",
+        "ex": "The ad boosted sales by 20%."
       },
       {
-        "w": "inhabit",
-        "ph": "/ɪnˈhæbɪt/",
+        "w": "product",
+        "ph": "/ˈprɒdʌkt/",
+        "pos": "n.",
+        "cn": "产品；产物",
+        "ex": "This is a new product."
+      },
+      {
+        "w": "nourish",
+        "ph": "/ˈnʌrɪʃ/",
         "pos": "v.",
-        "cn": "居住于；栖息",
-        "ex": "Few people inhabit the island."
+        "cn": "养育；滋养",
+        "ex": "Milk nourishes the body."
       },
       {
-        "w": "purchase",
-        "ph": "/ˈpɜːtʃəs/",
-        "pos": "v./n.",
-        "cn": "购买；购置",
-        "ex": "He purchased a new car."
-      },
-      {
-        "w": "reward",
-        "ph": "/rɪˈwɔːd/",
-        "pos": "n./v.",
-        "cn": "报酬；奖赏",
-        "ex": "Hard work brings its reward."
+        "w": "affect",
+        "ph": "/əˈfekt/",
+        "pos": "v.",
+        "cn": "影响；感动",
+        "ex": "Weather can affect your mood."
       }
     ],
     "quiz": {
-      "q": "You are supposed to ______ the library books on time.",
+      "q": "We should ______ every opportunity to practise our spoken English.",
       "o": [
-        "return",
-        "remain",
-        "repair",
-        "repeat"
+        "seize",
+        "size",
+        "site",
+        "sigh"
       ],
       "a": 0,
-      "why": "return the books 还书；be supposed to 应该。",
-      "level": "CET-4"
+      "why": "seize the opportunity 抓住机会。",
+      "level": "CET-6"
     },
     "tip": {
       "tag": "写作",
-      "text": "作文开头万能句：With the rapid development of society, more and more people pay attention to …"
+      "text": "表达观点：As far as I am concerned / From my perspective, … 比 I think 更出彩。"
     },
     "listening": {
-      "title": "长对话 19 · 节约用水",
-      "q": "What does the man do to save water?",
+      "title": "长对话 20 · 社团",
+      "q": "Which club will the woman join?",
       "o": [
-        "Take short showers",
-        "Water the garden",
-        "Wash the car daily",
-        "Leave the tap on"
+        "The dance club",
+        "The debate club",
+        "The chess club",
+        "The music club"
       ],
-      "a": 0,
-      "script": "We should save water at home. I take short showers instead of baths. Good habit. I also fix leaking taps right away."
+      "a": 1,
+      "script": "There are so many clubs on campus. I will join the debate club. It improves my speaking. That sounds challenging but fun."
     },
     "sentence": {
-      "en": "Few people inhabit the island.",
-      "word": "inhabit",
-      "cn": "居住于；栖息"
+      "en": "The village is distant from the city.",
+      "word": "distant",
+      "cn": "遥远的；冷淡的"
     }
   },
   "meta": {

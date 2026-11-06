@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-07",
+  "publishAt": "2026-11-07T00:10:00+08:00",
+  "day": 160,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-07 · 今日词包 Day 160",
+    "words": [
+      {
+        "w": "organ",
+        "ph": "/ˈɔːɡən/",
+        "pos": "n.",
+        "cn": "器官；风琴",
+        "ex": "The heart is a vital organ."
+      },
+      {
+        "w": "distant",
+        "ph": "/ˈdɪstənt/",
+        "pos": "adj.",
+        "cn": "遥远的；冷淡的",
+        "ex": "The village is distant from the city."
+      },
+      {
+        "w": "boost",
+        "ph": "/buːst/",
+        "pos": "v./n.",
+        "cn": "提升；推动",
+        "ex": "The ad boosted sales by 20%."
+      },
+      {
+        "w": "product",
+        "ph": "/ˈprɒdʌkt/",
+        "pos": "n.",
+        "cn": "产品；产物",
+        "ex": "This is a new product."
+      },
+      {
+        "w": "nourish",
+        "ph": "/ˈnʌrɪʃ/",
+        "pos": "v.",
+        "cn": "养育；滋养",
+        "ex": "Milk nourishes the body."
+      },
+      {
+        "w": "affect",
+        "ph": "/əˈfekt/",
+        "pos": "v.",
+        "cn": "影响；感动",
+        "ex": "Weather can affect your mood."
+      }
+    ],
+    "quiz": {
+      "q": "We should ______ every opportunity to practise our spoken English.",
+      "o": [
+        "seize",
+        "size",
+        "site",
+        "sigh"
+      ],
+      "a": 0,
+      "why": "seize the opportunity 抓住机会。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "写作",
+      "text": "表达观点：As far as I am concerned / From my perspective, … 比 I think 更出彩。"
+    },
+    "listening": {
+      "title": "长对话 20 · 社团",
+      "q": "Which club will the woman join?",
+      "o": [
+        "The dance club",
+        "The debate club",
+        "The chess club",
+        "The music club"
+      ],
+      "a": 1,
+      "script": "There are so many clubs on campus. I will join the debate club. It improves my speaking. That sounds challenging but fun."
+    },
+    "sentence": {
+      "en": "The village is distant from the city.",
+      "word": "distant",
+      "cn": "遥远的；冷淡的"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

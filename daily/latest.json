@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-07",
-  "publishAt": "2026-11-07T00:10:00+08:00",
-  "day": 160,
+  "date": "2026-11-08",
+  "publishAt": "2026-11-08T00:10:00+08:00",
+  "day": 161,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-07 · 今日词包 Day 160",
+    "headline": "2026-11-08 · 今日词包 Day 161",
     "words": [
       {
-        "w": "organ",
-        "ph": "/ˈɔːɡən/",
-        "pos": "n.",
-        "cn": "器官；风琴",
-        "ex": "The heart is a vital organ."
+        "w": "deprive",
+        "ph": "/dɪˈpraɪv/",
+        "pos": "v.",
+        "cn": "剥夺；使丧失",
+        "ex": "The war deprived children of schooling."
       },
       {
-        "w": "distant",
-        "ph": "/ˈdɪstənt/",
+        "w": "female",
+        "ph": "/ˈfiːmeɪl/",
+        "pos": "adj./n.",
+        "cn": "女性的；雌性",
+        "ex": "The female lion hunts for food."
+      },
+      {
+        "w": "entrance",
+        "ph": "/ˈentrəns/",
+        "pos": "n.",
+        "cn": "入口；进入",
+        "ex": "The entrance is on the left."
+      },
+      {
+        "w": "bound",
+        "ph": "/baʊnd/",
         "pos": "adj.",
-        "cn": "遥远的；冷淡的",
-        "ex": "The village is distant from the city."
+        "cn": "必定的；受约束的",
+        "ex": "The train is bound for the capital."
       },
       {
-        "w": "boost",
-        "ph": "/buːst/",
-        "pos": "v./n.",
-        "cn": "提升；推动",
-        "ex": "The ad boosted sales by 20%."
+        "w": "solemn",
+        "ph": "/ˈsɒləm/",
+        "pos": "adj.",
+        "cn": "庄严的；严肃的",
+        "ex": "They made a solemn promise."
       },
       {
-        "w": "product",
-        "ph": "/ˈprɒdʌkt/",
-        "pos": "n.",
-        "cn": "产品；产物",
-        "ex": "This is a new product."
-      },
-      {
-        "w": "nourish",
-        "ph": "/ˈnʌrɪʃ/",
+        "w": "amaze",
+        "ph": "/əˈmeɪz/",
         "pos": "v.",
-        "cn": "养育；滋养",
-        "ex": "Milk nourishes the body."
-      },
-      {
-        "w": "affect",
-        "ph": "/əˈfekt/",
-        "pos": "v.",
-        "cn": "影响；感动",
-        "ex": "Weather can affect your mood."
+        "cn": "使惊奇；使惊愕",
+        "ex": "Her progress amazed all the teachers."
       }
     ],
     "quiz": {
-      "q": "We should ______ every opportunity to practise our spoken English.",
+      "q": "The doctor advised him to stop smoking, but he did not take the ______ seriously.",
       "o": [
-        "seize",
-        "size",
-        "site",
-        "sigh"
+        "advice",
+        "advance",
+        "advantage",
+        "adventure"
       ],
       "a": 0,
-      "why": "seize the opportunity 抓住机会。",
-      "level": "CET-6"
+      "why": "take the advice 意为“听从建议”。",
+      "level": "CET-4"
     },
     "tip": {
       "tag": "写作",
-      "text": "表达观点：As far as I am concerned / From my perspective, … 比 I think 更出彩。"
+      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
     },
     "listening": {
-      "title": "长对话 20 · 社团",
-      "q": "Which club will the woman join?",
+      "title": "短对话 1 · 点餐",
+      "q": "Where does the conversation most probably take place?",
       "o": [
-        "The dance club",
-        "The debate club",
-        "The chess club",
-        "The music club"
+        "In a restaurant",
+        "In a library",
+        "In a bank",
+        "In a hospital"
       ],
-      "a": 1,
-      "script": "There are so many clubs on campus. I will join the debate club. It improves my speaking. That sounds challenging but fun."
+      "a": 0,
+      "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
     },
     "sentence": {
-      "en": "The village is distant from the city.",
-      "word": "distant",
-      "cn": "遥远的；冷淡的"
+      "en": "The war deprived children of schooling.",
+      "word": "deprive",
+      "cn": "剥夺；使丧失"
     }
   },
   "meta": {

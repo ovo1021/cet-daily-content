@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-08",
+  "publishAt": "2026-11-08T00:10:00+08:00",
+  "day": 161,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-08 · 今日词包 Day 161",
+    "words": [
+      {
+        "w": "deprive",
+        "ph": "/dɪˈpraɪv/",
+        "pos": "v.",
+        "cn": "剥夺；使丧失",
+        "ex": "The war deprived children of schooling."
+      },
+      {
+        "w": "female",
+        "ph": "/ˈfiːmeɪl/",
+        "pos": "adj./n.",
+        "cn": "女性的；雌性",
+        "ex": "The female lion hunts for food."
+      },
+      {
+        "w": "entrance",
+        "ph": "/ˈentrəns/",
+        "pos": "n.",
+        "cn": "入口；进入",
+        "ex": "The entrance is on the left."
+      },
+      {
+        "w": "bound",
+        "ph": "/baʊnd/",
+        "pos": "adj.",
+        "cn": "必定的；受约束的",
+        "ex": "The train is bound for the capital."
+      },
+      {
+        "w": "solemn",
+        "ph": "/ˈsɒləm/",
+        "pos": "adj.",
+        "cn": "庄严的；严肃的",
+        "ex": "They made a solemn promise."
+      },
+      {
+        "w": "amaze",
+        "ph": "/əˈmeɪz/",
+        "pos": "v.",
+        "cn": "使惊奇；使惊愕",
+        "ex": "Her progress amazed all the teachers."
+      }
+    ],
+    "quiz": {
+      "q": "The doctor advised him to stop smoking, but he did not take the ______ seriously.",
+      "o": [
+        "advice",
+        "advance",
+        "advantage",
+        "adventure"
+      ],
+      "a": 0,
+      "why": "take the advice 意为“听从建议”。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "写作",
+      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
+    },
+    "listening": {
+      "title": "短对话 1 · 点餐",
+      "q": "Where does the conversation most probably take place?",
+      "o": [
+        "In a restaurant",
+        "In a library",
+        "In a bank",
+        "In a hospital"
+      ],
+      "a": 0,
+      "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
+    },
+    "sentence": {
+      "en": "The war deprived children of schooling.",
+      "word": "deprive",
+      "cn": "剥夺；使丧失"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

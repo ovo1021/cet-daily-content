@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-08",
-  "publishAt": "2026-11-08T00:10:00+08:00",
-  "day": 161,
+  "date": "2026-11-09",
+  "publishAt": "2026-11-09T00:10:00+08:00",
+  "day": 162,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-08 · 今日词包 Day 161",
+    "headline": "2026-11-09 · 今日词包 Day 162",
     "words": [
       {
-        "w": "deprive",
-        "ph": "/dɪˈpraɪv/",
+        "w": "hedge",
+        "ph": "/hedʒ/",
+        "pos": "n./v.",
+        "cn": "树篱；回避",
+        "ex": "The hedge lined the garden."
+      },
+      {
+        "w": "private",
+        "ph": "/ˈpraɪvət/",
+        "pos": "adj.",
+        "cn": "私人的；私立的",
+        "ex": "This is a private conversation."
+      },
+      {
+        "w": "modify",
+        "ph": "/ˈmɒdɪfaɪ/",
         "pos": "v.",
-        "cn": "剥夺；使丧失",
-        "ex": "The war deprived children of schooling."
+        "cn": "修改；修饰",
+        "ex": "We modified the design."
       },
       {
-        "w": "female",
-        "ph": "/ˈfiːmeɪl/",
-        "pos": "adj./n.",
-        "cn": "女性的；雌性",
-        "ex": "The female lion hunts for food."
+        "w": "defeat",
+        "ph": "/dɪˈfiːt/",
+        "pos": "v./n.",
+        "cn": "击败；失败",
+        "ex": "Our team defeated the rivals."
       },
       {
-        "w": "entrance",
-        "ph": "/ˈentrəns/",
+        "w": "circumstance",
+        "ph": "/ˈsɜːkəmstəns/",
         "pos": "n.",
-        "cn": "入口；进入",
-        "ex": "The entrance is on the left."
+        "cn": "环境；情况",
+        "ex": "Under no circumstance should you lie."
       },
       {
-        "w": "bound",
-        "ph": "/baʊnd/",
+        "w": "voluntary",
+        "ph": "/ˈvɒləntri/",
         "pos": "adj.",
-        "cn": "必定的；受约束的",
-        "ex": "The train is bound for the capital."
-      },
-      {
-        "w": "solemn",
-        "ph": "/ˈsɒləm/",
-        "pos": "adj.",
-        "cn": "庄严的；严肃的",
-        "ex": "They made a solemn promise."
-      },
-      {
-        "w": "amaze",
-        "ph": "/əˈmeɪz/",
-        "pos": "v.",
-        "cn": "使惊奇；使惊愕",
-        "ex": "Her progress amazed all the teachers."
+        "cn": "自愿的；志愿的",
+        "ex": "He does voluntary work."
       }
     ],
     "quiz": {
-      "q": "The doctor advised him to stop smoking, but he did not take the ______ seriously.",
+      "q": "Her outstanding performance won ______ from both teachers and classmates.",
       "o": [
-        "advice",
-        "advance",
-        "advantage",
-        "adventure"
+        "admiration",
+        "admission",
+        "administration",
+        "ambition"
       ],
       "a": 0,
-      "why": "take the advice 意为“听从建议”。",
-      "level": "CET-4"
+      "why": "win admiration 赢得赞赏；admission 准许进入。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "写作",
-      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
+      "tag": "听力",
+      "text": "听力技巧：提前读题划关键词（时间、地点、数字、人物关系），听到同义替换即为答案。"
     },
     "listening": {
-      "title": "短对话 1 · 点餐",
-      "q": "Where does the conversation most probably take place?",
+      "title": "短对话 2 · 周末计划",
+      "q": "What does the woman plan to do this Saturday?",
       "o": [
-        "In a restaurant",
-        "In a library",
-        "In a bank",
-        "In a hospital"
+        "Visit the science museum",
+        "Stay at home",
+        "Go swimming",
+        "See a film"
       ],
       "a": 0,
-      "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
+      "script": "I am thinking about visiting the science museum this Saturday. Sounds great. Would you like me to join you?"
     },
     "sentence": {
-      "en": "The war deprived children of schooling.",
-      "word": "deprive",
-      "cn": "剥夺；使丧失"
+      "en": "Under no circumstance should you lie.",
+      "word": "circumstance",
+      "cn": "环境；情况"
     }
   },
   "meta": {

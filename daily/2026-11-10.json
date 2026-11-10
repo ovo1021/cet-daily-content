@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-10",
+  "publishAt": "2026-11-10T00:10:00+08:00",
+  "day": 163,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-10 · 今日词包 Day 163",
+    "words": [
+      {
+        "w": "endure",
+        "ph": "/ɪnˈdjʊə/",
+        "pos": "v.",
+        "cn": "忍受；持续",
+        "ex": "He endured great pain with courage."
+      },
+      {
+        "w": "withstand",
+        "ph": "/wɪðˈstænd/",
+        "pos": "v.",
+        "cn": "经受住；承受",
+        "ex": "The bridge withstood the storm."
+      },
+      {
+        "w": "supreme",
+        "ph": "/suːˈpriːm/",
+        "pos": "adj.",
+        "cn": "最高的；至上的",
+        "ex": "The supreme court made the ruling."
+      },
+      {
+        "w": "impatient",
+        "ph": "/ɪmˈpeɪʃnt/",
+        "pos": "adj.",
+        "cn": "不耐烦的；急切的",
+        "ex": "He was impatient to hear the news."
+      },
+      {
+        "w": "gang",
+        "ph": "/ɡæŋ/",
+        "pos": "n.",
+        "cn": "一帮；一伙",
+        "ex": "A gang of workers repaired the road."
+      },
+      {
+        "w": "stick",
+        "ph": "/stɪk/",
+        "pos": "n./v.",
+        "cn": "棍；粘贴；坚持",
+        "ex": "Stick to your plan."
+      }
+    ],
+    "quiz": {
+      "q": "Many students find it hard to ______ new words in their minds.",
+      "o": [
+        "remember",
+        "remind",
+        "remain",
+        "remove"
+      ],
+      "a": 0,
+      "why": "remember 记住；remind 提醒；remain 保持；remove 移除。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "高频词",
+      "text": "易混词：affect(影响 v.) vs effect(影响/效果 n.)；adopt(采纳) vs adapt(适应)。"
+    },
+    "listening": {
+      "title": "长对话 4 · 旅行计划",
+      "q": "Which city will they visit first?",
+      "o": [
+        "Beijing",
+        "Shanghai",
+        "Xi'an",
+        "Chengdu"
+      ],
+      "a": 2,
+      "script": "Where should we go first on our trip? I suggest Xi'an. We can see the old city wall, then take the train to Chengdu for the food."
+    },
+    "sentence": {
+      "en": "A gang of workers repaired the road.",
+      "word": "gang",
+      "cn": "一帮；一伙"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

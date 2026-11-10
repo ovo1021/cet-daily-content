@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-09",
-  "publishAt": "2026-11-09T00:10:00+08:00",
-  "day": 162,
+  "date": "2026-11-10",
+  "publishAt": "2026-11-10T00:10:00+08:00",
+  "day": 163,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-09 · 今日词包 Day 162",
+    "headline": "2026-11-10 · 今日词包 Day 163",
     "words": [
       {
-        "w": "hedge",
-        "ph": "/hedʒ/",
-        "pos": "n./v.",
-        "cn": "树篱；回避",
-        "ex": "The hedge lined the garden."
-      },
-      {
-        "w": "private",
-        "ph": "/ˈpraɪvət/",
-        "pos": "adj.",
-        "cn": "私人的；私立的",
-        "ex": "This is a private conversation."
-      },
-      {
-        "w": "modify",
-        "ph": "/ˈmɒdɪfaɪ/",
+        "w": "endure",
+        "ph": "/ɪnˈdjʊə/",
         "pos": "v.",
-        "cn": "修改；修饰",
-        "ex": "We modified the design."
+        "cn": "忍受；持续",
+        "ex": "He endured great pain with courage."
       },
       {
-        "w": "defeat",
-        "ph": "/dɪˈfiːt/",
-        "pos": "v./n.",
-        "cn": "击败；失败",
-        "ex": "Our team defeated the rivals."
+        "w": "withstand",
+        "ph": "/wɪðˈstænd/",
+        "pos": "v.",
+        "cn": "经受住；承受",
+        "ex": "The bridge withstood the storm."
       },
       {
-        "w": "circumstance",
-        "ph": "/ˈsɜːkəmstəns/",
-        "pos": "n.",
-        "cn": "环境；情况",
-        "ex": "Under no circumstance should you lie."
-      },
-      {
-        "w": "voluntary",
-        "ph": "/ˈvɒləntri/",
+        "w": "supreme",
+        "ph": "/suːˈpriːm/",
         "pos": "adj.",
-        "cn": "自愿的；志愿的",
-        "ex": "He does voluntary work."
+        "cn": "最高的；至上的",
+        "ex": "The supreme court made the ruling."
+      },
+      {
+        "w": "impatient",
+        "ph": "/ɪmˈpeɪʃnt/",
+        "pos": "adj.",
+        "cn": "不耐烦的；急切的",
+        "ex": "He was impatient to hear the news."
+      },
+      {
+        "w": "gang",
+        "ph": "/ɡæŋ/",
+        "pos": "n.",
+        "cn": "一帮；一伙",
+        "ex": "A gang of workers repaired the road."
+      },
+      {
+        "w": "stick",
+        "ph": "/stɪk/",
+        "pos": "n./v.",
+        "cn": "棍；粘贴；坚持",
+        "ex": "Stick to your plan."
       }
     ],
     "quiz": {
-      "q": "Her outstanding performance won ______ from both teachers and classmates.",
+      "q": "Many students find it hard to ______ new words in their minds.",
       "o": [
-        "admiration",
-        "admission",
-        "administration",
-        "ambition"
+        "remember",
+        "remind",
+        "remain",
+        "remove"
       ],
       "a": 0,
-      "why": "win admiration 赢得赞赏；admission 准许进入。",
-      "level": "CET-6"
+      "why": "remember 记住；remind 提醒；remain 保持；remove 移除。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "听力",
-      "text": "听力技巧：提前读题划关键词（时间、地点、数字、人物关系），听到同义替换即为答案。"
+      "tag": "高频词",
+      "text": "易混词：affect(影响 v.) vs effect(影响/效果 n.)；adopt(采纳) vs adapt(适应)。"
     },
     "listening": {
-      "title": "短对话 2 · 周末计划",
-      "q": "What does the woman plan to do this Saturday?",
+      "title": "长对话 4 · 旅行计划",
+      "q": "Which city will they visit first?",
       "o": [
-        "Visit the science museum",
-        "Stay at home",
-        "Go swimming",
-        "See a film"
+        "Beijing",
+        "Shanghai",
+        "Xi'an",
+        "Chengdu"
       ],
-      "a": 0,
-      "script": "I am thinking about visiting the science museum this Saturday. Sounds great. Would you like me to join you?"
+      "a": 2,
+      "script": "Where should we go first on our trip? I suggest Xi'an. We can see the old city wall, then take the train to Chengdu for the food."
     },
     "sentence": {
-      "en": "Under no circumstance should you lie.",
-      "word": "circumstance",
-      "cn": "环境；情况"
+      "en": "A gang of workers repaired the road.",
+      "word": "gang",
+      "cn": "一帮；一伙"
     }
   },
   "meta": {

@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-10",
-  "publishAt": "2026-11-10T00:10:00+08:00",
-  "day": 163,
+  "date": "2026-11-11",
+  "publishAt": "2026-11-11T00:10:00+08:00",
+  "day": 164,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-10 · 今日词包 Day 163",
+    "headline": "2026-11-11 · 今日词包 Day 164",
     "words": [
       {
-        "w": "endure",
-        "ph": "/ɪnˈdjʊə/",
-        "pos": "v.",
-        "cn": "忍受；持续",
-        "ex": "He endured great pain with courage."
-      },
-      {
-        "w": "withstand",
-        "ph": "/wɪðˈstænd/",
-        "pos": "v.",
-        "cn": "经受住；承受",
-        "ex": "The bridge withstood the storm."
-      },
-      {
-        "w": "supreme",
-        "ph": "/suːˈpriːm/",
-        "pos": "adj.",
-        "cn": "最高的；至上的",
-        "ex": "The supreme court made the ruling."
-      },
-      {
-        "w": "impatient",
-        "ph": "/ɪmˈpeɪʃnt/",
-        "pos": "adj.",
-        "cn": "不耐烦的；急切的",
-        "ex": "He was impatient to hear the news."
-      },
-      {
-        "w": "gang",
-        "ph": "/ɡæŋ/",
+        "w": "absence",
+        "ph": "/ˈæbsəns/",
         "pos": "n.",
-        "cn": "一帮；一伙",
-        "ex": "A gang of workers repaired the road."
+        "cn": "缺席；缺乏",
+        "ex": "His absence from class was noticed."
       },
       {
-        "w": "stick",
-        "ph": "/stɪk/",
+        "w": "significant",
+        "ph": "/sɪɡˈnɪfɪkənt/",
+        "pos": "adj.",
+        "cn": "重要的；显著的",
+        "ex": "There was a significant change."
+      },
+      {
+        "w": "calculate",
+        "ph": "/ˈkælkjuleɪt/",
+        "pos": "v.",
+        "cn": "计算；估计",
+        "ex": "We calculated the cost of the trip."
+      },
+      {
+        "w": "afraid",
+        "ph": "/əˈfreɪd/",
+        "pos": "adj.",
+        "cn": "害怕的；担心的",
+        "ex": "She is afraid of speaking in public."
+      },
+      {
+        "w": "solemn",
+        "ph": "/ˈsɒləm/",
+        "pos": "adj.",
+        "cn": "庄严的；严肃的",
+        "ex": "They made a solemn promise."
+      },
+      {
+        "w": "stroke",
+        "ph": "/strəʊk/",
         "pos": "n./v.",
-        "cn": "棍；粘贴；坚持",
-        "ex": "Stick to your plan."
+        "cn": "中风；一笔；抚摸",
+        "ex": "He had a stroke last year."
       }
     ],
     "quiz": {
-      "q": "Many students find it hard to ______ new words in their minds.",
+      "q": "Children should be encouraged to think ______ instead of following others blindly.",
       "o": [
-        "remember",
-        "remind",
-        "remain",
-        "remove"
+        "independently",
+        "impatiently",
+        "impossibly",
+        "increasingly"
       ],
       "a": 0,
-      "why": "remember 记住；remind 提醒；remain 保持；remove 移除。",
-      "level": "CET-4"
+      "why": "think independently 独立思考。",
+      "level": "CET-6"
     },
     "tip": {
       "tag": "高频词",
-      "text": "易混词：affect(影响 v.) vs effect(影响/效果 n.)；adopt(采纳) vs adapt(适应)。"
+      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
     },
     "listening": {
-      "title": "长对话 4 · 旅行计划",
-      "q": "Which city will they visit first?",
+      "title": "长对话 5 · 健康饮食",
+      "q": "Why does the man stop eating fast food?",
       "o": [
-        "Beijing",
-        "Shanghai",
-        "Xi'an",
-        "Chengdu"
+        "It is too expensive",
+        "It makes him sick",
+        "He wants to lose weight",
+        "The shop closed"
       ],
       "a": 2,
-      "script": "Where should we go first on our trip? I suggest Xi'an. We can see the old city wall, then take the train to Chengdu for the food."
+      "script": "You look thinner. Yes, I stopped eating fast food last month. I want to lose some weight and feel healthier."
     },
     "sentence": {
-      "en": "A gang of workers repaired the road.",
-      "word": "gang",
-      "cn": "一帮；一伙"
+      "en": "She is afraid of speaking in public.",
+      "word": "afraid",
+      "cn": "害怕的；担心的"
     }
   },
   "meta": {

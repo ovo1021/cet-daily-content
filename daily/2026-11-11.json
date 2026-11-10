@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-11",
+  "publishAt": "2026-11-11T00:10:00+08:00",
+  "day": 164,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-11 · 今日词包 Day 164",
+    "words": [
+      {
+        "w": "absence",
+        "ph": "/ˈæbsəns/",
+        "pos": "n.",
+        "cn": "缺席；缺乏",
+        "ex": "His absence from class was noticed."
+      },
+      {
+        "w": "significant",
+        "ph": "/sɪɡˈnɪfɪkənt/",
+        "pos": "adj.",
+        "cn": "重要的；显著的",
+        "ex": "There was a significant change."
+      },
+      {
+        "w": "calculate",
+        "ph": "/ˈkælkjuleɪt/",
+        "pos": "v.",
+        "cn": "计算；估计",
+        "ex": "We calculated the cost of the trip."
+      },
+      {
+        "w": "afraid",
+        "ph": "/əˈfreɪd/",
+        "pos": "adj.",
+        "cn": "害怕的；担心的",
+        "ex": "She is afraid of speaking in public."
+      },
+      {
+        "w": "solemn",
+        "ph": "/ˈsɒləm/",
+        "pos": "adj.",
+        "cn": "庄严的；严肃的",
+        "ex": "They made a solemn promise."
+      },
+      {
+        "w": "stroke",
+        "ph": "/strəʊk/",
+        "pos": "n./v.",
+        "cn": "中风；一笔；抚摸",
+        "ex": "He had a stroke last year."
+      }
+    ],
+    "quiz": {
+      "q": "Children should be encouraged to think ______ instead of following others blindly.",
+      "o": [
+        "independently",
+        "impatiently",
+        "impossibly",
+        "increasingly"
+      ],
+      "a": 0,
+      "why": "think independently 独立思考。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "高频词",
+      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
+    },
+    "listening": {
+      "title": "长对话 5 · 健康饮食",
+      "q": "Why does the man stop eating fast food?",
+      "o": [
+        "It is too expensive",
+        "It makes him sick",
+        "He wants to lose weight",
+        "The shop closed"
+      ],
+      "a": 2,
+      "script": "You look thinner. Yes, I stopped eating fast food last month. I want to lose some weight and feel healthier."
+    },
+    "sentence": {
+      "en": "She is afraid of speaking in public.",
+      "word": "afraid",
+      "cn": "害怕的；担心的"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

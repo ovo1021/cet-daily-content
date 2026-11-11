@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-11",
-  "publishAt": "2026-11-11T00:10:00+08:00",
-  "day": 164,
+  "date": "2026-11-12",
+  "publishAt": "2026-11-12T00:10:00+08:00",
+  "day": 165,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-11 · 今日词包 Day 164",
+    "headline": "2026-11-12 · 今日词包 Day 165",
     "words": [
       {
-        "w": "absence",
-        "ph": "/ˈæbsəns/",
+        "w": "literature",
+        "ph": "/ˈlɪtrətʃə/",
         "pos": "n.",
-        "cn": "缺席；缺乏",
-        "ex": "His absence from class was noticed."
+        "cn": "文学；文献",
+        "ex": "She studies English literature."
       },
       {
-        "w": "significant",
-        "ph": "/sɪɡˈnɪfɪkənt/",
-        "pos": "adj.",
-        "cn": "重要的；显著的",
-        "ex": "There was a significant change."
+        "w": "guess",
+        "ph": "/ɡes/",
+        "pos": "v./n.",
+        "cn": "猜测；推测",
+        "ex": "Can you guess the answer?"
       },
       {
-        "w": "calculate",
-        "ph": "/ˈkælkjuleɪt/",
+        "w": "constitute",
+        "ph": "/ˈkɒnstɪtjuːt/",
         "pos": "v.",
-        "cn": "计算；估计",
-        "ex": "We calculated the cost of the trip."
+        "cn": "构成；组成",
+        "ex": "Twelve months constitute a year."
       },
       {
-        "w": "afraid",
-        "ph": "/əˈfreɪd/",
+        "w": "secure",
+        "ph": "/sɪˈkjʊə/",
+        "pos": "adj./v.",
+        "cn": "安全的；获得",
+        "ex": "He secured a good job."
+      },
+      {
+        "w": "background",
+        "ph": "/ˈbækɡraʊnd/",
+        "pos": "n.",
+        "cn": "背景；经历",
+        "ex": "She has a strong math background."
+      },
+      {
+        "w": "complicated",
+        "ph": "/ˈkɒmplɪkeɪtɪd/",
         "pos": "adj.",
-        "cn": "害怕的；担心的",
-        "ex": "She is afraid of speaking in public."
-      },
-      {
-        "w": "solemn",
-        "ph": "/ˈsɒləm/",
-        "pos": "adj.",
-        "cn": "庄严的；严肃的",
-        "ex": "They made a solemn promise."
-      },
-      {
-        "w": "stroke",
-        "ph": "/strəʊk/",
-        "pos": "n./v.",
-        "cn": "中风；一笔；抚摸",
-        "ex": "He had a stroke last year."
+        "cn": "复杂的；难懂的",
+        "ex": "The instructions are too complicated."
       }
     ],
     "quiz": {
-      "q": "Children should be encouraged to think ______ instead of following others blindly.",
+      "q": "They ______ a class meeting to discuss the plan last Friday.",
       "o": [
-        "independently",
-        "impatiently",
-        "impossibly",
-        "increasingly"
+        "held",
+        "took",
+        "made",
+        "had"
       ],
       "a": 0,
-      "why": "think independently 独立思考。",
-      "level": "CET-6"
+      "why": "hold a meeting 举行会议，过去式为 held。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "高频词",
-      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
+      "tag": "技巧",
+      "text": "艾宾浩斯复习：学完 1、2、4、7、15、30 天后各复习一次，记忆留存率最高。"
     },
     "listening": {
-      "title": "长对话 5 · 健康饮食",
-      "q": "Why does the man stop eating fast food?",
+      "title": "长对话 6 · 图书馆研究",
+      "q": "What is the man's paper about?",
       "o": [
-        "It is too expensive",
-        "It makes him sick",
-        "He wants to lose weight",
-        "The shop closed"
+        "Air pollution",
+        "Online learning",
+        "City transport",
+        "Social media"
       ],
-      "a": 2,
-      "script": "You look thinner. Yes, I stopped eating fast food last month. I want to lose some weight and feel healthier."
+      "a": 1,
+      "script": "How is your paper going? Slow but fine. It is about online learning and how students study at home. I need more examples."
     },
     "sentence": {
-      "en": "She is afraid of speaking in public.",
-      "word": "afraid",
-      "cn": "害怕的；担心的"
+      "en": "The instructions are too complicated.",
+      "word": "complicated",
+      "cn": "复杂的；难懂的"
     }
   },
   "meta": {

@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-13",
+  "publishAt": "2026-11-13T00:10:00+08:00",
+  "day": 166,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-13 · 今日词包 Day 166",
+    "words": [
+      {
+        "w": "vacation",
+        "ph": "/vəˈkeɪʃn/",
+        "pos": "n.",
+        "cn": "假期；休假",
+        "ex": "She went on a long vacation."
+      },
+      {
+        "w": "introduce",
+        "ph": "/ˌɪntrəˈdjuːs/",
+        "pos": "v.",
+        "cn": "介绍；引进",
+        "ex": "Let me introduce my friend."
+      },
+      {
+        "w": "invent",
+        "ph": "/ɪnˈvent/",
+        "pos": "v.",
+        "cn": "发明；虚构",
+        "ex": "Who invented the telephone?"
+      },
+      {
+        "w": "fluent",
+        "ph": "/ˈfluːənt/",
+        "pos": "adj.",
+        "cn": "流利的；流畅的",
+        "ex": "She is fluent in three languages."
+      },
+      {
+        "w": "manual",
+        "ph": "/ˈmænjuəl/",
+        "pos": "adj./n.",
+        "cn": "手工的；手册",
+        "ex": "Read the manual before use."
+      },
+      {
+        "w": "wonder",
+        "ph": "/ˈwʌndə/",
+        "pos": "n./v.",
+        "cn": "惊奇；想知道",
+        "ex": "I wonder what happened."
+      }
+    ],
+    "quiz": {
+      "q": "It is reported that the new medicine is quite ______ against this kind of disease.",
+      "o": [
+        "effective",
+        "efficient",
+        "expensive",
+        "essential"
+      ],
+      "a": 0,
+      "why": "be effective against… 对……有效；efficient 指“高效的”。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "技巧",
+      "text": "背词不孤立：把单词放进例句和搭配里记（如 take measures to do 采取措施）。"
+    },
+    "listening": {
+      "title": "长对话 7 · 志愿服务",
+      "q": "What will the woman do this weekend?",
+      "o": [
+        "Visit a museum",
+        "Teach children",
+        "Plant trees",
+        "Clean the park"
+      ],
+      "a": 1,
+      "script": "Any plans for the weekend? I will volunteer at the community center. We teach primary school kids to read. That sounds meaningful."
+    },
+    "sentence": {
+      "en": "She is fluent in three languages.",
+      "word": "fluent",
+      "cn": "流利的；流畅的"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

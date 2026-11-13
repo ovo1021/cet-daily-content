@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-14",
+  "publishAt": "2026-11-14T00:10:00+08:00",
+  "day": 167,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-14 · 今日词包 Day 167",
+    "words": [
+      {
+        "w": "resign",
+        "ph": "/rɪˈzaɪn/",
+        "pos": "v.",
+        "cn": "辞职；放弃",
+        "ex": "He resigned from the committee."
+      },
+      {
+        "w": "expand",
+        "ph": "/ɪkˈspænd/",
+        "pos": "v.",
+        "cn": "扩张；扩大",
+        "ex": "The company plans to expand abroad."
+      },
+      {
+        "w": "confuse",
+        "ph": "/kənˈfjuːz/",
+        "pos": "v.",
+        "cn": "使困惑；混淆",
+        "ex": "Do not confuse speed with quality."
+      },
+      {
+        "w": "practical",
+        "ph": "/ˈpræktɪkl/",
+        "pos": "adj.",
+        "cn": "实用的；实际的",
+        "ex": "We need a practical plan."
+      },
+      {
+        "w": "sympathetic",
+        "ph": "/ˌsɪmpəˈθetɪk/",
+        "pos": "adj.",
+        "cn": "同情的；赞同的",
+        "ex": "She was sympathetic to my problem."
+      },
+      {
+        "w": "strict",
+        "ph": "/strɪkt/",
+        "pos": "adj.",
+        "cn": "严格的；精确的",
+        "ex": "He is strict with himself."
+      }
+    ],
+    "quiz": {
+      "q": "If you do not know a word, you can ______ it in a dictionary.",
+      "o": [
+        "look up",
+        "look after",
+        "look for",
+        "look out"
+      ],
+      "a": 0,
+      "why": "look up a word in a dictionary 在词典中查词。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "应试",
+      "text": "四六级满分 710，425 分通过；写作与翻译各占 106.5，听力与阅读各占 248.5。"
+    },
+    "listening": {
+      "title": "长对话 8 · 网购",
+      "q": "Why is the woman unhappy?",
+      "o": [
+        "The price went up",
+        "The product is late",
+        "The color is wrong",
+        "The size is small"
+      ],
+      "a": 2,
+      "script": "I ordered a blue dress online, but they sent a red one. That is annoying. You should ask for a return."
+    },
+    "sentence": {
+      "en": "The company plans to expand abroad.",
+      "word": "expand",
+      "cn": "扩张；扩大"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

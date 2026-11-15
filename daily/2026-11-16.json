@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-16",
+  "publishAt": "2026-11-16T00:10:00+08:00",
+  "day": 169,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-16 · 今日词包 Day 169",
+    "words": [
+      {
+        "w": "flexible",
+        "ph": "/ˈfleksəbl/",
+        "pos": "adj.",
+        "cn": "灵活的；柔韧的",
+        "ex": "We need a flexible schedule."
+      },
+      {
+        "w": "tropical",
+        "ph": "/ˈtrɒpɪkl/",
+        "pos": "adj.",
+        "cn": "热带的",
+        "ex": "The climate is tropical."
+      },
+      {
+        "w": "utility",
+        "ph": "/juːˈtɪləti/",
+        "pos": "n.",
+        "cn": "效用；公用事业",
+        "ex": "The utility provides water."
+      },
+      {
+        "w": "subtle",
+        "ph": "/ˈsʌtl/",
+        "pos": "adj.",
+        "cn": "微妙的；敏锐的",
+        "ex": "There is a subtle difference."
+      },
+      {
+        "w": "explode",
+        "ph": "/ɪkˈspləʊd/",
+        "pos": "v.",
+        "cn": "爆炸；激增",
+        "ex": "The bomb exploded at midnight."
+      },
+      {
+        "w": "structure",
+        "ph": "/ˈstrʌktʃə/",
+        "pos": "n./v.",
+        "cn": "结构；建造",
+        "ex": "The essay has a clear structure."
+      }
+    ],
+    "quiz": {
+      "q": "Spring in the south is warm and ______, which makes people feel good.",
+      "o": [
+        "comfortable",
+        "common",
+        "confident",
+        "complete"
+      ],
+      "a": 0,
+      "why": "comfortable 舒适的；common 普通的；confident 自信的。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "词根",
+      "text": "pre- 表“预先”：predict 预言、preview 预习、prevent 阻止、prepare 准备。"
+    },
+    "listening": {
+      "title": "长对话 10 · 环保",
+      "q": "What does the woman do to help the environment?",
+      "o": [
+        "Ride a bike",
+        "Use less plastic",
+        "Plant flowers",
+        "Save water"
+      ],
+      "a": 1,
+      "script": "Do you care about the environment? Yes, I bring my own bag to the supermarket so I use less plastic."
+    },
+    "sentence": {
+      "en": "The essay has a clear structure.",
+      "word": "structure",
+      "cn": "结构；建造"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

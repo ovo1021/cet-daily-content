@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-18",
+  "publishAt": "2026-11-18T00:10:00+08:00",
+  "day": 171,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-18 · 今日词包 Day 171",
+    "words": [
+      {
+        "w": "confer",
+        "ph": "/kənˈfɜː/",
+        "pos": "v.",
+        "cn": "授予；协商",
+        "ex": "The school conferred an honor on her."
+      },
+      {
+        "w": "explicit",
+        "ph": "/ɪkˈsplɪsɪt/",
+        "pos": "adj.",
+        "cn": "明确的；直率的",
+        "ex": "He gave explicit instructions."
+      },
+      {
+        "w": "behavior",
+        "ph": "/bɪˈheɪvjə/",
+        "pos": "n.",
+        "cn": "行为；举止",
+        "ex": "His behavior surprised his parents."
+      },
+      {
+        "w": "grant",
+        "ph": "/ɡrɑːnt/",
+        "pos": "v./n.",
+        "cn": "授予；准许；拨款",
+        "ex": "The school granted him a scholarship."
+      },
+      {
+        "w": "notable",
+        "ph": "/ˈnəʊtəbl/",
+        "pos": "adj.",
+        "cn": "显著的；著名的",
+        "ex": "There was a notable change."
+      },
+      {
+        "w": "classic",
+        "ph": "/ˈklæsɪk/",
+        "pos": "adj./n.",
+        "cn": "经典的；名著",
+        "ex": "This is a classic novel of the 19th century."
+      }
+    ],
+    "quiz": {
+      "q": "More and more people realize the ______ of protecting the environment.",
+      "o": [
+        "importance",
+        "improvement",
+        "imagination",
+        "invitation"
+      ],
+      "a": 0,
+      "why": "the importance of… 意为“……的重要性”。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "语法",
+      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
+    },
+    "listening": {
+      "title": "长对话 12 · 搬家",
+      "q": "When will the man move?",
+      "o": [
+        "This weekend",
+        "Next week",
+        "Next month",
+        "Next year"
+      ],
+      "a": 1,
+      "script": "Are you still living downtown? No, I found a new flat. I will move next week, closer to my office."
+    },
+    "sentence": {
+      "en": "This is a classic novel of the 19th century.",
+      "word": "classic",
+      "cn": "经典的；名著"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

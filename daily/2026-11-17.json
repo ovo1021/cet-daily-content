@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-17",
+  "publishAt": "2026-11-17T00:10:00+08:00",
+  "day": 170,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-17 · 今日词包 Day 170",
+    "words": [
+      {
+        "w": "largely",
+        "ph": "/ˈlɑːdʒli/",
+        "pos": "adv.",
+        "cn": "主要地；大体上",
+        "ex": "The success was largely due to luck."
+      },
+      {
+        "w": "horror",
+        "ph": "/ˈhɒrə/",
+        "pos": "n.",
+        "cn": "恐惧；憎恶",
+        "ex": "She screamed in horror at the sight."
+      },
+      {
+        "w": "overtake",
+        "ph": "/ˌəʊvəˈteɪk/",
+        "pos": "v.",
+        "cn": "超过；追上",
+        "ex": "The car overtook the bus."
+      },
+      {
+        "w": "interfere",
+        "ph": "/ˌɪntəˈfɪə/",
+        "pos": "v.",
+        "cn": "干涉；打扰",
+        "ex": "Do not interfere in their affair."
+      },
+      {
+        "w": "logical",
+        "ph": "/ˈlɒdʒɪkl/",
+        "pos": "adj.",
+        "cn": "逻辑上的；合理的",
+        "ex": "His argument is logical."
+      },
+      {
+        "w": "fund",
+        "ph": "/fʌnd/",
+        "pos": "n./v.",
+        "cn": "资金；资助",
+        "ex": "The project is funded by the state."
+      }
+    ],
+    "quiz": {
+      "q": "The results of the experiment will be ______ in the next issue of the journal.",
+      "o": [
+        "published",
+        "polished",
+        "punished",
+        "purchased"
+      ],
+      "a": 0,
+      "why": "publish 发表；polish 打磨；punish 惩罚；purchase 购买。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "词根",
+      "text": "re- 表“再次/返回”：review 复习、return 返回、recycle 回收、renew 更新。"
+    },
+    "listening": {
+      "title": "长对话 11 · 音乐节",
+      "q": "What kind of music will they enjoy?",
+      "o": [
+        "Classical",
+        "Pop",
+        "Jazz",
+        "Folk"
+      ],
+      "a": 2,
+      "script": "There is a music festival in the park on Sunday. What style is it? Mostly jazz. Let us go and relax."
+    },
+    "sentence": {
+      "en": "The success was largely due to luck.",
+      "word": "largely",
+      "cn": "主要地；大体上"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

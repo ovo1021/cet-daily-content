@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-16",
-  "publishAt": "2026-11-16T00:10:00+08:00",
-  "day": 169,
+  "date": "2026-11-17",
+  "publishAt": "2026-11-17T00:10:00+08:00",
+  "day": 170,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-16 · 今日词包 Day 169",
+    "headline": "2026-11-17 · 今日词包 Day 170",
     "words": [
       {
-        "w": "flexible",
-        "ph": "/ˈfleksəbl/",
-        "pos": "adj.",
-        "cn": "灵活的；柔韧的",
-        "ex": "We need a flexible schedule."
+        "w": "largely",
+        "ph": "/ˈlɑːdʒli/",
+        "pos": "adv.",
+        "cn": "主要地；大体上",
+        "ex": "The success was largely due to luck."
       },
       {
-        "w": "tropical",
-        "ph": "/ˈtrɒpɪkl/",
-        "pos": "adj.",
-        "cn": "热带的",
-        "ex": "The climate is tropical."
-      },
-      {
-        "w": "utility",
-        "ph": "/juːˈtɪləti/",
+        "w": "horror",
+        "ph": "/ˈhɒrə/",
         "pos": "n.",
-        "cn": "效用；公用事业",
-        "ex": "The utility provides water."
+        "cn": "恐惧；憎恶",
+        "ex": "She screamed in horror at the sight."
       },
       {
-        "w": "subtle",
-        "ph": "/ˈsʌtl/",
-        "pos": "adj.",
-        "cn": "微妙的；敏锐的",
-        "ex": "There is a subtle difference."
-      },
-      {
-        "w": "explode",
-        "ph": "/ɪkˈspləʊd/",
+        "w": "overtake",
+        "ph": "/ˌəʊvəˈteɪk/",
         "pos": "v.",
-        "cn": "爆炸；激增",
-        "ex": "The bomb exploded at midnight."
+        "cn": "超过；追上",
+        "ex": "The car overtook the bus."
       },
       {
-        "w": "structure",
-        "ph": "/ˈstrʌktʃə/",
+        "w": "interfere",
+        "ph": "/ˌɪntəˈfɪə/",
+        "pos": "v.",
+        "cn": "干涉；打扰",
+        "ex": "Do not interfere in their affair."
+      },
+      {
+        "w": "logical",
+        "ph": "/ˈlɒdʒɪkl/",
+        "pos": "adj.",
+        "cn": "逻辑上的；合理的",
+        "ex": "His argument is logical."
+      },
+      {
+        "w": "fund",
+        "ph": "/fʌnd/",
         "pos": "n./v.",
-        "cn": "结构；建造",
-        "ex": "The essay has a clear structure."
+        "cn": "资金；资助",
+        "ex": "The project is funded by the state."
       }
     ],
     "quiz": {
-      "q": "Spring in the south is warm and ______, which makes people feel good.",
+      "q": "The results of the experiment will be ______ in the next issue of the journal.",
       "o": [
-        "comfortable",
-        "common",
-        "confident",
-        "complete"
+        "published",
+        "polished",
+        "punished",
+        "purchased"
       ],
       "a": 0,
-      "why": "comfortable 舒适的；common 普通的；confident 自信的。",
-      "level": "CET-4"
+      "why": "publish 发表；polish 打磨；punish 惩罚；purchase 购买。",
+      "level": "CET-6"
     },
     "tip": {
       "tag": "词根",
-      "text": "pre- 表“预先”：predict 预言、preview 预习、prevent 阻止、prepare 准备。"
+      "text": "re- 表“再次/返回”：review 复习、return 返回、recycle 回收、renew 更新。"
     },
     "listening": {
-      "title": "长对话 10 · 环保",
-      "q": "What does the woman do to help the environment?",
+      "title": "长对话 11 · 音乐节",
+      "q": "What kind of music will they enjoy?",
       "o": [
-        "Ride a bike",
-        "Use less plastic",
-        "Plant flowers",
-        "Save water"
+        "Classical",
+        "Pop",
+        "Jazz",
+        "Folk"
       ],
-      "a": 1,
-      "script": "Do you care about the environment? Yes, I bring my own bag to the supermarket so I use less plastic."
+      "a": 2,
+      "script": "There is a music festival in the park on Sunday. What style is it? Mostly jazz. Let us go and relax."
     },
     "sentence": {
-      "en": "The essay has a clear structure.",
-      "word": "structure",
-      "cn": "结构；建造"
+      "en": "The success was largely due to luck.",
+      "word": "largely",
+      "cn": "主要地；大体上"
     }
   },
   "meta": {

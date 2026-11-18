@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-18",
-  "publishAt": "2026-11-18T00:10:00+08:00",
-  "day": 171,
+  "date": "2026-11-19",
+  "publishAt": "2026-11-19T00:10:00+08:00",
+  "day": 172,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-18 · 今日词包 Day 171",
+    "headline": "2026-11-19 · 今日词包 Day 172",
     "words": [
       {
-        "w": "confer",
-        "ph": "/kənˈfɜː/",
+        "w": "motivate",
+        "ph": "/ˈməʊtɪveɪt/",
         "pos": "v.",
-        "cn": "授予；协商",
-        "ex": "The school conferred an honor on her."
+        "cn": "激励；激发",
+        "ex": "The prize motivated the team."
       },
       {
-        "w": "explicit",
-        "ph": "/ɪkˈsplɪsɪt/",
+        "w": "artificial",
+        "ph": "/ˌɑːtɪˈfɪʃl/",
         "pos": "adj.",
-        "cn": "明确的；直率的",
-        "ex": "He gave explicit instructions."
+        "cn": "人造的；假的",
+        "ex": "The lake is artificial, not natural."
       },
       {
-        "w": "behavior",
-        "ph": "/bɪˈheɪvjə/",
-        "pos": "n.",
-        "cn": "行为；举止",
-        "ex": "His behavior surprised his parents."
-      },
-      {
-        "w": "grant",
-        "ph": "/ɡrɑːnt/",
-        "pos": "v./n.",
-        "cn": "授予；准许；拨款",
-        "ex": "The school granted him a scholarship."
-      },
-      {
-        "w": "notable",
-        "ph": "/ˈnəʊtəbl/",
+        "w": "keen",
+        "ph": "/kiːn/",
         "pos": "adj.",
-        "cn": "显著的；著名的",
-        "ex": "There was a notable change."
+        "cn": "热衷的；敏锐的",
+        "ex": "She is keen on swimming."
       },
       {
-        "w": "classic",
-        "ph": "/ˈklæsɪk/",
-        "pos": "adj./n.",
-        "cn": "经典的；名著",
-        "ex": "This is a classic novel of the 19th century."
+        "w": "neat",
+        "ph": "/niːt/",
+        "pos": "adj.",
+        "cn": "整洁的；灵巧的",
+        "ex": "She kept a neat desk."
+      },
+      {
+        "w": "standard",
+        "ph": "/ˈstændəd/",
+        "pos": "n./adj.",
+        "cn": "标准；标准的",
+        "ex": "The product meets the standard."
+      },
+      {
+        "w": "abroad",
+        "ph": "/əˈbrɔːd/",
+        "pos": "adv.",
+        "cn": "在国外；到国外",
+        "ex": "He studied abroad for two years."
       }
     ],
     "quiz": {
-      "q": "More and more people realize the ______ of protecting the environment.",
+      "q": "It is difficult to ______ the exact cause of the accident.",
       "o": [
-        "importance",
-        "improvement",
-        "imagination",
-        "invitation"
+        "determine",
+        "decline",
+        "decorate",
+        "decrease"
       ],
       "a": 0,
-      "why": "the importance of… 意为“……的重要性”。",
-      "level": "CET-4"
+      "why": "determine 确定；decline 下降/婉拒；decorate 装饰。",
+      "level": "CET-6"
     },
     "tip": {
       "tag": "语法",
-      "text": "定语从句：先行词指人用 who/whom，指物用 which，表所属用 whose；关系副词 where/when 表地点与时间。"
+      "text": "虚拟语气（与现在相反）：If I were you, I would study harder. be 动词一律用 were。"
     },
     "listening": {
-      "title": "长对话 12 · 搬家",
-      "q": "When will the man move?",
+      "title": "长对话 13 · 创业",
+      "q": "What business does the woman plan to start?",
       "o": [
-        "This weekend",
-        "Next week",
-        "Next month",
-        "Next year"
+        "A coffee shop",
+        "A book store",
+        "A fitness club",
+        "A flower shop"
       ],
-      "a": 1,
-      "script": "Are you still living downtown? No, I found a new flat. I will move next week, closer to my office."
+      "a": 0,
+      "script": "I saved some money and want to start a business. A small coffee shop near the university? Great idea, students love coffee."
     },
     "sentence": {
-      "en": "This is a classic novel of the 19th century.",
-      "word": "classic",
-      "cn": "经典的；名著"
+      "en": "The lake is artificial, not natural.",
+      "word": "artificial",
+      "cn": "人造的；假的"
     }
   },
   "meta": {

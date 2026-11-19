@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-19",
-  "publishAt": "2026-11-19T00:10:00+08:00",
-  "day": 172,
+  "date": "2026-11-20",
+  "publishAt": "2026-11-20T00:10:00+08:00",
+  "day": 173,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-19 · 今日词包 Day 172",
+    "headline": "2026-11-20 · 今日词包 Day 173",
     "words": [
       {
-        "w": "motivate",
-        "ph": "/ˈməʊtɪveɪt/",
-        "pos": "v.",
-        "cn": "激励；激发",
-        "ex": "The prize motivated the team."
-      },
-      {
-        "w": "artificial",
-        "ph": "/ˌɑːtɪˈfɪʃl/",
-        "pos": "adj.",
-        "cn": "人造的；假的",
-        "ex": "The lake is artificial, not natural."
-      },
-      {
-        "w": "keen",
-        "ph": "/kiːn/",
-        "pos": "adj.",
-        "cn": "热衷的；敏锐的",
-        "ex": "She is keen on swimming."
-      },
-      {
-        "w": "neat",
-        "ph": "/niːt/",
-        "pos": "adj.",
-        "cn": "整洁的；灵巧的",
-        "ex": "She kept a neat desk."
-      },
-      {
-        "w": "standard",
-        "ph": "/ˈstændəd/",
+        "w": "maximum",
+        "ph": "/ˈmæksɪməm/",
         "pos": "n./adj.",
-        "cn": "标准；标准的",
-        "ex": "The product meets the standard."
+        "cn": "最大量；最高的",
+        "ex": "The maximum speed is 120 km/h."
       },
       {
-        "w": "abroad",
-        "ph": "/əˈbrɔːd/",
-        "pos": "adv.",
-        "cn": "在国外；到国外",
-        "ex": "He studied abroad for two years."
+        "w": "equip",
+        "ph": "/ɪˈkwɪp/",
+        "pos": "v.",
+        "cn": "装备；使具备",
+        "ex": "The lab is equipped with new tools."
+      },
+      {
+        "w": "battery",
+        "ph": "/ˈbætri/",
+        "pos": "n.",
+        "cn": "电池；排炮",
+        "ex": "The phone battery died quickly."
+      },
+      {
+        "w": "parcel",
+        "ph": "/ˈpɑːsl/",
+        "pos": "n.",
+        "cn": "小包；包裹",
+        "ex": "The parcel was sent by post."
+      },
+      {
+        "w": "sequence",
+        "ph": "/ˈsiːkwəns/",
+        "pos": "n.",
+        "cn": "顺序；序列",
+        "ex": "The events happened in sequence."
+      },
+      {
+        "w": "wander",
+        "ph": "/ˈwɒndə/",
+        "pos": "v.",
+        "cn": "漫步；走神",
+        "ex": "They wandered in the park."
       }
     ],
     "quiz": {
-      "q": "It is difficult to ______ the exact cause of the accident.",
+      "q": "Please ______ your homework carefully before you hand it in.",
       "o": [
-        "determine",
-        "decline",
-        "decorate",
-        "decrease"
+        "check",
+        "chance",
+        "change",
+        "charge"
       ],
       "a": 0,
-      "why": "determine 确定；decline 下降/婉拒；decorate 装饰。",
-      "level": "CET-6"
+      "why": "check 检查；hand in 上交。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "语法",
-      "text": "虚拟语气（与现在相反）：If I were you, I would study harder. be 动词一律用 were。"
+      "tag": "写作",
+      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
     },
     "listening": {
-      "title": "长对话 13 · 创业",
-      "q": "What business does the woman plan to start?",
+      "title": "长对话 17 · 毕业打算",
+      "q": "What will the man do after graduation?",
       "o": [
-        "A coffee shop",
-        "A book store",
-        "A fitness club",
-        "A flower shop"
+        "Study abroad",
+        "Start a job",
+        "Open a shop",
+        "Take a gap year"
       ],
-      "a": 0,
-      "script": "I saved some money and want to start a business. A small coffee shop near the university? Great idea, students love coffee."
+      "a": 1,
+      "script": "What is your plan after graduation? I already got a job offer from a tech company. I will start working this summer."
     },
     "sentence": {
-      "en": "The lake is artificial, not natural.",
-      "word": "artificial",
-      "cn": "人造的；假的"
+      "en": "The lab is equipped with new tools.",
+      "word": "equip",
+      "cn": "装备；使具备"
     }
   },
   "meta": {

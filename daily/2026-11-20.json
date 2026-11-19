@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-20",
+  "publishAt": "2026-11-20T00:10:00+08:00",
+  "day": 173,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-20 · 今日词包 Day 173",
+    "words": [
+      {
+        "w": "maximum",
+        "ph": "/ˈmæksɪməm/",
+        "pos": "n./adj.",
+        "cn": "最大量；最高的",
+        "ex": "The maximum speed is 120 km/h."
+      },
+      {
+        "w": "equip",
+        "ph": "/ɪˈkwɪp/",
+        "pos": "v.",
+        "cn": "装备；使具备",
+        "ex": "The lab is equipped with new tools."
+      },
+      {
+        "w": "battery",
+        "ph": "/ˈbætri/",
+        "pos": "n.",
+        "cn": "电池；排炮",
+        "ex": "The phone battery died quickly."
+      },
+      {
+        "w": "parcel",
+        "ph": "/ˈpɑːsl/",
+        "pos": "n.",
+        "cn": "小包；包裹",
+        "ex": "The parcel was sent by post."
+      },
+      {
+        "w": "sequence",
+        "ph": "/ˈsiːkwəns/",
+        "pos": "n.",
+        "cn": "顺序；序列",
+        "ex": "The events happened in sequence."
+      },
+      {
+        "w": "wander",
+        "ph": "/ˈwɒndə/",
+        "pos": "v.",
+        "cn": "漫步；走神",
+        "ex": "They wandered in the park."
+      }
+    ],
+    "quiz": {
+      "q": "Please ______ your homework carefully before you hand it in.",
+      "o": [
+        "check",
+        "chance",
+        "change",
+        "charge"
+      ],
+      "a": 0,
+      "why": "check 检查；hand in 上交。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "写作",
+      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
+    },
+    "listening": {
+      "title": "长对话 17 · 毕业打算",
+      "q": "What will the man do after graduation?",
+      "o": [
+        "Study abroad",
+        "Start a job",
+        "Open a shop",
+        "Take a gap year"
+      ],
+      "a": 1,
+      "script": "What is your plan after graduation? I already got a job offer from a tech company. I will start working this summer."
+    },
+    "sentence": {
+      "en": "The lab is equipped with new tools.",
+      "word": "equip",
+      "cn": "装备；使具备"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

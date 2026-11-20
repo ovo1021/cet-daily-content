@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-20",
-  "publishAt": "2026-11-20T00:10:00+08:00",
-  "day": 173,
+  "date": "2026-11-21",
+  "publishAt": "2026-11-21T00:10:00+08:00",
+  "day": 174,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-20 · 今日词包 Day 173",
+    "headline": "2026-11-21 · 今日词包 Day 174",
     "words": [
       {
-        "w": "maximum",
-        "ph": "/ˈmæksɪməm/",
-        "pos": "n./adj.",
-        "cn": "最大量；最高的",
-        "ex": "The maximum speed is 120 km/h."
-      },
-      {
-        "w": "equip",
-        "ph": "/ɪˈkwɪp/",
-        "pos": "v.",
-        "cn": "装备；使具备",
-        "ex": "The lab is equipped with new tools."
-      },
-      {
-        "w": "battery",
-        "ph": "/ˈbætri/",
+        "w": "culture",
+        "ph": "/ˈkʌltʃə/",
         "pos": "n.",
-        "cn": "电池；排炮",
-        "ex": "The phone battery died quickly."
+        "cn": "文化；教养",
+        "ex": "Food reflects a country's culture."
       },
       {
-        "w": "parcel",
-        "ph": "/ˈpɑːsl/",
+        "w": "select",
+        "ph": "/sɪˈlekt/",
+        "pos": "v./adj.",
+        "cn": "选择；精选的",
+        "ex": "She selected a red dress."
+      },
+      {
+        "w": "turbulent",
+        "ph": "/ˈtɜːbjələnt/",
+        "pos": "adj.",
+        "cn": "动荡的；汹涌的",
+        "ex": "The sea was turbulent."
+      },
+      {
+        "w": "client",
+        "ph": "/ˈklaɪənt/",
         "pos": "n.",
-        "cn": "小包；包裹",
-        "ex": "The parcel was sent by post."
+        "cn": "客户；委托人",
+        "ex": "The lawyer met a new client today."
       },
       {
-        "w": "sequence",
-        "ph": "/ˈsiːkwəns/",
-        "pos": "n.",
-        "cn": "顺序；序列",
-        "ex": "The events happened in sequence."
+        "w": "witness",
+        "ph": "/ˈwɪtnəs/",
+        "pos": "n./v.",
+        "cn": "目击者；作证",
+        "ex": "She witnessed the accident."
       },
       {
-        "w": "wander",
-        "ph": "/ˈwɒndə/",
-        "pos": "v.",
-        "cn": "漫步；走神",
-        "ex": "They wandered in the park."
+        "w": "female",
+        "ph": "/ˈfiːmeɪl/",
+        "pos": "adj./n.",
+        "cn": "女性的；雌性",
+        "ex": "The female lion hunts for food."
       }
     ],
     "quiz": {
-      "q": "Please ______ your homework carefully before you hand it in.",
+      "q": "The manager ______ the importance of teamwork again and again in his speech.",
       "o": [
-        "check",
-        "chance",
-        "change",
-        "charge"
+        "emphasized",
+        "entertained",
+        "estimated",
+        "eliminated"
       ],
       "a": 0,
-      "why": "check 检查；hand in 上交。",
-      "level": "CET-4"
+      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "写作",
-      "text": "让步转折：Although / Even though / Despite the fact that … 让逻辑更严密。"
+      "tag": "听力",
+      "text": "听力技巧：提前读题划关键词（时间、地点、数字、人物关系），听到同义替换即为答案。"
     },
     "listening": {
-      "title": "长对话 17 · 毕业打算",
-      "q": "What will the man do after graduation?",
+      "title": "长对话 18 · 摄影",
+      "q": "What does the woman like to photograph?",
       "o": [
-        "Study abroad",
-        "Start a job",
-        "Open a shop",
-        "Take a gap year"
+        "People",
+        "Buildings",
+        "Nature",
+        "Food"
       ],
-      "a": 1,
-      "script": "What is your plan after graduation? I already got a job offer from a tech company. I will start working this summer."
+      "a": 2,
+      "script": "I took many photos during the trip. What do you like shooting? Mostly nature, like mountains and rivers. They help me relax."
     },
     "sentence": {
-      "en": "The lab is equipped with new tools.",
-      "word": "equip",
-      "cn": "装备；使具备"
+      "en": "Food reflects a country's culture.",
+      "word": "culture",
+      "cn": "文化；教养"
     }
   },
   "meta": {

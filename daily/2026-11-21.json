@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-21",
+  "publishAt": "2026-11-21T00:10:00+08:00",
+  "day": 174,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-21 · 今日词包 Day 174",
+    "words": [
+      {
+        "w": "culture",
+        "ph": "/ˈkʌltʃə/",
+        "pos": "n.",
+        "cn": "文化；教养",
+        "ex": "Food reflects a country's culture."
+      },
+      {
+        "w": "select",
+        "ph": "/sɪˈlekt/",
+        "pos": "v./adj.",
+        "cn": "选择；精选的",
+        "ex": "She selected a red dress."
+      },
+      {
+        "w": "turbulent",
+        "ph": "/ˈtɜːbjələnt/",
+        "pos": "adj.",
+        "cn": "动荡的；汹涌的",
+        "ex": "The sea was turbulent."
+      },
+      {
+        "w": "client",
+        "ph": "/ˈklaɪənt/",
+        "pos": "n.",
+        "cn": "客户；委托人",
+        "ex": "The lawyer met a new client today."
+      },
+      {
+        "w": "witness",
+        "ph": "/ˈwɪtnəs/",
+        "pos": "n./v.",
+        "cn": "目击者；作证",
+        "ex": "She witnessed the accident."
+      },
+      {
+        "w": "female",
+        "ph": "/ˈfiːmeɪl/",
+        "pos": "adj./n.",
+        "cn": "女性的；雌性",
+        "ex": "The female lion hunts for food."
+      }
+    ],
+    "quiz": {
+      "q": "The manager ______ the importance of teamwork again and again in his speech.",
+      "o": [
+        "emphasized",
+        "entertained",
+        "estimated",
+        "eliminated"
+      ],
+      "a": 0,
+      "why": "emphasize 强调；entertain 使娱乐；estimate 估计。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "听力",
+      "text": "听力技巧：提前读题划关键词（时间、地点、数字、人物关系），听到同义替换即为答案。"
+    },
+    "listening": {
+      "title": "长对话 18 · 摄影",
+      "q": "What does the woman like to photograph?",
+      "o": [
+        "People",
+        "Buildings",
+        "Nature",
+        "Food"
+      ],
+      "a": 2,
+      "script": "I took many photos during the trip. What do you like shooting? Mostly nature, like mountains and rivers. They help me relax."
+    },
+    "sentence": {
+      "en": "Food reflects a country's culture.",
+      "word": "culture",
+      "cn": "文化；教养"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

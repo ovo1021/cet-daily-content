@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-22",
+  "publishAt": "2026-11-22T00:10:00+08:00",
+  "day": 175,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-22 · 今日词包 Day 175",
+    "words": [
+      {
+        "w": "impact",
+        "ph": "/ˈɪmpækt/",
+        "pos": "n./v.",
+        "cn": "影响；冲击",
+        "ex": "The policy had a big impact."
+      },
+      {
+        "w": "feature",
+        "ph": "/ˈfiːtʃə/",
+        "pos": "n./v.",
+        "cn": "特征；以…为特色",
+        "ex": "The phone features a new camera."
+      },
+      {
+        "w": "habitat",
+        "ph": "/ˈhæbɪtæt/",
+        "pos": "n.",
+        "cn": "栖息地；产地",
+        "ex": "The forest is the habitat of many birds."
+      },
+      {
+        "w": "vehicle",
+        "ph": "/ˈviːəkl/",
+        "pos": "n.",
+        "cn": "车辆；媒介",
+        "ex": "The car is a safe vehicle."
+      },
+      {
+        "w": "expand",
+        "ph": "/ɪkˈspænd/",
+        "pos": "v.",
+        "cn": "扩张；扩大",
+        "ex": "The company plans to expand abroad."
+      },
+      {
+        "w": "guideline",
+        "ph": "/ˈɡaɪdlaɪn/",
+        "pos": "n.",
+        "cn": "指导方针；准则",
+        "ex": "Follow the safety guidelines."
+      }
+    ],
+    "quiz": {
+      "q": "The science museum is open every day ______ Monday.",
+      "o": [
+        "except",
+        "expect",
+        "accept",
+        "affect"
+      ],
+      "a": 0,
+      "why": "except 除……之外；注意区分 expect(期待)/accept(接受)。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "听力",
+      "text": "听力数字：-teen 与 -ty 重音不同，13/30、15/50 最易听混，注意尾音 n / t。"
+    },
+    "listening": {
+      "title": "长对话 19 · 节约用水",
+      "q": "What does the man do to save water?",
+      "o": [
+        "Take short showers",
+        "Water the garden",
+        "Wash the car daily",
+        "Leave the tap on"
+      ],
+      "a": 0,
+      "script": "We should save water at home. I take short showers instead of baths. Good habit. I also fix leaking taps right away."
+    },
+    "sentence": {
+      "en": "The forest is the habitat of many birds.",
+      "word": "habitat",
+      "cn": "栖息地；产地"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

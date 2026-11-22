@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-23",
+  "publishAt": "2026-11-23T00:10:00+08:00",
+  "day": 176,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-23 · 今日词包 Day 176",
+    "words": [
+      {
+        "w": "discuss",
+        "ph": "/dɪsˈkʌs/",
+        "pos": "v.",
+        "cn": "讨论；论述",
+        "ex": "We discussed the plan at length."
+      },
+      {
+        "w": "reward",
+        "ph": "/rɪˈwɔːd/",
+        "pos": "n./v.",
+        "cn": "报酬；奖赏",
+        "ex": "Hard work brings its reward."
+      },
+      {
+        "w": "depend",
+        "ph": "/dɪˈpend/",
+        "pos": "v.",
+        "cn": "依赖；取决于",
+        "ex": "Success depends on hard work."
+      },
+      {
+        "w": "gymnasium",
+        "ph": "/dʒɪmˈneɪziəm/",
+        "pos": "n.",
+        "cn": "体育馆；健身房",
+        "ex": "The gymnasium was full of students."
+      },
+      {
+        "w": "shrink",
+        "ph": "/ʃrɪŋk/",
+        "pos": "v.",
+        "cn": "收缩；退缩",
+        "ex": "The sweater shrank in the wash."
+      },
+      {
+        "w": "deserve",
+        "ph": "/dɪˈzɜːv/",
+        "pos": "v.",
+        "cn": "应得；值得",
+        "ex": "He deserves a reward for his work."
+      }
+    ],
+    "quiz": {
+      "q": "After months of consideration, she made a ______ decision to study abroad next year.",
+      "o": [
+        "final",
+        "financial",
+        "former",
+        "familiar"
+      ],
+      "a": 0,
+      "why": "make a final decision 做最终决定。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "阅读",
+      "text": "阅读定位：先读题干圈关键词，回原文找同义替换；主旨题看首尾段与转折词后。"
+    },
+    "listening": {
+      "title": "长对话 20 · 社团",
+      "q": "Which club will the woman join?",
+      "o": [
+        "The dance club",
+        "The debate club",
+        "The chess club",
+        "The music club"
+      ],
+      "a": 1,
+      "script": "There are so many clubs on campus. I will join the debate club. It improves my speaking. That sounds challenging but fun."
+    },
+    "sentence": {
+      "en": "The gymnasium was full of students.",
+      "word": "gymnasium",
+      "cn": "体育馆；健身房"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

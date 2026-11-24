@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-23",
-  "publishAt": "2026-11-23T00:10:00+08:00",
-  "day": 176,
+  "date": "2026-11-24",
+  "publishAt": "2026-11-24T00:10:00+08:00",
+  "day": 177,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-23 · 今日词包 Day 176",
+    "headline": "2026-11-24 · 今日词包 Day 177",
     "words": [
       {
-        "w": "discuss",
-        "ph": "/dɪsˈkʌs/",
-        "pos": "v.",
-        "cn": "讨论；论述",
-        "ex": "We discussed the plan at length."
-      },
-      {
-        "w": "reward",
-        "ph": "/rɪˈwɔːd/",
-        "pos": "n./v.",
-        "cn": "报酬；奖赏",
-        "ex": "Hard work brings its reward."
-      },
-      {
-        "w": "depend",
-        "ph": "/dɪˈpend/",
-        "pos": "v.",
-        "cn": "依赖；取决于",
-        "ex": "Success depends on hard work."
-      },
-      {
-        "w": "gymnasium",
-        "ph": "/dʒɪmˈneɪziəm/",
+        "w": "trial",
+        "ph": "/ˈtraɪəl/",
         "pos": "n.",
-        "cn": "体育馆；健身房",
-        "ex": "The gymnasium was full of students."
+        "cn": "审判；试验",
+        "ex": "The trial lasted a week."
       },
       {
-        "w": "shrink",
-        "ph": "/ʃrɪŋk/",
+        "w": "locate",
+        "ph": "/ləʊˈkeɪt/",
         "pos": "v.",
-        "cn": "收缩；退缩",
-        "ex": "The sweater shrank in the wash."
+        "cn": "位于；查找",
+        "ex": "The hotel is located downtown."
       },
       {
-        "w": "deserve",
-        "ph": "/dɪˈzɜːv/",
-        "pos": "v.",
-        "cn": "应得；值得",
-        "ex": "He deserves a reward for his work."
+        "w": "sorrow",
+        "ph": "/ˈsɒrəʊ/",
+        "pos": "n.",
+        "cn": "悲伤；遗憾",
+        "ex": "She felt deep sorrow."
+      },
+      {
+        "w": "strain",
+        "ph": "/streɪn/",
+        "pos": "n./v.",
+        "cn": "张力；拉紧；尽力",
+        "ex": "The rope is under strain."
+      },
+      {
+        "w": "string",
+        "ph": "/strɪŋ/",
+        "pos": "n.",
+        "cn": "细绳；一串",
+        "ex": "She tied the box with a string."
+      },
+      {
+        "w": "margin",
+        "ph": "/ˈmɑːdʒɪn/",
+        "pos": "n.",
+        "cn": "页边；利润；余地",
+        "ex": "Leave a wide margin on the page."
       }
     ],
     "quiz": {
-      "q": "After months of consideration, she made a ______ decision to study abroad next year.",
+      "q": "You are supposed to ______ the library books on time.",
       "o": [
-        "final",
-        "financial",
-        "former",
-        "familiar"
+        "return",
+        "remain",
+        "repair",
+        "repeat"
       ],
       "a": 0,
-      "why": "make a final decision 做最终决定。",
-      "level": "CET-6"
+      "why": "return the books 还书；be supposed to 应该。",
+      "level": "CET-4"
     },
     "tip": {
-      "tag": "阅读",
-      "text": "阅读定位：先读题干圈关键词，回原文找同义替换；主旨题看首尾段与转折词后。"
+      "tag": "翻译",
+      "text": "汉译英：先拆主干“主谓宾”，再补修饰；不会的词用解释法绕开（如“月饼”→moon cake）。"
     },
     "listening": {
-      "title": "长对话 20 · 社团",
-      "q": "Which club will the woman join?",
+      "title": "短对话 1 · 点餐",
+      "q": "Where does the conversation most probably take place?",
       "o": [
-        "The dance club",
-        "The debate club",
-        "The chess club",
-        "The music club"
+        "In a restaurant",
+        "In a library",
+        "In a bank",
+        "In a hospital"
       ],
-      "a": 1,
-      "script": "There are so many clubs on campus. I will join the debate club. It improves my speaking. That sounds challenging but fun."
+      "a": 0,
+      "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
     },
     "sentence": {
-      "en": "The gymnasium was full of students.",
-      "word": "gymnasium",
-      "cn": "体育馆；健身房"
+      "en": "Leave a wide margin on the page.",
+      "word": "margin",
+      "cn": "页边；利润；余地"
     }
   },
   "meta": {

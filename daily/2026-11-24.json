@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-24",
+  "publishAt": "2026-11-24T00:10:00+08:00",
+  "day": 177,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-24 · 今日词包 Day 177",
+    "words": [
+      {
+        "w": "trial",
+        "ph": "/ˈtraɪəl/",
+        "pos": "n.",
+        "cn": "审判；试验",
+        "ex": "The trial lasted a week."
+      },
+      {
+        "w": "locate",
+        "ph": "/ləʊˈkeɪt/",
+        "pos": "v.",
+        "cn": "位于；查找",
+        "ex": "The hotel is located downtown."
+      },
+      {
+        "w": "sorrow",
+        "ph": "/ˈsɒrəʊ/",
+        "pos": "n.",
+        "cn": "悲伤；遗憾",
+        "ex": "She felt deep sorrow."
+      },
+      {
+        "w": "strain",
+        "ph": "/streɪn/",
+        "pos": "n./v.",
+        "cn": "张力；拉紧；尽力",
+        "ex": "The rope is under strain."
+      },
+      {
+        "w": "string",
+        "ph": "/strɪŋ/",
+        "pos": "n.",
+        "cn": "细绳；一串",
+        "ex": "She tied the box with a string."
+      },
+      {
+        "w": "margin",
+        "ph": "/ˈmɑːdʒɪn/",
+        "pos": "n.",
+        "cn": "页边；利润；余地",
+        "ex": "Leave a wide margin on the page."
+      }
+    ],
+    "quiz": {
+      "q": "You are supposed to ______ the library books on time.",
+      "o": [
+        "return",
+        "remain",
+        "repair",
+        "repeat"
+      ],
+      "a": 0,
+      "why": "return the books 还书；be supposed to 应该。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "翻译",
+      "text": "汉译英：先拆主干“主谓宾”，再补修饰；不会的词用解释法绕开（如“月饼”→moon cake）。"
+    },
+    "listening": {
+      "title": "短对话 1 · 点餐",
+      "q": "Where does the conversation most probably take place?",
+      "o": [
+        "In a restaurant",
+        "In a library",
+        "In a bank",
+        "In a hospital"
+      ],
+      "a": 0,
+      "script": "Can I take your order now, madam? Yes, I would like a cup of coffee and a sandwich, please."
+    },
+    "sentence": {
+      "en": "Leave a wide margin on the page.",
+      "word": "margin",
+      "cn": "页边；利润；余地"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

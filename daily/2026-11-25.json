@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-25",
+  "publishAt": "2026-11-25T00:10:00+08:00",
+  "day": 178,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-25 · 今日词包 Day 178",
+    "words": [
+      {
+        "w": "format",
+        "ph": "/ˈfɔːmæt/",
+        "pos": "n./v.",
+        "cn": "格式；格式化",
+        "ex": "Please save the file in PDF format."
+      },
+      {
+        "w": "elevate",
+        "ph": "/ˈelɪveɪt/",
+        "pos": "v.",
+        "cn": "提升；举起",
+        "ex": "The speech elevated our spirits."
+      },
+      {
+        "w": "classic",
+        "ph": "/ˈklæsɪk/",
+        "pos": "adj./n.",
+        "cn": "经典的；名著",
+        "ex": "This is a classic novel of the 19th century."
+      },
+      {
+        "w": "penetrate",
+        "ph": "/ˈpenətreɪt/",
+        "pos": "v.",
+        "cn": "穿透；看穿",
+        "ex": "The light penetrated the fog."
+      },
+      {
+        "w": "awake",
+        "ph": "/əˈweɪk/",
+        "pos": "adj./v.",
+        "cn": "醒着的；唤醒",
+        "ex": "The noise kept me awake all night."
+      },
+      {
+        "w": "magic",
+        "ph": "/ˈmædʒɪk/",
+        "pos": "n./adj.",
+        "cn": "魔法；神奇的",
+        "ex": "The trick looked like magic."
+      }
+    ],
+    "quiz": {
+      "q": "We should ______ every opportunity to practise our spoken English.",
+      "o": [
+        "seize",
+        "size",
+        "site",
+        "sigh"
+      ],
+      "a": 0,
+      "why": "seize the opportunity 抓住机会。",
+      "level": "CET-6"
+    },
+    "tip": {
+      "tag": "高频词",
+      "text": "易混词：affect(影响 v.) vs effect(影响/效果 n.)；adopt(采纳) vs adapt(适应)。"
+    },
+    "listening": {
+      "title": "短对话 2 · 周末计划",
+      "q": "What does the woman plan to do this Saturday?",
+      "o": [
+        "Visit the science museum",
+        "Stay at home",
+        "Go swimming",
+        "See a film"
+      ],
+      "a": 0,
+      "script": "I am thinking about visiting the science museum this Saturday. Sounds great. Would you like me to join you?"
+    },
+    "sentence": {
+      "en": "This is a classic novel of the 19th century.",
+      "word": "classic",
+      "cn": "经典的；名著"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

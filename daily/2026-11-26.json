@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-26",
+  "publishAt": "2026-11-26T00:10:00+08:00",
+  "day": 179,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-26 · 今日词包 Day 179",
+    "words": [
+      {
+        "w": "campaign",
+        "ph": "/kæmˈpeɪn/",
+        "pos": "n./v.",
+        "cn": "运动；战役",
+        "ex": "They launched a campaign for clean air."
+      },
+      {
+        "w": "trust",
+        "ph": "/trʌst/",
+        "pos": "n./v.",
+        "cn": "信任；信赖",
+        "ex": "Trust is the base of friendship."
+      },
+      {
+        "w": "mislead",
+        "ph": "/ˌmɪsˈliːd/",
+        "pos": "v.",
+        "cn": "误导；使误解",
+        "ex": "The ad misled the consumers."
+      },
+      {
+        "w": "incident",
+        "ph": "/ˈɪnsɪdənt/",
+        "pos": "n.",
+        "cn": "事件；事故",
+        "ex": "A minor incident delayed the train."
+      },
+      {
+        "w": "machinery",
+        "ph": "/məˈʃiːnəri/",
+        "pos": "n.",
+        "cn": "机械；机器",
+        "ex": "The factory bought new machinery."
+      },
+      {
+        "w": "advise",
+        "ph": "/ədˈvaɪz/",
+        "pos": "v.",
+        "cn": "建议；劝告",
+        "ex": "I advise you to start early."
+      }
+    ],
+    "quiz": {
+      "q": "The doctor advised him to stop smoking, but he did not take the ______ seriously.",
+      "o": [
+        "advice",
+        "advance",
+        "advantage",
+        "adventure"
+      ],
+      "a": 0,
+      "why": "take the advice 意为“听从建议”。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "高频词",
+      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
+    },
+    "listening": {
+      "title": "短对话 3 · 车站",
+      "q": "When does the next train to Beijing leave?",
+      "o": [
+        "At 8:30",
+        "At 9:00",
+        "At 9:30",
+        "At 10:00"
+      ],
+      "a": 2,
+      "script": "Could you tell me when the next train to Beijing leaves? It leaves at half past nine."
+    },
+    "sentence": {
+      "en": "They launched a campaign for clean air.",
+      "word": "campaign",
+      "cn": "运动；战役"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}

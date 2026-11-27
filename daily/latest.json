@@ -1,86 +1,86 @@
 {
-  "date": "2026-11-26",
-  "publishAt": "2026-11-26T00:10:00+08:00",
-  "day": 179,
+  "date": "2026-11-27",
+  "publishAt": "2026-11-27T00:10:00+08:00",
+  "day": 180,
   "type": "daily-feed",
   "feed": {
-    "headline": "2026-11-26 · 今日词包 Day 179",
+    "headline": "2026-11-27 · 今日词包 Day 180",
     "words": [
       {
-        "w": "campaign",
-        "ph": "/kæmˈpeɪn/",
-        "pos": "n./v.",
-        "cn": "运动；战役",
-        "ex": "They launched a campaign for clean air."
-      },
-      {
-        "w": "trust",
-        "ph": "/trʌst/",
-        "pos": "n./v.",
-        "cn": "信任；信赖",
-        "ex": "Trust is the base of friendship."
-      },
-      {
-        "w": "mislead",
-        "ph": "/ˌmɪsˈliːd/",
+        "w": "retain",
+        "ph": "/rɪˈteɪn/",
         "pos": "v.",
-        "cn": "误导；使误解",
-        "ex": "The ad misled the consumers."
+        "cn": "保留；保持",
+        "ex": "She retained her old habits."
       },
       {
-        "w": "incident",
-        "ph": "/ˈɪnsɪdənt/",
-        "pos": "n.",
-        "cn": "事件；事故",
-        "ex": "A minor incident delayed the train."
-      },
-      {
-        "w": "machinery",
-        "ph": "/məˈʃiːnəri/",
-        "pos": "n.",
-        "cn": "机械；机器",
-        "ex": "The factory bought new machinery."
-      },
-      {
-        "w": "advise",
-        "ph": "/ədˈvaɪz/",
+        "w": "prescribe",
+        "ph": "/prɪˈskraɪb/",
         "pos": "v.",
-        "cn": "建议；劝告",
-        "ex": "I advise you to start early."
+        "cn": "开处方；规定",
+        "ex": "The doctor prescribed some medicine."
+      },
+      {
+        "w": "rank",
+        "ph": "/ræŋk/",
+        "pos": "n./v.",
+        "cn": "等级； ranks；列队",
+        "ex": "He ranks among the best."
+      },
+      {
+        "w": "interact",
+        "ph": "/ˌɪntərˈækt/",
+        "pos": "v.",
+        "cn": "相互作用；交流",
+        "ex": "Teachers interact with students."
+      },
+      {
+        "w": "district",
+        "ph": "/ˈdɪstrɪkt/",
+        "pos": "n.",
+        "cn": "区；行政区",
+        "ex": "She lives in the business district."
+      },
+      {
+        "w": "depress",
+        "ph": "/dɪˈpres/",
+        "pos": "v.",
+        "cn": "使沮丧；压下",
+        "ex": "The news depressed the whole team."
       }
     ],
     "quiz": {
-      "q": "The doctor advised him to stop smoking, but he did not take the ______ seriously.",
+      "q": "Her outstanding performance won ______ from both teachers and classmates.",
       "o": [
-        "advice",
-        "advance",
-        "advantage",
-        "adventure"
+        "admiration",
+        "admission",
+        "administration",
+        "ambition"
       ],
       "a": 0,
-      "why": "take the advice 意为“听从建议”。",
-      "level": "CET-4"
+      "why": "win admiration 赢得赞赏；admission 准许进入。",
+      "level": "CET-6"
     },
     "tip": {
-      "tag": "高频词",
-      "text": "易混词：beside(在旁) vs besides(此外)；desert(沙漠/抛弃) vs dessert(甜点)。"
+      "tag": "技巧",
+      "text": "艾宾浩斯复习：学完 1、2、4、7、15、30 天后各复习一次，记忆留存率最高。"
     },
     "listening": {
-      "title": "短对话 3 · 车站",
-      "q": "When does the next train to Beijing leave?",
+      "title": "短对话 4 · 失物",
+      "q": "What is the man looking for?",
       "o": [
-        "At 8:30",
-        "At 9:00",
-        "At 9:30",
-        "At 10:00"
+        "His keys",
+        "His student ID card",
+        "His wallet",
+        "His phone"
       ],
-      "a": 2,
-      "script": "Could you tell me when the next train to Beijing leaves? It leaves at half past nine."
+      "a": 1,
+      "script": "I cannot find my student ID card. Did you check your backpack? It might be inside."
     },
     "sentence": {
-      "en": "They launched a campaign for clean air.",
-      "word": "campaign",
-      "cn": "运动；战役"
+      "en": "The doctor prescribed some medicine.",
+      "word": "prescribe",
+      "cn": "开处方；规定"
     }
   },
   "meta": {

@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-28",
+  "publishAt": "2026-11-28T00:10:00+08:00",
+  "day": 181,
+  "type": "daily-feed",
+  "feed": {
+    "headline": "2026-11-28 · 今日词包 Day 181",
+    "words": [
+      {
+        "w": "recruit",
+        "ph": "/rɪˈkruːt/",
+        "pos": "v./n.",
+        "cn": "招募；新兵",
+        "ex": "The army recruited 100 men."
+      },
+      {
+        "w": "brilliant",
+        "ph": "/ˈbrɪljənt/",
+        "pos": "adj.",
+        "cn": "杰出的；明亮的",
+        "ex": "She gave a brilliant answer."
+      },
+      {
+        "w": "indispensable",
+        "ph": "/ˌɪndɪˈspensəbl/",
+        "pos": "adj.",
+        "cn": "必不可少的",
+        "ex": "Air is indispensable to life."
+      },
+      {
+        "w": "assure",
+        "ph": "/əˈʃʊə/",
+        "pos": "v.",
+        "cn": "保证；使确信",
+        "ex": "He assured me of his support."
+      },
+      {
+        "w": "series",
+        "ph": "/ˈsɪəriːz/",
+        "pos": "n.",
+        "cn": "系列；丛书",
+        "ex": "She wrote a series of books."
+      },
+      {
+        "w": "significant",
+        "ph": "/sɪɡˈnɪfɪkənt/",
+        "pos": "adj.",
+        "cn": "重要的；显著的",
+        "ex": "There was a significant change."
+      }
+    ],
+    "quiz": {
+      "q": "The little boy showed great ______ in music and could play the piano at four.",
+      "o": [
+        "interest",
+        "interesting",
+        "interested",
+        "interests"
+      ],
+      "a": 0,
+      "why": "show interest in… 对……表现出兴趣。interest 为名词。",
+      "level": "CET-4"
+    },
+    "tip": {
+      "tag": "技巧",
+      "text": "背词不孤立：把单词放进例句和搭配里记（如 take measures to do 采取措施）。"
+    },
+    "listening": {
+      "title": "短对话 5 · 天气",
+      "q": "What will the weather be like tomorrow?",
+      "o": [
+        "Sunny",
+        "Rainy",
+        "Cloudy",
+        "Snowy"
+      ],
+      "a": 1,
+      "script": "The weather report says it will rain tomorrow. Then we have to cancel the picnic."
+    },
+    "sentence": {
+      "en": "There was a significant change.",
+      "word": "significant",
+      "cn": "重要的；显著的"
+    }
+  },
+  "meta": {
+    "source": "cet-daily-content",
+    "generatedBy": "github-actions / generate-daily.js",
+    "contentVersion": "1.0.0",
+    "wordPoolSize": 1529
+  }
+}
